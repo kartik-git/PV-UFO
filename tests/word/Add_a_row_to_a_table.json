@@ -1,0 +1,10 @@
+{
+    "task": "Add a row to a table",
+    "object": "Document11.docx",
+    "steps": [
+        "Insert a table in the document if one does not already exist.",
+        "Place the cursor in the last row of the table.",
+        "Insert a new row by right-clicking and selecting 'Insert' from the context menu.",
+        "Choose 'Insert Row Below'"
+    ]
+}

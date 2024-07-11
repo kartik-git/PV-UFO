@@ -1,0 +1,10 @@
+{
+    "task": "Close a document",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'File' tab in the top left corner of the window.",
+        "From the dropdown menu, select 'Close'.",
+        "Alternatively, you can use the keyboard shortcut Ctrl + W to close the document.",
+        "The document will be closed and you will return to the Word application."
+    ]
+}

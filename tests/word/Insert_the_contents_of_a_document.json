@@ -1,0 +1,13 @@
+{
+    "task": "Insert the contents of a document",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'Insert' tab in the ribbon.",
+        "In the 'Text' group, click on the 'Object' button.",
+        "From the drop-down menu, select 'Text from File'.",
+        "Navigate to the location of the document you want to insert.",
+        "Select the document file and click on the 'Insert' button.",
+        "The contents of the selected document will be inserted into your current document."
+    ]
+}

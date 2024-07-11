@@ -1,0 +1,15 @@
+{
+    "name": "Check_spelling_and_grammar_in_a_different_language",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'Review' tab in the ribbon.",
+        "In the 'Proofing' group, click on the 'Spelling & Grammar' button.",
+        "A dialog box will appear. Click on the 'Set Language' button.",
+        "In the 'Language' dialog box, select the desired language from the list.",
+        "Click on the 'OK' button to apply the language settings.",
+        "Click on the 'Spelling & Grammar' button again to start checking the spelling and grammar in the selected language.",
+        "Review and correct any spelling or grammar errors as necessary.",
+        "Once you have finished checking, click on the 'Close' button to close the 'Spelling & Grammar' dialog box."
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "task": "Add a new worksheet",
+    "steps": [
+        "1. On the 'Home' tab, select the down arrow next to Insert",
+        "2. Select 'Insert Sheet'."
+    ],
+    "object": "Book1.xlsx"
+}

@@ -1,0 +1,14 @@
+{
+    "task": "Insert a citation",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Place the cursor at the location where you want to insert the citation.",
+        "Go to the 'References' tab in the Word ribbon.",
+        "Click on the 'Insert Citation' button.",
+        "Select the appropriate citation style from the drop-down menu.",
+        "Enter the details of the citation, such as author name, title, and publication year.",
+        "Click 'OK' to insert the citation into the document.",
+        "Review the inserted citation to ensure it appears correctly."
+    ],
+    "object": "Document11.docx"
+}

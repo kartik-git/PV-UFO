@@ -1,0 +1,19 @@
+{
+    "task": "Create a business plan",
+    "document_name": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'File' tab in the top left corner of the window.",
+        "Select 'New' from the dropdown menu.",
+        "Choose 'Blank Document' to create a new blank document.",
+        "Click on the 'Home' tab in the ribbon at the top of the window.",
+        "Enter the title of your business plan at the top of the document.",
+        "Press 'Enter' to create a new line.",
+        "Start writing the introduction of your business plan.",
+        "Press 'Enter' to create a new line for each section of your business plan.",
+        "Continue writing the sections of your business plan, such as 'Executive Summary', 'Market Analysis', 'Marketing Strategy', 'Financial Projections', etc.",
+        "Save the document by clicking on the 'File' tab and selecting 'Save' or pressing 'Ctrl + S'.",
+        "Choose a location on your computer to save the document and give it a name.",
+        "Click 'Save' to save the document."
+    ]
+}

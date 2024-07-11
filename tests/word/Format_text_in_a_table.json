@@ -1,0 +1,16 @@
+{
+    "task": "Format text in a table",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Navigate to the table where you want to format the text.",
+        "Select the text within the table that you want to format.",
+        "Click on the 'Table Tools' tab in the ribbon.",
+        "In the 'Table Styles' group, click on the 'Borders' button to add or modify table borders.",
+        "In the 'Table Styles' group, click on the 'Shading' button to add or modify table cell shading.",
+        "In the 'Table Styles' group, click on the 'Font' button to change the font style, size, or color of the text.",
+        "In the 'Table Styles' group, click on the 'Alignment' button to align the text within the table cells.",
+        "Repeat steps 3-8 for any other text within the table that you want to format.",
+        "Save the changes to the document."
+    ]
+}

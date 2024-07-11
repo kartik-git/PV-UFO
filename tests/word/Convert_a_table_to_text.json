@@ -1,0 +1,13 @@
+{
+    "task": "Convert a table to text",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document Document11.docx.",
+        "Select the table that you want to convert to text.",
+        "Go to the 'Layout' tab in the ribbon.",
+        "In the 'Data' group, click on the 'Convert to Text' button.",
+        "A dialog box will appear. Choose the desired options for converting the table to text.",
+        "Click 'OK' to convert the table to text.",
+        "The selected table will now be converted to text in the document."
+    ]
+}

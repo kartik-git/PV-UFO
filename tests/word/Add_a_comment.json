@@ -1,0 +1,10 @@
+{
+    "task": "Add a comment",
+    "steps": [
+        "Go to the 'Review' tab in the ribbon.",
+        "Click on the 'New Comment' button.",
+        "Type test in the comment box that appears.",
+        "Click the Post Comment button"
+    ],
+    "object": "Document11.docx"
+}

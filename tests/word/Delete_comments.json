@@ -1,0 +1,11 @@
+{
+    "task": "Delete Comments",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'Review' tab in the ribbon.",
+        "In the 'Comments' group, click on the 'Delete' button.",
+        "Select 'Delete All Comments in Document' from the dropdown menu.",
+        "A confirmation dialog box will appear. Click 'Yes' to delete all comments.",
+        "Save the document to apply the changes."
+    ]
+}

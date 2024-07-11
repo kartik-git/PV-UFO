@@ -1,0 +1,14 @@
+{
+    "task": "Insert a bookmark",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Navigate to the location where you want to insert the bookmark.",
+        "Select the text or object that you want to bookmark.",
+        "Go to the 'Insert' tab in the Word ribbon.",
+        "Click on the 'Bookmark' button in the 'Links' group.",
+        "In the 'Bookmark' dialog box, enter a name for the bookmark.",
+        "Click the 'Add' button to create the bookmark.",
+        "The bookmark is now inserted at the selected location in the document."
+    ],
+    "object": "Document11.docx"
+}

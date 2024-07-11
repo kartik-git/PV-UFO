@@ -1,0 +1,13 @@
+{
+    "task": "Proofing a Document",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'Review' tab in the ribbon.",
+        "In the 'Proofing' group, click on the 'Spelling & Grammar' button.",
+        "Review the spelling and grammar suggestions for the document.",
+        "Make necessary corrections to the spelling and grammar errors.",
+        "Click on the 'Review' tab again to continue with other proofing options.",
+        "Repeat steps 3-6 for other proofing options like 'Thesaurus', 'Translate', etc.",
+        "Once all proofing options are reviewed and corrected, save the document."
+    ]
+}

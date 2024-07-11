@@ -1,0 +1,15 @@
+{
+    "task": "Recover a Document",
+    "steps": [
+        "Open Microsoft Word.",
+        "Click on the 'File' tab in the top left corner.",
+        "Select 'Open' from the dropdown menu.",
+        "Navigate to the location where the document was last saved.",
+        "Select the document file (e.g., Document11.docx) and click 'Open'.",
+        "If prompted, click 'Yes' to recover the document.",
+        "Wait for the document to be recovered.",
+        "Review the recovered document for any changes or errors.",
+        "Save the recovered document to a desired location."
+    ],
+    "object": "Document11.docx"
+}

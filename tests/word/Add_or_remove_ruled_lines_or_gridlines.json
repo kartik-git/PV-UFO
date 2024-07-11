@@ -1,0 +1,19 @@
+{
+    "task": "Add or remove ruled lines or gridlines",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "To add ruled lines, go to the 'Layout' tab in the ribbon.",
+        "Click on the 'Gridlines' button in the 'Page Setup' group.",
+        "Select the type of ruled lines you want to add.",
+        "To remove ruled lines, go to the 'Layout' tab in the ribbon.",
+        "Click on the 'Gridlines' button in the 'Page Setup' group.",
+        "Deselect the type of ruled lines you want to remove.",
+        "To add gridlines, go to the 'Layout' tab in the ribbon.",
+        "Click on the 'Gridlines' button in the 'Page Setup' group.",
+        "Select the 'View Gridlines' option.",
+        "To remove gridlines, go to the 'Layout' tab in the ribbon.",
+        "Click on the 'Gridlines' button in the 'Page Setup' group.",
+        "Deselect the 'View Gridlines' option."
+    ]
+}

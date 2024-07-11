@@ -1,0 +1,13 @@
+{
+    "task": "Find and Replace in Document11.docx",
+    "steps": [
+        "Open Document11.docx in Microsoft Word.",
+        "Click on the 'Home' tab in the ribbon.",
+        "In the 'Editing' group, click on the 'Replace' button.",
+        "In the 'Find and Replace' dialog box, enter the text you want to find in the 'Find what' field.",
+        "Enter the replacement text in the 'Replace with' field.",
+        "Click on the 'Replace All' button to replace all occurrences of the text.",
+        "Review the changes made in the document.",
+        "Save the document."
+    ]
+}

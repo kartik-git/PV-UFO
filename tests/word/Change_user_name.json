@@ -1,0 +1,16 @@
+{
+    "task": "Change User Name",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'File' tab in the top left corner of the window.",
+        "Select 'Options' from the dropdown menu.",
+        "In the Word Options dialog box, click on 'Advanced' in the left sidebar.",
+        "Scroll down to the 'General' section.",
+        "Locate the 'User name' field.",
+        "Modify the value in the 'User name' field to the desired new name.",
+        "Click on the 'OK' button to save the changes.",
+        "Close the Word Options dialog box.",
+        "Verify that the user name has been successfully changed in the document."
+    ]
+}

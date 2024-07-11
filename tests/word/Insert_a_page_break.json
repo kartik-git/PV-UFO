@@ -1,0 +1,11 @@
+{
+    "task": "Insert a page break",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Place the cursor at the location where you want to insert the page break.",
+        "Go to the 'Insert' tab in the Word ribbon.",
+        "Click on the 'Page Break' button in the 'Pages' group.",
+        "A page break will be inserted at the cursor position, creating a new page."
+    ]
+}

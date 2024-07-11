@@ -1,0 +1,13 @@
+{
+    "task": "Edit_a_text_box",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Locate the text box you want to edit.",
+        "Click inside the text box to activate it.",
+        "Make the desired changes to the text in the text box.",
+        "To format the text, select the text and use the formatting options in the toolbar.",
+        "To resize the text box, click and drag the handles on the sides or corners of the box.",
+        "To move the text box, click and drag it to the desired location on the document.",
+        "Save the changes to the document."
+    ]
+}

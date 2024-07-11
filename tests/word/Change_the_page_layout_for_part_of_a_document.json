@@ -1,0 +1,14 @@
+{
+    "task": "Change the page layout for part of a document",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Select the portion of the document for which you want to change the page layout.",
+        "Go to the 'Layout' tab in the ribbon.",
+        "In the 'Page Setup' group, click on the 'Margins' button.",
+        "Choose the desired margin settings from the available options.",
+        "To apply the new page layout to the selected portion of the document, click on the 'Apply to Selected Text' button.",
+        "Review the changes and make any additional adjustments if needed.",
+        "Save the document."
+    ]
+}

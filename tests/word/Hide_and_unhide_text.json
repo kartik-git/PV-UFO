@@ -1,0 +1,15 @@
+{
+    "task": "Hide and Unhide Text",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Select the text that you want to hide.",
+        "Right-click on the selected text and choose 'Font' from the context menu.",
+        "In the 'Font' dialog box, check the 'Hidden' checkbox.",
+        "Click 'OK' to apply the changes and close the dialog box.",
+        "To unhide the text, select the hidden text.",
+        "Right-click on the selected text and choose 'Font' from the context menu.",
+        "In the 'Font' dialog box, uncheck the 'Hidden' checkbox.",
+        "Click 'OK' to apply the changes and close the dialog box."
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "task": "Launch the thesaurus",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'Review' tab in the ribbon.",
+        "In the 'Proofing' section, click on the 'Thesaurus' button.",
+        "A sidebar with the thesaurus options will appear on the right side of the document.",
+        "Enter a word in the search box to find synonyms and related words.",
+        "Click on any of the suggested words to replace the selected word in the document.",
+        "To close the thesaurus, click on the 'X' button in the top-right corner of the sidebar."
+    ]
+}

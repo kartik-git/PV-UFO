@@ -1,0 +1,12 @@
+{
+    "task": "Insert a column break in Document11.docx",
+    "steps": [
+        "Open Document11.docx in Microsoft Word.",
+        "Navigate to the location where you want to insert the column break.",
+        "Click on the 'Layout' tab in the ribbon menu.",
+        "In the 'Page Setup' group, click on the 'Breaks' button.",
+        "From the dropdown menu, select 'Column'.",
+        "A column break will be inserted at the selected location."
+    ],
+    "object": "Document11.docx"
+}

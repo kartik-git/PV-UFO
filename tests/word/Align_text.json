@@ -1,0 +1,14 @@
+{
+    "task": "Align_text",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Select the text that you want to align.",
+        "Go to the 'Home' tab in the ribbon.",
+        "In the 'Paragraph' section, click on the 'Align Left' button to align the text to the left.",
+        "Alternatively, you can click on the 'Align Center' button to align the text to the center, or the 'Align Right' button to align the text to the right.",
+        "To justify the text, click on the 'Justify' button.",
+        "To align the text vertically, click on the 'Align Text' button and choose the desired alignment option.",
+        "Save the changes to the document."
+    ]
+}

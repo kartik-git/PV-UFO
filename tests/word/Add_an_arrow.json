@@ -1,0 +1,8 @@
+{
+    "task": "Add an arrow to Document11.docx",
+    "steps": [
+        "1. On the Insert tab, select Shapes.",
+        "2. 2.Choose an arrow style from Lines and add it to the document"
+    ],
+    "object": "Document11.docx"
+}

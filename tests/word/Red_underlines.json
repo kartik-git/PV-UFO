@@ -1,0 +1,18 @@
+{
+    "task": "Red Underlines",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Navigate to the 'Review' tab in the Word ribbon.",
+        "Click on the 'Track Changes' button to enable track changes mode.",
+        "Make sure that the 'All Markup' option is selected in the 'Display for Review' dropdown.",
+        "In the Word document, select the text or paragraph that you want to add red underlines to.",
+        "Right-click on the selected text and choose 'Font' from the context menu.",
+        "In the 'Font' dialog box, go to the 'Text Effects' tab.",
+        "Under the 'Effects' section, check the 'Underline' checkbox.",
+        "Select the 'Color' dropdown and choose the color red.",
+        "Click 'OK' to apply the red underline to the selected text.",
+        "Repeat steps 5 to 10 for any other text or paragraphs that you want to add red underlines to.",
+        "Once you have finished adding red underlines, save the Word document."
+    ],
+    "object": "Document11.docx"
+}

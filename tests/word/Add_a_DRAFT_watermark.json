@@ -1,0 +1,15 @@
+{
+    "task": "Add a DRAFT watermark",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'Design' tab in the ribbon.",
+        "In the 'Page Background' section, click on 'Watermark'.",
+        "Select 'Custom Watermark' from the dropdown menu.",
+        "In the 'Printed Watermark' dialog box, select 'Text watermark'.",
+        "Enter 'DRAFT' in the 'Text' field.",
+        "Choose the desired font, size, color, and layout for the watermark.",
+        "Adjust the transparency if needed.",
+        "Click 'OK' to apply the watermark to the document."
+    ],
+    "object": "Document11.docx"
+}

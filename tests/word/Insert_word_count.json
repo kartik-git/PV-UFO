@@ -1,0 +1,12 @@
+{
+    "task": "Insert Word Count",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'Insert' tab in the ribbon.",
+        "In the 'Text' section, click on 'Quick Parts'.",
+        "From the drop-down menu, select 'Field'.",
+        "In the 'Field' dialog box, select 'NumWords' from the list of field names.",
+        "Click on 'OK' to insert the Word Count field into the document.",
+        "Save the document."
+    ]
+}

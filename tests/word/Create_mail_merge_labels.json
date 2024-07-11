@@ -1,0 +1,22 @@
+{
+    "task": "Create Mail Merge Labels",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'Mailings' tab in the ribbon.",
+        "In the 'Start Mail Merge' group, click on the 'Start Mail Merge' button.",
+        "Select 'Labels' from the drop-down menu.",
+        "In the 'Label Options' dialog box, choose the label type and size you want to use.",
+        "Click on the 'OK' button to apply the label options.",
+        "In the 'Write & Insert Fields' group, click on the 'Address Block' button.",
+        "In the 'Insert Address Block' dialog box, customize the address block format if needed.",
+        "Click on the 'OK' button to insert the address block.",
+        "In the 'Write & Insert Fields' group, click on the 'Preview Results' button to preview the labels.",
+        "Make any necessary adjustments to the labels if needed.",
+        "Click on the 'Finish & Merge' button in the 'Finish' group.",
+        "Select 'Edit Individual Documents' from the drop-down menu.",
+        "In the 'Merge to New Document' dialog box, choose the options for merging the labels.",
+        "Click on the 'OK' button to merge the labels into a new document.",
+        "Save the merged document with a desired name and location."
+    ],
+    "object": "Document11.docx"
+}

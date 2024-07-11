@@ -1,0 +1,16 @@
+{
+    "task": "Create a macro",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'View' tab in the ribbon.",
+        "In the 'Macros' group, click on the 'Macros' button.",
+        "In the 'Macros' dialog box, click on the 'Create' button.",
+        "In the 'Create Macro' dialog box, enter a name for the macro.",
+        "Click on the 'OK' button to create the macro.",
+        "Write the desired VBA code for the macro.",
+        "Click on the 'Save' button to save the macro.",
+        "Close the 'Macros' dialog box.",
+        "Close the Microsoft Word document."
+    ],
+    "object": "Document11.docx"
+}

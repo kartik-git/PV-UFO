@@ -1,0 +1,17 @@
+{
+    "task": "Insert the path or filename in a header or footer",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'Insert' tab in the ribbon.",
+        "In the 'Header & Footer' section, click on 'Header' or 'Footer', depending on where you want to insert the path or filename.",
+        "From the drop-down menu, select the desired header or footer style.",
+        "Click on the 'Design' tab that appears after selecting the header or footer.",
+        "In the 'Header & Footer' section, click on 'Quick Parts'.",
+        "From the drop-down menu, select 'Field'.",
+        "In the 'Field' dialog box, select 'FileName' from the list of field names.",
+        "Check the 'Add path to filename' option if you want to include the file path.",
+        "Click on the 'OK' button to insert the path or filename in the header or footer.",
+        "Save the document to apply the changes."
+    ],
+    "object": "Document11.docx"
+}

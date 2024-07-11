@@ -1,0 +1,11 @@
+{
+    "task": "Change_page_size",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'Page Layout' tab in the ribbon.",
+        "In the 'Page Setup' group, click on the 'Size' button.",
+        "From the drop-down menu, select the desired page size.",
+        "The page size will be changed to the selected size."
+    ],
+    "object": "Document11.docx"
+}

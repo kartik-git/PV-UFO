@@ -1,0 +1,13 @@
+{
+    "task": "Create and print an envelope",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'Mailings' tab in the ribbon.",
+        "In the 'Create' group, click on the 'Envelopes' button.",
+        "In the 'Envelopes and Labels' dialog box, switch to the 'Envelopes' tab.",
+        "Enter the recipient's address in the 'Delivery address' field.",
+        "Enter your return address in the 'Return address' field.",
+        "Click on the 'Options' button to specify envelope options if needed.",
+        "Click on the 'Print' button to print the envelope."
+    ]
+}

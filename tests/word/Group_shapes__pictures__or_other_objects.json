@@ -1,0 +1,11 @@
+{
+    "task": "Group shapes, pictures, or other objects",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Select the shapes, pictures, or other objects that you want to group.",
+        "Right-click on one of the selected objects and choose 'Group' from the context menu.",
+        "Click on 'Group' again to confirm the grouping.",
+        "The selected objects are now grouped together as a single object."
+    ],
+    "object_name": "Grouped Object"
+}

@@ -1,0 +1,13 @@
+{
+    "task": "Change numbering on the first page",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Navigate to the first page of the document.",
+        "Click on the 'Insert' tab in the Word ribbon.",
+        "In the 'Header & Footer' section, click on 'Page Number' and select 'Format Page Numbers'.",
+        "In the 'Page Number Format' dialog box, select 'Start at' and enter the desired starting number for the first page.",
+        "Click 'OK' to apply the changes.",
+        "Verify that the numbering on the first page has been changed."
+    ],
+    "object": "Document11.docx"
+}

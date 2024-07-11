@@ -1,0 +1,13 @@
+{
+    "task": "Add a background image",
+    "steps": [
+        "Open the document in a word processing software.",
+        "Go to the 'Page Layout' or 'Design' tab.",
+        "Look for the 'Background' or 'Page Background' option.",
+        "Select 'Add Background Image' or similar.",
+        "Choose the image you want to use as the background.",
+        "Adjust the settings, such as position and transparency, if needed.",
+        "Click 'Apply' or 'OK' to set the background image."
+    ],
+    "object": "Document11.docx"
+}

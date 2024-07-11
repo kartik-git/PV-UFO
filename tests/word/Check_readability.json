@@ -1,0 +1,13 @@
+{
+    "task": "Check readability of Document11.docx",
+    "steps": [
+        "Open Microsoft Word.",
+        "Open the document Document11.docx.",
+        "Click on the 'Review' tab in the ribbon.",
+        "Click on the 'Spelling & Grammar' button in the 'Proofing' group.",
+        "Review the spelling and grammar suggestions provided by Word.",
+        "Make necessary changes to improve readability.",
+        "Repeat steps 5 and 6 until you are satisfied with the document's readability.",
+        "Save the changes to the document."
+    ]
+}

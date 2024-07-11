@@ -1,0 +1,12 @@
+{
+    "task": "Add a section break",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Place the cursor where you want to add the section break.",
+        "Go to the 'Layout' tab in the ribbon.",
+        "Click on the 'Breaks' button in the 'Page Setup' group.",
+        "Select 'Next Page' from the drop-down menu.",
+        "A section break will be inserted at the cursor position, creating a new section in the document."
+    ],
+    "object": "Document11.docx"
+}

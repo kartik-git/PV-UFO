@@ -1,0 +1,17 @@
+{
+    "task": "Insert Fraction Symbols",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Navigate to the location where you want to insert the fraction symbols.",
+        "Click on the 'Insert' tab in the Word ribbon.",
+        "In the 'Symbols' group, click on the 'Equation' button.",
+        "From the drop-down menu, select 'Insert New Equation'.",
+        "In the equation editor, click on the 'Fraction' button.",
+        "Choose the type of fraction you want to insert (e.g., stacked fraction, linear fraction).",
+        "Enter the numerator and denominator values for the fraction.",
+        "Click outside the equation editor to exit and return to the Word document.",
+        "Verify that the fraction symbols have been inserted correctly.",
+        "Save the document."
+    ]
+}

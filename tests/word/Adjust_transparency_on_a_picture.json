@@ -1,0 +1,17 @@
+{
+    "task": "Adjust transparency on a picture",
+    "object": "Document11.docx",
+    "steps": [
+        "1. Open the Microsoft Word document called Document11.docx.",
+        "2. Select the picture that you want to adjust the transparency for.",
+        "3. Click on the 'Format' tab in the ribbon at the top of the window.",
+        "4. In the 'Adjust' group, click on the 'Recolor' button.",
+        "5. From the drop-down menu, select 'Set Transparent Color'.",
+        "6. Click on the color in the picture that you want to make transparent.",
+        "7. The selected color will now become transparent in the picture.",
+        "8. Adjust the transparency level using the 'Transparency' slider in the 'Format Picture' pane.",
+        "9. Preview the changes and make further adjustments if needed.",
+        "10. Once you are satisfied with the transparency level, click 'OK' to apply the changes.",
+        "11. Save the document to preserve the adjusted transparency on the picture."
+    ]
+}

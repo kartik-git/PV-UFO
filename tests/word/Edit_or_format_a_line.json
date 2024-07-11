@@ -1,0 +1,18 @@
+{
+    "task": "Edit or format a line",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document Document11.docx.",
+        "Navigate to the line that you want to edit or format.",
+        "Place the cursor at the beginning of the line.",
+        "Press and hold the Shift key on your keyboard.",
+        "Use the right arrow key to select the entire line.",
+        "Release the Shift key.",
+        "Apply the desired formatting options, such as font style, size, or color.",
+        "To edit the line, simply start typing to replace the existing content.",
+        "To delete the line, press the Backspace or Delete key.",
+        "To insert a new line, press the Enter or Return key.",
+        "Repeat steps 3-10 for any additional lines you want to edit or format.",
+        "Save the changes to the document."
+    ]
+}

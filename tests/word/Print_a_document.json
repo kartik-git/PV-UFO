@@ -1,0 +1,15 @@
+{
+    "task": "Print a Document",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word application.",
+        "Click on the 'File' tab in the top left corner.",
+        "Select the 'Print' option from the dropdown menu.",
+        "Choose the desired printer from the list of available printers.",
+        "Specify the number of copies you want to print.",
+        "Select any additional print settings, such as page range or paper size.",
+        "Click on the 'Print' button to start printing the document.",
+        "Wait for the document to be printed.",
+        "Verify that the document has been successfully printed."
+    ]
+}

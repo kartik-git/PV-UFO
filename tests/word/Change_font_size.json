@@ -1,0 +1,13 @@
+{
+    "task": "Change Font Size",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Select the text that you want to change the font size for.",
+        "Go to the 'Home' tab in the ribbon.",
+        "In the 'Font' group, locate the 'Font Size' dropdown menu.",
+        "Click on the dropdown menu to see the available font sizes.",
+        "Choose the desired font size from the dropdown menu.",
+        "The selected text will now have the new font size applied."
+    ]
+}

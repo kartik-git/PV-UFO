@@ -1,0 +1,13 @@
+{
+    "task": "Create a bulleted list",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Place the cursor where you want to create the bulleted list.",
+        "Click on the 'Bulleted List' button in the 'Paragraph' section of the 'Home' tab.",
+        "Type the first item of the bulleted list.",
+        "Press 'Enter' to create a new bullet point and continue typing the next item.",
+        "Repeat the previous step for each item in the list.",
+        "To end the bulleted list, press 'Enter' twice."
+    ],
+    "object": "Document11.docx"
+}

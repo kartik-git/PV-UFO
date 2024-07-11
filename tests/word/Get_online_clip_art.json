@@ -1,0 +1,14 @@
+{
+    "task": "Get online clip art",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'Insert' tab in the ribbon.",
+        "In the 'Illustrations' group, click on the 'Online Pictures' button.",
+        "A dialog box will appear. In the search box, type the keywords for the clip art you want to find.",
+        "Press Enter or click on the 'Search' button.",
+        "Browse through the search results and click on the clip art you want to insert.",
+        "Click on the 'Insert' button to insert the selected clip art into your document.",
+        "Adjust the size and position of the clip art as needed.",
+        "Save the document."
+    ]
+}

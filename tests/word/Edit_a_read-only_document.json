@@ -1,0 +1,26 @@
+{
+    "task": "Edit a read-only document",
+    "steps": [
+        "Open Microsoft Word.",
+        "Click on the 'File' tab in the top left corner.",
+        "Select 'Open' from the dropdown menu.",
+        "Navigate to the location of the read-only document (Document11.docx).",
+        "Select the document and click on the 'Open' button.",
+        "If prompted, enter the password to unlock the document.",
+        "Once the document is open, click on the 'Review' tab in the top menu.",
+        "Click on the 'Protect Document' button in the 'Protect' group.",
+        "Select 'Restrict Editing' from the dropdown menu.",
+        "In the 'Restrict Editing' pane on the right side, check the 'Allow only this type of editing in the document' option.",
+        "Choose 'No changes (Read only)' from the dropdown menu.",
+        "Click on the 'Yes, Start Enforcing Protection' button.",
+        "Enter a password to protect the document (optional).",
+        "Click on the 'OK' button.",
+        "The document is now read-only. To edit the document, you need to remove the protection.",
+        "Click on the 'Review' tab again.",
+        "Click on the 'Protect Document' button.",
+        "Select 'Stop Protection' from the dropdown menu.",
+        "If prompted, enter the password to unlock the document.",
+        "The document is now editable. You can make changes and save the document."
+    ],
+    "object": "Document11.docx"
+}

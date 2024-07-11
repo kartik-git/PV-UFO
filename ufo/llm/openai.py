@@ -7,6 +7,8 @@ from typing import Any, Optional
 import openai
 from openai import AzureOpenAI, OpenAI
 
+from azure.identity import DefaultAzureCredential, get_bearer_token_provider
+
 from ufo.llm.base import BaseService
 
 
@@ -26,6 +28,11 @@ class OpenAIService(BaseService):
         self.api_type = self.config_llm["API_TYPE"].lower()
         self.max_retry = self.config["MAX_RETRY"]
         self.prices = self.config["PRICES"]
+
+        token_provider = get_bearer_token_provider(
+            DefaultAzureCredential(), "https://cognitiveservices.azure.com/.default"
+        )
+
         assert self.api_type in ["openai", "aoai", "azure_ad"], "Invalid API type"
         self.client: OpenAI = (
             OpenAI(
@@ -40,6 +47,7 @@ class OpenAIService(BaseService):
                 timeout=self.config["TIMEOUT"],
                 api_version=self.config_llm["API_VERSION"],
                 azure_endpoint=self.config_llm["API_BASE"],
+                azure_ad_token_provider=token_provider,
                 api_key=(
                     self.config_llm["API_KEY"]
                     if self.api_type == "aoai"

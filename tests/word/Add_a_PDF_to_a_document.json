@@ -1,0 +1,15 @@
+{
+    "task": "Add a PDF to a document",
+    "object": "Document11.docx",
+    "steps": [
+        "1. Open the Microsoft Word document called Document11.docx.",
+        "2. Click on the 'Insert' tab in the ribbon at the top of the window.",
+        "3. In the 'Text' group, click on the 'Object' button.",
+        "4. From the drop-down menu, select 'Object'.",
+        "5. In the 'Object' dialog box, click on the 'Create from File' tab.",
+        "6. Click on the 'Browse' button and locate the PDF file you want to add to the document.",
+        "7. Select the PDF file and click on the 'Insert' button.",
+        "8. The PDF file will be added to the document as an object. You can resize or move the object as needed.",
+        "9. Save the document to apply the changes."
+    ]
+}

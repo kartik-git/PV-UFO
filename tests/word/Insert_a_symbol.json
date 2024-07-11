@@ -1,0 +1,16 @@
+{
+    "task": "Insert a symbol in Document11.docx",
+    "steps": [
+        "Open Document11.docx in Microsoft Word.",
+        "Place the cursor where you want to insert the symbol.",
+        "Go to the 'Insert' tab in the ribbon.",
+        "Click on the 'Symbol' button in the 'Symbols' group.",
+        "A drop-down menu will appear. Select 'More Symbols'.",
+        "The 'Symbol' dialog box will open.",
+        "Choose the desired font from the 'Font' drop-down list.",
+        "Scroll through the list of symbols and click on the one you want to insert.",
+        "Click the 'Insert' button to insert the symbol into the document.",
+        "Close the 'Symbol' dialog box.",
+        "Save the changes to Document11.docx."
+    ]
+}

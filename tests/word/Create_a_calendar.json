@@ -1,0 +1,13 @@
+{
+    "task": "Create a calendar",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'Insert' tab in the ribbon.",
+        "In the 'Text' group, click on the 'Object' button.",
+        "From the drop-down menu, select 'Calendar'.",
+        "A calendar object will be inserted into the document.",
+        "Customize the calendar by selecting the desired options, such as the date range and style.",
+        "Click on the 'File' tab in the ribbon.",
+        "Select 'Save' to save the changes to the document."
+    ]
+}

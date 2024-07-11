@@ -1,0 +1,11 @@
+{
+    "task": "Looking_for_Grammarly_.json",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Navigate to the 'Review' tab in the Word ribbon.",
+        "Click on the 'Spelling & Grammar' button in the 'Proofing' group.",
+        "Review the spelling and grammar suggestions provided by Grammarly.",
+        "Make necessary changes or corrections to the document based on the suggestions.",
+        "Save the changes to the document."
+    ]
+}

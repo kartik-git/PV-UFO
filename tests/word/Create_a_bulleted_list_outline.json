@@ -1,0 +1,13 @@
+{
+    "task": "Create a bulleted list outline",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'Home' tab in the ribbon.",
+        "Place the cursor at the location where you want to create the bulleted list outline.",
+        "Click on the 'Bullets' button in the 'Paragraph' group.",
+        "Type the first item of the bulleted list and press 'Enter' to create a new bullet point.",
+        "Repeat the previous step for each item of the bulleted list.",
+        "To end the bulleted list, press 'Enter' twice."
+    ],
+    "object": "Document11.docx"
+}

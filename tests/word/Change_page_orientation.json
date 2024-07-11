@@ -1,0 +1,11 @@
+{
+    "task": "Change_page_orientation",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'Layout' tab in the ribbon at the top of the window.",
+        "In the 'Page Setup' group, click on the 'Orientation' button.",
+        "Select the desired page orientation from the drop-down menu. Options include 'Portrait' and 'Landscape'.",
+        "Save the changes to the document."
+    ]
+}

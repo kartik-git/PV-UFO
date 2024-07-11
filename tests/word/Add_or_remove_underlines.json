@@ -1,0 +1,12 @@
+{
+    "task": "Add or Remove Underlines",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Select the text that you want to add or remove underlines from.",
+        "To add an underline, click on the 'Underline' button in the 'Font' group on the 'Home' tab.",
+        "To remove an underline, select the text with the underline and click on the 'Underline' button again to toggle it off.",
+        "Repeat steps 2-4 for any additional text that you want to add or remove underlines from.",
+        "Save the changes to the document."
+    ]
+}

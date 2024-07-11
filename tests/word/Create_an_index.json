@@ -1,0 +1,15 @@
+{
+    "task": "Create an index for Document11.docx",
+    "steps": [
+        "Open Document11.docx in Microsoft Word.",
+        "Click on the 'References' tab in the ribbon.",
+        "In the 'Table of Contents' group, click on the 'Table of Contents' button.",
+        "Select the desired style for your index from the available options.",
+        "Place the cursor at the location in the document where you want to insert the index.",
+        "Click on the 'References' tab again and click on the 'Insert Table of Contents' button.",
+        "Customize the settings for the index, such as the number of levels and formatting options.",
+        "Click 'OK' to insert the index into the document.",
+        "Review the index and make any necessary adjustments or formatting changes.",
+        "Save the document."
+    ]
+}

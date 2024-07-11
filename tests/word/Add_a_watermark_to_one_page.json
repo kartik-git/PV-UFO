@@ -1,0 +1,15 @@
+{
+    "task": "Add a watermark to one page",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Navigate to the page where you want to add the watermark.",
+        "Click on the 'Design' tab in the ribbon.",
+        "In the 'Page Background' section, click on the 'Watermark' button.",
+        "Select the desired watermark from the available options or click on 'Custom Watermark' to create a custom one.",
+        "Adjust the watermark settings as needed, such as the font, size, color, and transparency.",
+        "Preview the watermark to ensure it appears as desired.",
+        "Click on the 'Apply' button to add the watermark to the current page.",
+        "Save the document to preserve the changes."
+    ],
+    "object": "Document11.docx"
+}

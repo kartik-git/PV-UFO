@@ -1,0 +1,14 @@
+{
+    "task": "Make an invoice",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'Insert' tab in the ribbon.",
+        "In the 'Text' section, click on 'Object' and select 'Text from File'.",
+        "Browse and select the file containing the invoice template.",
+        "Click on the 'Insert' button.",
+        "Replace the placeholder text in the invoice template with the appropriate details (e.g., customer name, invoice number, items, quantities, prices, etc.).",
+        "Save the document with a suitable name and location.",
+        "Review the invoice for accuracy and make any necessary adjustments.",
+        "Print or export the invoice as needed."
+    ]
+}

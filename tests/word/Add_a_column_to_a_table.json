@@ -1,0 +1,15 @@
+{
+    "task": "Add a column to a table",
+    "steps": [
+        "Open the Microsoft Word document.",
+        "Navigate to the page where the table is located.",
+        "Click inside the table to select it.",
+        "In the Table Tools tab, click on the Layout tab.",
+        "In the Table group, click on the Formula button.",
+        "In the Formula dialog box, enter the name of the new column in the 'Column name' field.",
+        "Specify the data type and other properties for the new column as needed.",
+        "Click on the OK button to add the column to the table.",
+        "Save the document."
+    ],
+    "object": "/c:/Users/kartikmathur/Desktop/UFO_pre_release/QABench/word/Add_a_column_to_a_table.json"
+}

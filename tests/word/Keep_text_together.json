@@ -1,0 +1,13 @@
+{
+    "task": "Keep Text Together",
+    "document": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Go to the 'Layout' tab in the ribbon.",
+        "In the 'Paragraph' section, click on the 'Paragraph Settings' button.",
+        "In the 'Paragraph Settings' dialog box, go to the 'Line and Page Breaks' tab.",
+        "Check the 'Keep lines together' option.",
+        "Click 'OK' to save the changes.",
+        "Verify that the text in the document remains together and does not break across multiple lines."
+    ]
+}

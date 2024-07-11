@@ -1,0 +1,14 @@
+{
+    "task": "Adjust Indents",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Select the text that you want to adjust the indents for.",
+        "Click on the 'Page Layout' tab in the ribbon.",
+        "In the 'Paragraph' group, click on the 'Indent' button.",
+        "From the drop-down menu, select 'Increase Indent' or 'Decrease Indent' to adjust the indents as desired.",
+        "Alternatively, you can use the keyboard shortcuts 'Ctrl+M' to increase indent and 'Ctrl+Shift+M' to decrease indent.",
+        "Review the changes and make any additional adjustments if needed.",
+        "Save the document."
+    ]
+}

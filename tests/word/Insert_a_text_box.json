@@ -1,0 +1,9 @@
+{
+    "task": "Insert a text box",
+    "steps": [
+        "Click on the 'Insert' tab in the ribbon.",
+        "In the 'Text' group, click on the 'Text Box' button.",
+        "A text box will be inserted into the document."
+    ],
+    "object": "text box"
+}

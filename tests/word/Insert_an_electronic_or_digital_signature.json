@@ -1,0 +1,20 @@
+{
+    "task": "Insert an electronic or digital signature",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the location in the document where you want to insert the signature.",
+        "Go to the 'Insert' tab in the Word ribbon.",
+        "In the 'Text' group, click on the 'Signature Line' button.",
+        "A dialog box titled 'Signature Setup' will appear.",
+        "Fill in the necessary information, such as the signer's name and title.",
+        "Check the 'Allow the signer to add comments in the Sign dialog' option if desired.",
+        "Click on the 'OK' button to insert the signature line.",
+        "To add an electronic signature, right-click on the signature line and select 'Sign'.",
+        "Choose the desired digital certificate and click on the 'Sign' button.",
+        "To add a digital signature, click on the 'Select Image' button in the signature line.",
+        "Browse and select the digital signature image file.",
+        "Adjust the size and position of the signature image if needed.",
+        "Click on the 'OK' button to insert the digital signature."
+    ],
+    "object": "Document11.docx"
+}

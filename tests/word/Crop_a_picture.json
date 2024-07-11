@@ -1,0 +1,14 @@
+{
+    "task": "Crop a picture",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Navigate to the page where the picture is located.",
+        "Click on the picture to select it.",
+        "Go to the 'Format' tab in the Word ribbon.",
+        "In the 'Size' group, click on the 'Crop' button.",
+        "Adjust the cropping handles to crop the picture as desired.",
+        "Click outside the picture to apply the cropping changes.",
+        "Save the document."
+    ]
+}

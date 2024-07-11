@@ -1,0 +1,10 @@
+{
+    "task": "Print_in_color",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'File' tab in the top left corner of the window.",
+        "Select the 'Print' option from the menu.",
+        "In the 'Settings' section, choose the printer that supports color printing.",
+        "Click on the 'Print' button to start printing the document in color."
+    ]
+}

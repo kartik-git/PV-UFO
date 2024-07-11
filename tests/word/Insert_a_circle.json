@@ -1,0 +1,11 @@
+{
+    "task": "Insert a circle",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'Insert' tab in the ribbon.",
+        "In the 'Illustrations' group, click on the 'Shapes' button.",
+        "From the drop-down menu, select the 'Oval' shape.",
+        "Click and drag on the document to draw a circle shape."
+    ]
+}

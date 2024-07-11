@@ -1,0 +1,10 @@
+{
+    "task": "Delete",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document Document11.docx.",
+        "Select the text or object that you want to delete.",
+        "Press the Delete key on your keyboard to remove the selected text or object.",
+        "Save the changes to the document."
+    ]
+}

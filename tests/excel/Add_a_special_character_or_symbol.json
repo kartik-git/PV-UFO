@@ -1,0 +1,10 @@
+{
+    "task": "Add a special character or symbol",
+    "steps": [
+        "1. On the Insert tab, select Symbols and choose Symbol.",
+        "2. Select the Special Characters tab.",
+        "3. Select the first special character in the list",
+        "4. Click Insert."
+    ],
+    "object": "Book1.xlsx"
+}

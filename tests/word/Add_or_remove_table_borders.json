@@ -1,0 +1,17 @@
+{
+    "task": "Add or remove table borders",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Navigate to the table where you want to add or remove borders.",
+        "To add borders, select the table by clicking and dragging over it.",
+        "Go to the 'Table Tools' tab in the ribbon.",
+        "Click on the 'Borders' button in the 'Table Styles' group.",
+        "Choose the desired border style from the drop-down menu.",
+        "To remove borders, select the table by clicking and dragging over it.",
+        "Go to the 'Table Tools' tab in the ribbon.",
+        "Click on the 'Borders' button in the 'Table Styles' group.",
+        "Select 'No Border' from the drop-down menu.",
+        "Save the changes to the document."
+    ]
+}

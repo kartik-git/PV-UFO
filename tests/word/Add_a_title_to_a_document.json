@@ -1,0 +1,14 @@
+{
+    "task": "Add a title to a document",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'Insert' tab in the ribbon.",
+        "In the 'Text' group, click on the 'Text Box' button.",
+        "Select the desired text box style for the title.",
+        "Click on the location in the document where you want to add the title.",
+        "Type the desired title text in the text box.",
+        "Format the title text as needed using the options in the 'Home' tab.",
+        "Save the document to apply the changes."
+    ]
+}

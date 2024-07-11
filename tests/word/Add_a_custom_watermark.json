@@ -1,0 +1,13 @@
+{
+    "task": "Add a custom watermark",
+    "steps": [
+        "Go to the 'Design' tab in the ribbon.",
+        "Click on the 'Watermark' button in the 'Page Background' group.",
+        "Select 'Custom Watermark' from the dropdown menu.",
+        "In the 'Printed Watermark' dialog box, choose the 'Picture Watermark' option.",
+        "Click on the 'Select Picture' button and choose the image you want to use as the watermark.",
+        "Adjust the settings for the watermark, such as scale, washout, and alignment.",
+        "Click 'OK' to apply the custom watermark to the document."
+    ],
+    "object": "Microsoft Word document"
+}

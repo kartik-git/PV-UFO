@@ -1,0 +1,16 @@
+{
+    "task": "Change AutoCorrect options in Document11.docx",
+    "steps": [
+        "Open Microsoft Word and load the Document11.docx file.",
+        "Click on the 'File' tab in the top left corner of the window.",
+        "From the dropdown menu, select 'Options'.",
+        "In the Word Options dialog box, click on 'Proofing' in the left sidebar.",
+        "Click on the 'AutoCorrect Options' button.",
+        "In the AutoCorrect dialog box, you will see various tabs for different types of auto-corrections.",
+        "Navigate to the desired tab (e.g., 'AutoFormat As You Type', 'AutoFormat', 'AutoCorrect', etc.) based on the type of auto-correction you want to modify.",
+        "Make the necessary changes to the auto-correction options on the selected tab.",
+        "Click 'OK' to save the changes and close the AutoCorrect dialog box.",
+        "Click 'OK' again to close the Word Options dialog box.",
+        "You have successfully changed the AutoCorrect options in Document11.docx."
+    ]
+}

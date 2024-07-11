@@ -1,0 +1,17 @@
+{
+    "name": "Create_a_flowchart",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'Insert' tab in the ribbon.",
+        "In the 'Illustrations' group, click on 'SmartArt'.",
+        "In the 'Choose a SmartArt Graphic' dialog box, select 'Process' category.",
+        "Choose a flowchart layout that suits your needs and click 'OK'.",
+        "A blank flowchart will be inserted into your document.",
+        "To add shapes to the flowchart, click on the existing shapes and use the 'Add Shape' button in the 'Create Graphic' group.",
+        "To connect the shapes, click on the shape you want to connect from, and then click on the shape you want to connect to.",
+        "To add text to the shapes, simply click inside the shape and start typing.",
+        "Continue adding shapes, connecting them, and adding text until your flowchart is complete.",
+        "Save the document when you're done."
+    ]
+}

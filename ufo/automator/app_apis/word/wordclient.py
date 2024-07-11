@@ -46,6 +46,28 @@ class WordWinCOMReceiver(WinCOMReceiverBasic):
         table.Borders.Enable = True
 
         return table
+    
+    def insert_shape(self, shape_type: int, left: float, top: float, width: float, height: float) -> object:
+        """
+        Insert a shape into the document.
+        :param shape_type: The type of the shape.
+        :param left: The left position of the shape.
+        :param top: The top position of the shape.
+        :param width: The width of the shape.
+        :param height: The height of the shape.
+        :return: The inserted shape.
+        """
+
+        # Get the range at the end of the document
+        end_range = self.com_object.Range()
+        end_range.Collapse(0)  # Collapse the range to the end
+
+        # Insert a paragraph break (optional)
+        end_range.InsertParagraphAfter()
+        shape = self.com_object.Shapes.AddShape(shape_type, left, top, width, height)
+        shape.Fill.Solid()
+
+        return shape
 
     def select_text(self, text: str) -> None:
         """
@@ -103,6 +125,27 @@ class InsertTableCommand(WinCOMCommand):
         The name of the command.
         """
         return "insert_table"
+    
+class InsertShapeCommand(WinCOMCommand):
+    """
+    The command to insert a table.
+    """
+
+    def execute(self):
+        """
+        Execute the command to insert a table.
+        :return: The inserted table.
+        """
+        return self.receiver.insert_shape(
+            self.params.get("shape_type"), self.params.get("left"), self.params.get("top"), self.params.get("width"), self.params.get("height")
+        )
+
+    @classmethod
+    def name(cls) -> str:
+        """
+        The name of the command.
+        """
+        return "insert_shape"
 
 
 @WordWinCOMReceiver.register

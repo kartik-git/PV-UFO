@@ -1,0 +1,13 @@
+{
+    "task": "Create a numbered or bulleted list",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Place the cursor where you want to create the list.",
+        "Click on the 'Home' tab in the ribbon.",
+        "In the 'Paragraph' group, click on the 'Numbering' button to create a numbered list or click on the 'Bullets' button to create a bulleted list.",
+        "Type the first item of the list and press 'Enter' to create the next item.",
+        "Continue typing the items of the list, pressing 'Enter' after each item.",
+        "To end the list, press 'Enter' twice or press 'Backspace' on an empty item."
+    ],
+    "object": "Document11.docx"
+}

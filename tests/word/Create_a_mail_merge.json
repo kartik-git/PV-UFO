@@ -1,0 +1,23 @@
+{
+    "task": "Create a mail merge",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'Mailings' tab in the ribbon.",
+        "In the 'Start Mail Merge' group, click on the 'Start Mail Merge' button.",
+        "Select the 'Letters' option from the drop-down menu.",
+        "Click on the 'Select Recipients' button in the 'Start Mail Merge' group.",
+        "Choose the 'Use an Existing List' option.",
+        "Browse and select the data source file for the mail merge.",
+        "Click on the 'OK' button to confirm the data source selection.",
+        "Place the cursor in the document where you want to insert the mail merge fields.",
+        "Click on the 'Insert Merge Field' button in the 'Write & Insert Fields' group.",
+        "Select the desired fields from the drop-down list.",
+        "Repeat steps 10 and 11 to insert all the necessary merge fields.",
+        "Preview the mail merge by clicking on the 'Preview Results' button in the 'Preview Results' group.",
+        "Review the merged data to ensure it appears correctly.",
+        "Click on the 'Finish & Merge' button in the 'Finish' group.",
+        "Choose the desired option (e.g., 'Edit Individual Documents' or 'Print Documents').",
+        "Follow the prompts to complete the mail merge process."
+    ],
+    "name": "Document11.docx"
+}

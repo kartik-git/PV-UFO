@@ -1,0 +1,12 @@
+{
+    "task": "Insert a table",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Place the cursor where you want to insert the table.",
+        "Go to the 'Insert' tab in the Word ribbon.",
+        "Click on the 'Table' button.",
+        "Select the number of rows and columns for your table.",
+        "The table will be inserted at the cursor position."
+    ]
+}

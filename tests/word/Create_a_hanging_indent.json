@@ -1,0 +1,14 @@
+{
+    "task": "Create a hanging indent",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Select the text that you want to apply the hanging indent to.",
+        "Go to the 'Home' tab in the ribbon.",
+        "In the 'Paragraph' group, click on the 'Paragraph Settings' button.",
+        "In the 'Paragraph Settings' dialog box, go to the 'Indentation' section.",
+        "Under 'Special', select 'Hanging' from the drop-down menu.",
+        "Specify the desired value for the hanging indent in the 'By' field.",
+        "Click 'OK' to apply the hanging indent to the selected text."
+    ],
+    "object": "Document11.docx"
+}

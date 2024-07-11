@@ -1,0 +1,14 @@
+{
+    "task": "Add Page Numbers",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Go to the 'Insert' tab in the ribbon.",
+        "Click on the 'Page Number' button in the 'Header & Footer' section.",
+        "Select the desired location for the page numbers (e.g., top of the page, bottom of the page, etc.).",
+        "Choose the preferred page number format from the available options.",
+        "If necessary, customize the appearance of the page numbers using the 'Format Page Numbers' option.",
+        "Click 'OK' to apply the page numbers to the document.",
+        "Save the document."
+    ],
+    "object": "Document11.docx"
+}

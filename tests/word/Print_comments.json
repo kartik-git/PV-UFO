@@ -1,0 +1,12 @@
+{
+    "task": "Print comments in Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Go to the 'Review' tab in the ribbon.",
+        "In the 'Comments' section, click on 'Print Comments'.",
+        "Choose the desired print settings, such as the printer and number of copies.",
+        "Click on the 'Print' button to start printing the comments.",
+        "Wait for the printing process to complete.",
+        "Verify that the comments are printed correctly."
+    ]
+}

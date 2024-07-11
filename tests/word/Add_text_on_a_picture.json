@@ -1,0 +1,16 @@
+{
+    "task": "Add text on a picture",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Locate the picture where you want to add text.",
+        "Click on the 'Insert' tab in the ribbon.",
+        "In the 'Text' group, click on the 'Text Box' button.",
+        "Choose the desired text box style or select 'Draw Text Box' to create a custom one.",
+        "Click and drag on the picture to create a text box.",
+        "Type the desired text inside the text box.",
+        "Format the text box and the text as needed using the options in the 'Format' tab.",
+        "Adjust the position and size of the text box to fit the picture.",
+        "Save the changes to the document."
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "task": "Print Mailing Labels",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'Mailings' tab in the ribbon.",
+        "In the 'Create' group, click on the 'Labels' button.",
+        "In the 'Envelopes and Labels' dialog box, click on the 'Options' button.",
+        "In the 'Label Options' dialog box, select the desired label type and size.",
+        "Click on the 'OK' button to close the 'Label Options' dialog box.",
+        "In the 'Envelopes and Labels' dialog box, click on the 'New Document' button.",
+        "The mailing labels will be generated in a new Word document.",
+        "Review and make any necessary adjustments to the mailing labels.",
+        "Save and print the mailing labels as needed."
+    ],
+    "object": "Document11.docx"
+}

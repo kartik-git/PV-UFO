@@ -1,0 +1,18 @@
+{
+    "task": "Insert a check mark symbol",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document Document11.docx.",
+        "Place the cursor at the location where you want to insert the check mark symbol.",
+        "Go to the 'Insert' tab in the Word ribbon.",
+        "Click on the 'Symbol' button in the 'Symbols' group.",
+        "A drop-down menu will appear. Select 'More Symbols' from the menu.",
+        "The 'Symbol' dialog box will open.",
+        "In the 'Symbol' dialog box, make sure the 'Symbols' tab is selected.",
+        "Scroll through the list of symbols and locate the check mark symbol.",
+        "Click on the check mark symbol to select it.",
+        "Click on the 'Insert' button.",
+        "The check mark symbol will be inserted at the cursor position in the Word document.",
+        "Close the 'Symbol' dialog box."
+    ]
+}

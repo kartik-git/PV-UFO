@@ -1,0 +1,13 @@
+{
+    "task": "Apply Text Effects",
+    "document": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Select the text that you want to apply text effects to.",
+        "Go to the 'Home' tab in the ribbon.",
+        "In the 'Font' group, click on the 'Text Effects' button.",
+        "A drop-down menu will appear. Choose the desired text effect from the available options.",
+        "The selected text will now have the applied text effect.",
+        "Save the changes to the document."
+    ]
+}

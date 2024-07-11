@@ -1,0 +1,13 @@
+{
+    "task": "Create Labels",
+    "steps": [
+        "Open Microsoft Word document 'Document11.docx'.",
+        "Click on the 'Mailings' tab in the ribbon.",
+        "In the 'Create' group, click on 'Labels'.",
+        "In the 'Labels' dialog box, enter the label information such as the address and font settings.",
+        "Click on the 'Options' button to specify additional label options.",
+        "Click on the 'OK' button to create the labels.",
+        "Save the document with the labels."
+    ],
+    "object": "Document11.docx"
+}

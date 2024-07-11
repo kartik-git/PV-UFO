@@ -1,0 +1,11 @@
+{
+    "task": "Delete a document or file",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the File Explorer.",
+        "Navigate to the location where the document or file is stored.",
+        "Right-click on the document or file.",
+        "Select 'Delete' from the context menu.",
+        "Confirm the deletion when prompted."
+    ]
+}

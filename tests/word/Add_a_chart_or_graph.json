@@ -1,0 +1,16 @@
+{
+    "task": "Add a chart or graph",
+    "steps": [
+        "Open the document in your preferred word processing software.",
+        "Navigate to the location where you want to add the chart or graph.",
+        "Click on the 'Insert' tab in the menu bar.",
+        "Select the 'Chart' or 'Graph' option from the available options.",
+        "Choose the type of chart or graph you want to add.",
+        "Enter or import the data for the chart or graph.",
+        "Customize the appearance and formatting of the chart or graph as desired.",
+        "Click on the 'Insert' or 'OK' button to add the chart or graph to the document.",
+        "Review and adjust the placement and size of the chart or graph if needed.",
+        "Save the document to apply the changes."
+    ],
+    "object": "/c:/Users/kartikmathur/Desktop/UFO_pre_release/QABench/word/Add_a_chart_or_graph.json"
+}

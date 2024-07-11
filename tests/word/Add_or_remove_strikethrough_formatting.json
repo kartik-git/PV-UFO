@@ -1,0 +1,13 @@
+{
+    "task": "Add or remove strikethrough formatting",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Select the text that you want to apply or remove strikethrough formatting from.",
+        "To add strikethrough formatting, go to the 'Home' tab in the ribbon.",
+        "Click on the 'Strikethrough' button in the 'Font' group.",
+        "To remove strikethrough formatting, select the text with strikethrough.",
+        "Go to the 'Home' tab in the ribbon.",
+        "Click on the 'Strikethrough' button again to remove the formatting."
+    ]
+}

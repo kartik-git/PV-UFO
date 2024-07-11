@@ -1,0 +1,18 @@
+{
+    "task": "Edit the dictionary",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'Review' tab in the ribbon.",
+        "In the 'Proofing' group, click on the 'Spelling & Grammar' button.",
+        "The 'Spelling and Grammar' pane will appear on the right side of the document.",
+        "Click on the 'Dictionary' button in the 'Spelling and Grammar' pane.",
+        "The 'Custom Dictionaries' dialog box will open.",
+        "Select the dictionary you want to edit from the list.",
+        "Click on the 'Edit Word List' button.",
+        "The 'Edit Word List' dialog box will open.",
+        "Add, remove, or modify words in the dictionary as needed.",
+        "Click 'OK' to save the changes and close the dialog box.",
+        "Close the 'Spelling and Grammar' pane.",
+        "Save and close the document."
+    ]
+}

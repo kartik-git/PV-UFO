@@ -1,0 +1,15 @@
+{
+    "task": "Check for updates",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'Review' tab in the ribbon.",
+        "In the 'Tracking' group, click on 'Compare' and then select 'Compare' from the dropdown menu.",
+        "In the 'Compare Documents' dialog box, click on the 'More' button.",
+        "Select 'Choose another document' and browse to the location of the document you want to compare with.",
+        "Select the document you want to compare with and click on the 'Open' button.",
+        "In the 'Compare Documents' dialog box, click on the 'OK' button.",
+        "Review the changes highlighted in the compared document.",
+        "Save and close the compared document.",
+        "Close the Microsoft Word document called Document11.docx."
+    ]
+}

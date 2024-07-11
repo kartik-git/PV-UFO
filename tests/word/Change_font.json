@@ -1,0 +1,12 @@
+{
+    "task": "Change Font",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Select the text that you want to change the font for.",
+        "Go to the 'Home' tab in the ribbon.",
+        "In the 'Font' group, click on the 'Font' dropdown menu.",
+        "Choose the desired font from the list.",
+        "The selected text will now be displayed in the chosen font."
+    ]
+}

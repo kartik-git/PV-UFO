@@ -1,0 +1,13 @@
+{
+    "task": "Align_text_vertically",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Select the text that you want to align vertically.",
+        "Go to the 'Layout' tab in the ribbon.",
+        "In the 'Page Setup' group, click on the 'Page Setup' button.",
+        "In the 'Page Setup' dialog box, go to the 'Layout' tab.",
+        "Under the 'Page' section, select 'Vertical' from the 'Text direction' dropdown menu.",
+        "Click on the 'OK' button to apply the changes.",
+        "The selected text will now be aligned vertically in the Microsoft Word document."
+    ]
+}

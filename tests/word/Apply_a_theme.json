@@ -1,0 +1,12 @@
+{
+    "task": "Apply a theme to Document11.docx",
+    "steps": [
+        "Open Document11.docx in Microsoft Word.",
+        "Click on the 'Design' tab in the ribbon.",
+        "In the 'Themes' group, click on the 'More' button (represented by an arrow pointing downwards).",
+        "A drop-down menu will appear. Select a theme from the list by clicking on it.",
+        "The selected theme will be applied to the document.",
+        "Save the changes to Document11.docx."
+    ],
+    "object": "Document11.docx"
+}

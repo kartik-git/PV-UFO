@@ -1,0 +1,22 @@
+{
+    "task": "Edit or format a picture",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document Document11.docx.",
+        "Navigate to the location in the document where the picture is located.",
+        "Click on the picture to select it.",
+        "On the Ribbon, go to the 'Format' tab.",
+        "In the 'Adjust' group, click on the 'Picture Corrections' button.",
+        "Adjust the picture corrections as desired.",
+        "In the 'Adjust' group, click on the 'Picture Color' button.",
+        "Modify the picture color settings as needed.",
+        "In the 'Size' group, click on the 'Crop' button.",
+        "Crop the picture if necessary.",
+        "In the 'Size' group, click on the 'Rotate' button.",
+        "Rotate the picture if required.",
+        "In the 'Arrange' group, click on the 'Bring Forward' or 'Send Backward' button to change the picture's layering order.",
+        "In the 'Arrange' group, click on the 'Align' button to align the picture with other objects.",
+        "In the 'Arrange' group, click on the 'Group' button to group the picture with other objects if needed.",
+        "Save the changes to the document."
+    ]
+}

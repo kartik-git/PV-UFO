@@ -1,0 +1,12 @@
+{
+    "task": "Change Margins",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Go to the 'Layout' tab in the ribbon.",
+        "In the 'Page Setup' group, click on the 'Margins' button.",
+        "Select the desired margin option from the drop-down menu or click on 'Custom Margins' to set custom margins.",
+        "Click 'OK' to apply the changes.",
+        "Verify that the margins of the document have been successfully changed."
+    ]
+}

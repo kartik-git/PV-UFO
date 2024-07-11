@@ -1,0 +1,17 @@
+{
+    "task": "Customize the Quick Access Toolbar",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'File' tab in the top left corner of the window.",
+        "In the left sidebar, click on 'Options'.",
+        "In the Word Options dialog box, select 'Quick Access Toolbar' from the left sidebar.",
+        "In the 'Choose commands from' dropdown menu, select 'All Commands'.",
+        "Scroll down and select the command you want to add to the Quick Access Toolbar.",
+        "Click on the 'Add' button in the middle of the dialog box.",
+        "The selected command will be added to the list on the right side.",
+        "To change the order of the commands, select a command in the list and use the 'Up' and 'Down' buttons.",
+        "To remove a command from the Quick Access Toolbar, select the command in the list and click on the 'Remove' button.",
+        "Click on the 'OK' button to save the changes and close the Word Options dialog box."
+    ],
+    "name": "Document11.docx"
+}

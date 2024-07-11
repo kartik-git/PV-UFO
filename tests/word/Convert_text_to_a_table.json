@@ -1,0 +1,13 @@
+{
+    "task": "Convert_text_to_a_table",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Select the text that you want to convert into a table.",
+        "Go to the 'Insert' tab in the Word ribbon.",
+        "Click on the 'Table' button.",
+        "Choose 'Convert Text to Table' from the dropdown menu.",
+        "In the 'Convert Text to Table' dialog box, specify the number of columns and other options as needed.",
+        "Click 'OK' to convert the selected text into a table."
+    ]
+}

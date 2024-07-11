@@ -1,0 +1,13 @@
+{
+    "task": "Edit or format a shape",
+    "document": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Select the shape that you want to edit or format.",
+        "To edit the shape, right-click on it and choose 'Edit Shape' from the context menu.",
+        "To format the shape, right-click on it and choose 'Format Shape' from the context menu.",
+        "Follow the on-screen instructions to make the desired changes to the shape.",
+        "Click 'Save' to apply the changes to the shape.",
+        "Close the Microsoft Word document."
+    ]
+}

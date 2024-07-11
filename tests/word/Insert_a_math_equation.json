@@ -1,0 +1,13 @@
+{
+    "task": "Insert a math equation",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the location in the document where you want to insert the math equation.",
+        "Go to the 'Insert' tab in the Word ribbon.",
+        "Click on the 'Equation' button in the 'Symbols' group.",
+        "Choose the type of math equation you want to insert, such as 'Linear', 'Quadratic', or 'Fraction'.",
+        "Enter the equation in the equation editor.",
+        "Click outside the equation editor to finalize the insertion of the math equation."
+    ]
+}

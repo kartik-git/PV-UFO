@@ -1,0 +1,11 @@
+{
+    "task": "Apply a style to the current file",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Select the text or paragraph that you want to apply a style to.",
+        "On the Home tab, in the Styles group, click the More button (the arrow at the bottom right corner of the Styles group) to open the Styles pane.",
+        "In the Styles pane, scroll through the list of styles and click on the style that you want to apply.",
+        "The selected text or paragraph will now be formatted according to the chosen style."
+    ],
+    "object": "Document11.docx"
+}

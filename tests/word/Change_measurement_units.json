@@ -1,0 +1,13 @@
+{
+    "task": "Change Measurement Units",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'File' tab in the top left corner of the window.",
+        "Select 'Options' from the dropdown menu.",
+        "In the Word Options dialog box, click on the 'Advanced' tab.",
+        "Scroll down to the 'Display' section.",
+        "Under the 'Show measurements in units of' dropdown, select the desired measurement unit (e.g., inches, centimeters, points, etc.).",
+        "Click 'OK' to save the changes.",
+        "Verify that the measurement units in the document have been updated."
+    ]
+}

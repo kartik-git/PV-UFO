@@ -1,0 +1,10 @@
+{
+    "task": "Create an email signature",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'Insert' tab in the ribbon.",
+        "In the 'Text' group, click on the 'Signature Line' button.",
+        "In the 'Signature Setup' dialog box, enter the name of the object as 'Email Signature'.",
+        "Click on the 'OK' button to create the email signature."
+    ]
+}

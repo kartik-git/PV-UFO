@@ -1,0 +1,16 @@
+{
+    "task": "Insert Special Characters in Document11.docx",
+    "steps": [
+        "Open Document11.docx in Microsoft Word.",
+        "Place the cursor at the location where you want to insert a special character.",
+        "Go to the 'Insert' tab in the ribbon.",
+        "Click on the 'Symbol' button in the 'Symbols' group.",
+        "A drop-down menu will appear. Select 'More Symbols' from the menu.",
+        "The 'Symbol' dialog box will open.",
+        "In the 'Symbol' dialog box, choose the desired font from the 'Font' drop-down list.",
+        "Scroll through the list of available symbols and click on the one you want to insert.",
+        "Click the 'Insert' button to insert the selected symbol into the document.",
+        "Repeat steps 4-9 for each additional special character you want to insert.",
+        "Once you have inserted all the desired special characters, save the document."
+    ]
+}

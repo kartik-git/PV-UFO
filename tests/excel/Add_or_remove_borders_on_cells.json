@@ -1,0 +1,9 @@
+{
+    "task": "Add borders on cells",
+    "steps": [
+        "1. On the Home tab, select Borders,",
+        "2. Select All borders",
+        "3. Select Draw Border and drag the cursor to add borders"
+    ],
+    "object": "Book1.xlsx"
+}

@@ -1,0 +1,15 @@
+{
+    "task": "Find and use templates",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'File' tab in the top left corner of the window.",
+        "Select 'New' from the dropdown menu.",
+        "In the 'Search for online templates' box, type in the name of the template you want to find and use.",
+        "Press Enter or click on the magnifying glass icon to search for the template.",
+        "Browse through the search results and click on the template you want to use.",
+        "Click on the 'Create' button to open the template in a new Word document.",
+        "Modify the template as needed for your specific requirements.",
+        "Save the modified template with a new name or overwrite the existing template if desired."
+    ],
+    "name": "Find_and_use_templates"
+}

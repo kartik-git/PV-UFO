@@ -1,0 +1,12 @@
+{
+    "task": "Change Font Color",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Select the text that you want to change the font color of.",
+        "Go to the 'Home' tab in the ribbon.",
+        "In the 'Font' group, click on the 'Font Color' button.",
+        "Choose the desired font color from the color palette or click on 'More Colors' to select a custom color.",
+        "The font color of the selected text will be changed accordingly."
+    ]
+}

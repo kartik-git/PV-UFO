@@ -1,0 +1,17 @@
+{
+    "task": "Create an organizational chart",
+    "steps": [
+        "Open Microsoft Word document called Document11.docx.",
+        "Click on the 'Insert' tab in the ribbon.",
+        "In the 'Illustrations' group, click on 'SmartArt'.",
+        "In the 'Choose a SmartArt Graphic' dialog box, select 'Hierarchy' category.",
+        "Choose the desired organizational chart layout and click 'OK'.",
+        "A blank organizational chart will be inserted into the document.",
+        "Click on each shape in the chart to add names and titles.",
+        "To add more shapes, click on the 'Add Shape' button in the SmartArt Tools Design tab.",
+        "To remove a shape, select the shape and press the 'Delete' key.",
+        "Customize the chart appearance using the options in the SmartArt Tools Design and Format tabs.",
+        "Save the document."
+    ],
+    "object_name": "Create_an_organizational_chart.json"
+}

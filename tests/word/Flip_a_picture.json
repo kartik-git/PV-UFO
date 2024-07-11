@@ -1,0 +1,11 @@
+{
+    "task": "Flip a picture",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the picture you want to flip.",
+        "Go to the 'Format' tab in the Word ribbon.",
+        "In the 'Arrange' group, click on the 'Rotate' button.",
+        "Select 'Flip Horizontal' or 'Flip Vertical' from the drop-down menu, depending on your desired flip direction.",
+        "The picture will be flipped accordingly."
+    ]
+}

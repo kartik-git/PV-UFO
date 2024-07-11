@@ -1,0 +1,12 @@
+{
+    "task": "Display or hide line numbers",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'Layout' tab in the ribbon.",
+        "In the 'Page Setup' group, click on 'Line Numbers'.",
+        "Select 'Continuous' or 'Restart Each Page' to specify how line numbers should be displayed.",
+        "To hide line numbers, select 'None'.",
+        "To display line numbers, select 'Line numbering options' and specify the desired settings.",
+        "Click 'OK' to apply the changes."
+    ]
+}

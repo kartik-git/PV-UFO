@@ -1,0 +1,11 @@
+{
+    "task": "Print_without_comments",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'File' tab in the top left corner of the window.",
+        "Select the 'Print' option from the menu.",
+        "In the Print dialog box, choose the desired printer from the list.",
+        "Specify any additional print settings, such as the number of copies or page range.",
+        "Click on the 'Print' button to start printing the document without comments."
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "task": "Center Text in Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Select the text that you want to center.",
+        "Click on the 'Home' tab in the ribbon.",
+        "In the 'Paragraph' section, click on the 'Center' alignment button.",
+        "The selected text will now be centered in the document."
+    ]
+}

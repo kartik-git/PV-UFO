@@ -1,0 +1,13 @@
+{
+    "task": "Character_count",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'Review' tab in the ribbon.",
+        "In the 'Tracking' group, click on 'Reviewing Pane'.",
+        "In the Reviewing Pane, click on 'Show All Revisions Inline'.",
+        "Scroll through the document and review all the changes made.",
+        "Count the number of characters in the document, including spaces and punctuation marks.",
+        "Record the character count in a separate document or note it down for reference."
+    ],
+    "object": "Document11.docx"
+}

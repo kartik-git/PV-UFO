@@ -1,0 +1,12 @@
+{
+    "task": "Delete a column from a table",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Navigate to the table from which you want to delete a column.",
+        "Click anywhere inside the column you want to delete.",
+        "Right-click and select 'Delete Columns' from the context menu.",
+        "Confirm the deletion by clicking 'Yes' in the confirmation dialog box.",
+        "Save the changes to the document."
+    ],
+    "object": "Document11.docx"
+}

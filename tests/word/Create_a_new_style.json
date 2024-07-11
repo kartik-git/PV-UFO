@@ -1,0 +1,14 @@
+{
+    "task": "Create a new style",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'Home' tab in the ribbon.",
+        "In the 'Styles' group, click on the 'Styles Pane' button.",
+        "In the 'Styles Pane', click on the 'New Style' button.",
+        "In the 'Create New Style from Formatting' dialog box, enter a name for the new style.",
+        "Customize the formatting options for the new style as desired.",
+        "Click on the 'OK' button to create the new style.",
+        "Verify that the new style has been added to the 'Styles' pane."
+    ],
+    "object": "Document11.docx"
+}

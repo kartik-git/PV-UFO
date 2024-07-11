@@ -1,0 +1,15 @@
+{
+    "task": "Convert_endnotes_to_footnotes",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'References' tab in the ribbon.",
+        "In the 'Footnotes' group, click on the 'Show Notes' dropdown button.",
+        "Select 'Endnotes' from the dropdown menu.",
+        "All the endnotes in the document will be displayed at the end of the document.",
+        "Click on the first endnote reference in the document.",
+        "Press 'Ctrl+Shift+F5' on your keyboard to convert the endnote to a footnote.",
+        "Repeat steps 6 and 7 for each endnote in the document.",
+        "Save the document to apply the changes."
+    ]
+}

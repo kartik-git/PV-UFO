@@ -1,0 +1,13 @@
+{
+    "task": "Modify Copy_and_paste.json",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Locate the file Copy_and_paste.json on your computer.",
+        "Open the Copy_and_paste.json file using a text editor.",
+        "Find the empty object in the JSON file.",
+        "Add the necessary properties and values to the object.",
+        "Save the changes to the Copy_and_paste.json file.",
+        "Close the text editor."
+    ]
+}

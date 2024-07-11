@@ -1,0 +1,14 @@
+{
+    "task": "Insert_superscript_text",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Navigate to the location where you want to insert the superscript text.",
+        "Click on the 'Insert' tab in the Word ribbon.",
+        "In the 'Text' group, click on the 'Superscript' button.",
+        "Type the desired superscript text.",
+        "Press the 'Enter' key to move to the next line.",
+        "Continue typing the rest of your document as needed.",
+        "Save the document when you're done."
+    ],
+    "object": "Document11.docx"
+}

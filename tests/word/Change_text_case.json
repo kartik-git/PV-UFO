@@ -1,0 +1,13 @@
+{
+    "task": "Change Text Case in Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Select the text that you want to change the case of.",
+        "Go to the 'Home' tab in the ribbon.",
+        "In the 'Font' group, click on the 'Change Case' button.",
+        "A drop-down menu will appear with different options for changing the case of the selected text.",
+        "Choose the desired case option from the drop-down menu (e.g., 'UPPERCASE', 'lowercase', 'Title Case', etc.).",
+        "The selected text will now be changed to the chosen case.",
+        "Save the changes to the document."
+    ]
+}

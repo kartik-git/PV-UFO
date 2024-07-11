@@ -1,0 +1,13 @@
+{
+    "task": "Automatically correct spelling in Document11.docx",
+    "steps": [
+        "Open Document11.docx in Microsoft Word.",
+        "Click on the 'Review' tab in the ribbon.",
+        "In the 'Proofing' group, click on the 'Spelling & Grammar' button.",
+        "Word will start checking the spelling and grammar in the document.",
+        "If any spelling mistakes are found, Word will suggest corrections.",
+        "Review the suggested corrections and click on the 'Change' button to automatically correct the spelling.",
+        "Repeat the above step for all the spelling mistakes in the document.",
+        "Once all the spelling mistakes are corrected, save the document."
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Add_a_checklist",
+    "steps": [
+        "Open the document in the word processing application.",
+        "Navigate to the location where you want to add the checklist.",
+        "Click on the 'Insert' tab in the application's toolbar.",
+        "Select the 'Checklist' option from the 'Text' group.",
+        "A checklist will be inserted at the cursor position.",
+        "Enter the checklist items one by one.",
+        "Press Enter after each item to create a new checklist item.",
+        "Continue adding items until the checklist is complete.",
+        "Save the document to apply the changes."
+    ]
+}

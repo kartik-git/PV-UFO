@@ -1,0 +1,10 @@
+{
+    "task": "Adjust column width",
+    "steps": [
+        "1. Choose the column you want to adjust by clicking on the column letter A at the top of the sheet.",
+        "2. Go to the Home tab and select Format. Enter the desired width and click OK.",
+        "3. Choose Column Width",
+        "4. Enter the width as 1 and click OK."
+    ],
+    "object": "Book1.xlsx"
+}

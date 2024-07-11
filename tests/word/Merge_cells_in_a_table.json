@@ -1,0 +1,10 @@
+{
+    "task": "Merge cells in a table",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Navigate to the table where you want to merge cells.",
+        "Select the cells that you want to merge. You can select multiple cells by clicking and dragging the mouse cursor over them.",
+        "Right-click on the selected cells and choose 'Merge Cells' from the context menu.",
+        "The selected cells will be merged into a single cell."
+    ]
+}

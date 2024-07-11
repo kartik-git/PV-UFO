@@ -1,0 +1,14 @@
+{
+    "task": "Find a word in Document11.docx",
+    "steps": [
+        "Open Document11.docx in Microsoft Word.",
+        "Click on the 'Home' tab in the ribbon.",
+        "In the 'Editing' group, click on the 'Find' button.",
+        "In the 'Find and Replace' dialog box, enter the word you want to find in the 'Find what' field.",
+        "Click on the 'Find Next' button to search for the word.",
+        "If the word is found, it will be highlighted in the document. You can click on 'Find Next' again to find the next occurrence of the word.",
+        "If the word is not found, a message will be displayed indicating that the word was not found.",
+        "Close the 'Find and Replace' dialog box.",
+        "Close Document11.docx."
+    ]
+}

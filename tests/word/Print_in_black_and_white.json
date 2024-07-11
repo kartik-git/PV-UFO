@@ -1,0 +1,15 @@
+{
+    "task": "Print in black and white",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Go to the 'File' menu.",
+        "Select 'Print' from the menu options.",
+        "In the print settings, choose the printer you want to use.",
+        "Click on the 'Properties' or 'Printer Properties' button.",
+        "Navigate to the 'Color' or 'Color Options' section.",
+        "Select the 'Black and White' or 'Grayscale' option.",
+        "Adjust any other print settings as needed.",
+        "Click on the 'Print' button to start printing the document in black and white."
+    ]
+}

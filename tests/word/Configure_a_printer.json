@@ -1,0 +1,11 @@
+{
+    "task": "Configure a printer",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'File' tab in the top left corner of the window.",
+        "Select 'Print' from the options on the left-hand side.",
+        "Choose the desired printer from the list of available printers.",
+        "Adjust any additional print settings, such as the number of copies or page range.",
+        "Click on the 'Print' button to start printing the document."
+    ]
+}

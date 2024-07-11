@@ -1,0 +1,12 @@
+{
+    "task": "Create columns in Document11.docx",
+    "steps": [
+        "Open Document11.docx in Microsoft Word.",
+        "Click on the 'Layout' tab in the ribbon.",
+        "In the 'Page Setup' section, click on the 'Columns' button.",
+        "Select the number of columns you want to create.",
+        "Choose any additional options for the columns, such as column width or spacing.",
+        "Click 'OK' to apply the changes and create the columns."
+    ],
+    "object": "Document11.docx"
+}

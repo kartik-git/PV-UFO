@@ -1,0 +1,19 @@
+{
+    "task": "Customize the ribbon",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'File' tab in the top left corner of the window.",
+        "Select 'Options' from the dropdown menu.",
+        "In the Word Options dialog box, click on the 'Customize Ribbon' tab.",
+        "On the right side of the dialog box, under 'Customize the Ribbon', you will see a list of available tabs and groups.",
+        "To add a new tab, click on the 'New Tab' button.",
+        "To add a new group within a tab, select the tab from the list and click on the 'New Group' button.",
+        "To add a command to a group, select the group and click on the 'New Command' button.",
+        "In the 'Choose commands from' dropdown menu, select the category of commands you want to add.",
+        "Select the command you want to add and click on the 'Add' button.",
+        "To remove a command, select it from the list on the right side and click on the 'Remove' button.",
+        "To rearrange the order of tabs, groups, or commands, use the 'Up' and 'Down' buttons.",
+        "Click on the 'OK' button to save your changes and close the Word Options dialog box."
+    ],
+    "object": "Document11.docx"
+}

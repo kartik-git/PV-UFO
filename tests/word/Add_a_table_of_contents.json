@@ -1,0 +1,11 @@
+{
+    "task": "Add a table of contents",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'References' tab in the ribbon.",
+        "In the 'Table of Contents' group, click on the 'Table of Contents' button.",
+        "Select the desired table of contents style from the available options.",
+        "The table of contents will be inserted at the current cursor position in the document."
+    ],
+    "object": "Document11.docx"
+}

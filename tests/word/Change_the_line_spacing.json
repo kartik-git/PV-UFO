@@ -1,0 +1,12 @@
+{
+    "task": "Change the line spacing",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Select the text that you want to change the line spacing for.",
+        "Go to the 'Home' tab in the ribbon.",
+        "In the 'Paragraph' group, click on the 'Line and Paragraph Spacing' button.",
+        "A drop-down menu will appear. Select the desired line spacing option from the list.",
+        "The line spacing of the selected text will be changed accordingly."
+    ]
+}

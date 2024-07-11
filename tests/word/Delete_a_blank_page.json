@@ -1,0 +1,11 @@
+{
+    "task": "Delete a blank page",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document Document11.docx.",
+        "Scroll to the page that you want to delete.",
+        "Place the cursor at the beginning of the page.",
+        "Press the 'Backspace' key on your keyboard to delete the page.",
+        "Save the document to apply the changes."
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "task": "Create a booklet or book",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'Layout' tab in the ribbon.",
+        "In the 'Page Setup' group, click on the 'Margins' button.",
+        "Select 'Book fold' from the drop-down menu.",
+        "Adjust the 'Sheets per booklet' option if needed.",
+        "Click on the 'Orientation' button and select the desired orientation for the booklet.",
+        "Click on the 'Size' button and select the desired paper size for the booklet.",
+        "Click on the 'Columns' button and select the desired number of columns for the booklet.",
+        "Click on the 'OK' button to apply the changes and close the 'Page Setup' dialog box.",
+        "Review the document to ensure that the content is properly formatted for the booklet.",
+        "Save the document."
+    ]
+}

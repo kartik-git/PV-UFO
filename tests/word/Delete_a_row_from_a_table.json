@@ -1,0 +1,14 @@
+{
+    "task": "Delete a row from a table",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document Document11.docx.",
+        "Navigate to the table from which you want to delete a row.",
+        "Place the cursor in any cell of the row you want to delete.",
+        "Right-click on the row to open the context menu.",
+        "Select the 'Delete Rows' option from the context menu.",
+        "Choose whether you want to delete the entire row or just the contents of the cells.",
+        "Click 'OK' to confirm the deletion of the row.",
+        "Verify that the row has been successfully deleted from the table."
+    ]
+}

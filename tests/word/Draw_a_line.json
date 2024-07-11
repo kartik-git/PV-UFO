@@ -1,0 +1,14 @@
+{
+    "task": "Draw a line",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'Insert' tab in the ribbon.",
+        "In the 'Illustrations' group, click on the 'Shapes' button.",
+        "From the drop-down menu, select the 'Line' shape.",
+        "Click and drag on the document to draw a line.",
+        "Release the mouse button to finalize the line.",
+        "Adjust the line properties, such as color, thickness, and style, using the options in the 'Format' tab.",
+        "Save the changes to the document."
+    ]
+}

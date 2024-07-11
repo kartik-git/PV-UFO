@@ -1,0 +1,13 @@
+{
+    "task": "Read_text_aloud",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Navigate to the 'Review' tab in the ribbon.",
+        "Click on the 'Track Changes' button to enable change tracking.",
+        "Go to the 'View' tab in the ribbon.",
+        "Click on the 'Read Aloud' button in the 'Immersive Reader' section.",
+        "The text in the document will be read aloud.",
+        "To stop the reading, click on the 'Stop' button in the 'Read Aloud' toolbar."
+    ]
+}

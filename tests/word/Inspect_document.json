@@ -1,0 +1,16 @@
+{
+    "task": "Inspect Document",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'Review' tab in the ribbon.",
+        "In the 'Tracking' group, click on the 'Track Changes' button to enable track changes mode.",
+        "Review the document and make any necessary changes or edits.",
+        "Click on the 'Review' tab again.",
+        "In the 'Tracking' group, click on the 'Inspect Document' button.",
+        "A dialog box will appear. Click on the 'Inspect' button.",
+        "Wait for the inspection process to complete.",
+        "Review the inspection results and make any necessary changes or edits.",
+        "Save the document."
+    ]
+}

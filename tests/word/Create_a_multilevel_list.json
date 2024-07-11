@@ -1,0 +1,15 @@
+{
+    "task": "Create a multilevel list",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'Home' tab in the ribbon.",
+        "In the 'Paragraph' section, click on the 'Multilevel List' button.",
+        "Select the desired multilevel list format from the dropdown menu.",
+        "Type the name of the object you want to create a multilevel list for.",
+        "Press Enter to create a new line.",
+        "Press Tab to indent the line and create a sub-level in the list.",
+        "Repeat steps 6 and 7 to add more levels to the list if needed.",
+        "Continue typing the steps or content for each level of the list.",
+        "Press Enter twice to exit the multilevel list and continue with normal paragraph formatting."
+    ]
+}

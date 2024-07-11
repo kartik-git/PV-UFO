@@ -1,0 +1,14 @@
+{
+    "task": "Convert a file type",
+    "object": "Document11.docx",
+    "steps": [
+        "1. Open the Microsoft Word document called Document11.docx.",
+        "2. Click on the 'File' tab in the top left corner of the window.",
+        "3. Select the 'Save As' option from the dropdown menu.",
+        "4. In the 'Save As' dialog box, choose the desired file format from the 'Save as type' dropdown menu.",
+        "5. Specify the destination folder where you want to save the converted file.",
+        "6. Enter a new name for the converted file in the 'File name' field.",
+        "7. Click the 'Save' button to convert and save the file in the selected format.",
+        "8. Verify that the file has been successfully converted by checking the saved file in the destination folder."
+    ]
+}

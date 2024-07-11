@@ -1,0 +1,13 @@
+{
+    "task": "Add a header to Document11.docx",
+    "steps": [
+        "Open Document11.docx in Microsoft Word.",
+        "Click on the 'Insert' tab in the ribbon.",
+        "In the 'Header & Footer' section, click on 'Header'.",
+        "Choose a header style from the available options or click on 'Edit Header' to create a custom header.",
+        "Enter the desired content for the header, such as text, images, or page numbers.",
+        "Customize the header by adjusting the font, size, alignment, and other formatting options.",
+        "Click outside the header area to apply the changes to the document.",
+        "Save the document to preserve the header for future use."
+    ]
+}

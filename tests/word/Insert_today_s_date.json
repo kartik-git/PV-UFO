@@ -1,0 +1,12 @@
+{
+    "task": "Insert today's date in Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Place the cursor at the desired location where you want to insert the date.",
+        "Go to the 'Insert' tab in the Word ribbon.",
+        "Click on the 'Date & Time' button in the 'Text' group.",
+        "In the 'Date and Time' dialog box, select the desired date format from the available options.",
+        "Check the 'Update automatically' checkbox if you want the date to be automatically updated every time the document is opened.",
+        "Click the 'OK' button to insert the date at the cursor position."
+    ]
+}

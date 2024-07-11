@@ -1,0 +1,14 @@
+{
+    "task": "Insert_fields",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'Insert' tab in the ribbon.",
+        "In the 'Text' group, click on the 'Quick Parts' button.",
+        "From the drop-down menu, select 'Field'.",
+        "In the 'Field' dialog box, choose the desired field type and options.",
+        "Click on the 'OK' button to insert the field into the document.",
+        "Repeat steps 4-6 for each field you want to insert.",
+        "Save the document."
+    ],
+    "object_name": "Document11.docx"
+}

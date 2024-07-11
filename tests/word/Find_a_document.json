@@ -1,0 +1,12 @@
+{
+    "task": "Find a document",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'File' tab in the top left corner of the window.",
+        "Select 'Open' from the dropdown menu.",
+        "In the 'Open' dialog box, navigate to the location where the document is stored.",
+        "Select the document you want to find.",
+        "Click on the 'Open' button.",
+        "The selected document will now be opened in Microsoft Word."
+    ]
+}

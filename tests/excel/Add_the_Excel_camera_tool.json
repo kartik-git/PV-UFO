@@ -1,0 +1,9 @@
+{
+    "task": "Add the Excel camera tool",
+    "steps": [
+        "1. Right-click the Quick Access toolbar and select Customize",
+        "2. Select All Commands in the left pane",
+        "3. 3.Scroll down and choose Camera, select Add >> and then OK."
+    ],
+    "object": "Book1.xlsx"
+}

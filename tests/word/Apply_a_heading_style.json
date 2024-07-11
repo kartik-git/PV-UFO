@@ -1,0 +1,11 @@
+{
+    "task": "Apply a heading style to the current file",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Select the text that you want to apply a heading style to.",
+        "Click on the 'Home' tab in the ribbon.",
+        "In the 'Styles' group, click on the 'Heading 1' style to apply it as a heading.",
+        "Verify that the selected text is now formatted with the 'Heading 1' style."
+    ],
+    "object": "Document11.docx"
+}

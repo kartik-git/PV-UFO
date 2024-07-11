@@ -1,0 +1,9 @@
+{
+    "task": "Add a footer",
+    "steps": [
+        "On the Insert tab, select Footer.",
+        "Select a Footer style and type in footer text.",
+        "When you're done, select Close header and footer."
+    ],
+    "object": "Document11.docx"
+}

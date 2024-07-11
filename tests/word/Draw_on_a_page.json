@@ -1,0 +1,14 @@
+{
+    "task": "Draw on a page",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Navigate to the page where you want to draw.",
+        "Click on the 'Insert' tab in the ribbon.",
+        "In the 'Illustrations' group, click on the 'Shapes' button.",
+        "Select the desired shape from the drop-down menu.",
+        "Click and drag on the page to draw the shape.",
+        "To customize the shape, use the options available in the 'Format' tab.",
+        "Repeat steps 5-7 to draw additional shapes on the page.",
+        "Save the document to apply the changes."
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "task": "Compare_two_documents",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Navigate to the 'Review' tab in the Word ribbon.",
+        "Click on the 'Compare' button in the 'Compare' group.",
+        "Select the 'Compare Two Documents' option from the drop-down menu.",
+        "In the 'Original document' field, browse and select the first document to compare.",
+        "In the 'Revised document' field, browse and select the second document to compare.",
+        "Click on the 'OK' button to start the document comparison process.",
+        "Review the comparison results and make any necessary changes or accept/reject the proposed changes.",
+        "Save the compared document with a new name or overwrite the original document if desired."
+    ]
+}

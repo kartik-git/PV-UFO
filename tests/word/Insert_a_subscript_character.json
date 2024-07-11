@@ -1,0 +1,17 @@
+{
+    "task": "Insert a subscript character",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Place the cursor at the position where you want to insert the subscript character.",
+        "Go to the 'Insert' tab in the Word ribbon.",
+        "Click on the 'Symbols' button in the 'Symbols' group.",
+        "From the drop-down menu, select 'More Symbols'.",
+        "In the 'Symbol' dialog box, make sure the 'Symbols' tab is selected.",
+        "Scroll through the list of symbols and find the subscript character you want to insert.",
+        "Click on the subscript character to select it.",
+        "Click on the 'Insert' button to insert the selected subscript character into your document.",
+        "Close the 'Symbol' dialog box.",
+        "Verify that the subscript character has been inserted at the desired position in your document."
+    ]
+}

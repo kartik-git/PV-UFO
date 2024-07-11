@@ -1,0 +1,9 @@
+{
+    "task": "Add Alt text for better accessibility",
+    "steps": [
+        "1. Go to the Review tab and select the down arrow on Check Accessibility.",
+        "2. Select Alt Text on the menu. The Alt Text pane opens to the right.",
+        "3. Write alt text in the description field on the Alt Text pane."
+    ],
+    "object": "Book1.xlsx"
+}

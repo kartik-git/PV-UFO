@@ -1,0 +1,13 @@
+{
+    "task": "Add or edit a title page",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document Document11.docx.",
+        "Navigate to the beginning of the document.",
+        "Insert a new page by pressing Ctrl + Enter.",
+        "On the new page, type the title of the document.",
+        "Format the title as desired, such as changing the font, size, or color.",
+        "Add any additional information to the title page, such as the author's name or date.",
+        "Save the document to apply the changes."
+    ]
+}

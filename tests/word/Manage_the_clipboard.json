@@ -1,0 +1,13 @@
+{
+    "task": "Manage the clipboard",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Select the text or object that you want to copy.",
+        "Press Ctrl+C on your keyboard to copy the selected content.",
+        "Navigate to the location where you want to paste the copied content.",
+        "Press Ctrl+V on your keyboard to paste the copied content.",
+        "To cut the selected content instead of copying, press Ctrl+X on your keyboard.",
+        "To clear the clipboard and remove all copied content, press Ctrl+Shift+F7 on your keyboard."
+    ],
+    "object": "clipboard"
+}

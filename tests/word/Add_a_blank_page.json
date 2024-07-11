@@ -1,0 +1,10 @@
+{
+    "task": "Add a blank page",
+    "steps": [
+        "Open the Word document.",
+        "Navigate to the location where you want to add the blank page.",
+        "Click on the 'Insert' tab in the Word ribbon.",
+        "In the 'Pages' group, click on the 'Blank Page' button.",
+        "A new blank page will be added at the specified location."
+    ]
+}

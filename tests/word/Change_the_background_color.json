@@ -1,0 +1,12 @@
+{
+    "task": "Change the background color",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document Document11.docx.",
+        "Select the text or paragraph that you want to change the background color for.",
+        "Go to the 'Home' tab in the ribbon.",
+        "Click on the 'Shading' button in the 'Paragraph' group.",
+        "A drop-down menu will appear. Select the desired background color from the available options.",
+        "The selected text or paragraph will now have the new background color applied to it."
+    ]
+}

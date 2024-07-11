@@ -1,0 +1,14 @@
+{
+    "task": "Adjust_bulleted_list_indents",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Navigate to the 'Home' tab in the ribbon.",
+        "Select the bulleted list that you want to adjust the indents for.",
+        "Right-click on the selected bulleted list and choose 'Adjust List Indents' from the context menu.",
+        "In the 'Adjust List Indents' dialog box, modify the 'Bullet position' and 'Text position' values to adjust the indents as desired.",
+        "Click 'OK' to apply the changes and close the dialog box.",
+        "Verify that the bulleted list indents have been adjusted correctly.",
+        "Save the changes to the Document11.docx file."
+    ],
+    "object": "Document11.docx"
+}

@@ -1,0 +1,16 @@
+{
+    "task": "Add or remove page borders",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document Document11.docx.",
+        "Click on the 'Page Layout' tab in the ribbon.",
+        "In the 'Page Background' group, click on the 'Page Borders' button.",
+        "The 'Borders and Shading' dialog box will appear.",
+        "To add page borders, select the 'Page Border' tab.",
+        "Choose the desired border settings, such as style, color, and width.",
+        "Click on the 'OK' button to apply the page borders.",
+        "To remove page borders, select the 'None' option in the 'Setting' section.",
+        "Click on the 'OK' button to remove the page borders.",
+        "Save the changes to the document."
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "task": "Add a hyperlink to text or a picture",
+    "object": "Document11.docx",
+    "steps": [
+        "Select the text or picture that you want to add a hyperlink to.",
+        "Right-click on the selected text or picture and choose 'Hyperlink' from the context menu.",
+        "In the 'Insert Hyperlink' dialog box, enter the URL or file path you want to link to.",
+        "Click 'OK' to add the hyperlink to the selected text or picture.",
+        "Save the document to apply the changes."
+    ]
+}

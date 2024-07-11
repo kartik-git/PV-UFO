@@ -1,0 +1,18 @@
+{
+    "task": "Insert an em dash or en dash",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Place the cursor where you want to insert the dash.",
+        "Press the 'Insert' tab in the ribbon at the top of the Word window.",
+        "In the 'Symbols' group, click on the 'Symbol' button.",
+        "A drop-down menu will appear. Select 'More Symbols' from the menu.",
+        "The 'Symbol' dialog box will open.",
+        "In the 'Symbol' dialog box, click on the 'Special Characters' tab.",
+        "Scroll through the list of special characters and locate the em dash or en dash.",
+        "Click on the em dash or en dash to select it.",
+        "Click on the 'Insert' button to insert the selected dash into your document.",
+        "Close the 'Symbol' dialog box.",
+        "The em dash or en dash will now be inserted at the cursor position in your document."
+    ]
+}

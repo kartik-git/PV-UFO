@@ -1,0 +1,16 @@
+{
+    "task": "Insert a caption",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Place the cursor where you want to insert the caption.",
+        "Go to the 'References' tab in the Word ribbon.",
+        "Click on the 'Insert Caption' button in the 'Captions' group.",
+        "In the 'Caption' dialog box, select the desired label from the 'Label' dropdown menu.",
+        "Enter the caption text in the 'Caption' field.",
+        "Choose any additional options, such as numbering or position, if needed.",
+        "Click the 'OK' button to insert the caption.",
+        "Review the inserted caption to ensure it appears correctly.",
+        "Save the document to apply the changes."
+    ]
+}

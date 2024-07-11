@@ -1,0 +1,16 @@
+{
+    "task": "Insert a dynamic check box",
+    "object_name": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Navigate to the location where you want to insert the dynamic check box.",
+        "Click on the 'Developer' tab in the ribbon.",
+        "In the 'Controls' group, click on the 'Legacy Tools' button.",
+        "From the drop-down menu, select 'Check Box Form Field'.",
+        "A check box will be inserted at the cursor position.",
+        "Right-click on the check box and select 'Properties' from the context menu.",
+        "In the 'Check Box Form Field Options' dialog box, customize the properties of the check box as needed.",
+        "Click 'OK' to close the dialog box.",
+        "Save the changes to the document."
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "task": "Change Default Language",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'File' tab in the top left corner of the window.",
+        "From the dropdown menu, select 'Options'.",
+        "In the Word Options dialog box, click on the 'Language' category on the left.",
+        "Under the 'Choose Editing Languages' section, click on the 'Add additional editing languages' button.",
+        "In the 'Add Languages' dialog box, select the desired language from the list.",
+        "Click on the 'Add' button to add the selected language to the editing languages list.",
+        "Click on the 'OK' button to save the changes and close the Word Options dialog box.",
+        "The default language for the document has now been changed to the selected language."
+    ],
+    "object": "Document11.docx"
+}

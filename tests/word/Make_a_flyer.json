@@ -1,0 +1,23 @@
+{
+    "task": "Make a flyer",
+    "steps": [
+        "Open Microsoft Word.",
+        "Create a new document and save it as 'Document11.docx'.",
+        "Set the page orientation to landscape.",
+        "Set the page size to A4.",
+        "Add a title to the flyer.",
+        "Choose a suitable font and font size for the title.",
+        "Center align the title.",
+        "Add a background image to the flyer.",
+        "Adjust the size and position of the background image as needed.",
+        "Add text boxes for the flyer content.",
+        "Enter the necessary text for the flyer, such as event details, date, time, and location.",
+        "Format the text boxes with appropriate font styles, sizes, and colors.",
+        "Add images or graphics to enhance the flyer.",
+        "Resize and position the images or graphics as desired.",
+        "Review the flyer for any spelling or grammatical errors.",
+        "Make any necessary adjustments or edits.",
+        "Save the final version of the flyer."
+    ],
+    "object_name": "Document11.docx"
+}

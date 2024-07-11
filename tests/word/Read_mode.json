@@ -1,0 +1,10 @@
+{
+    "task": "Read Mode",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'View' tab in the ribbon.",
+        "In the 'Views' group, click on the 'Read Mode' button.",
+        "The document will switch to Read Mode, which provides a more focused reading experience.",
+        "To exit Read Mode, click on the 'View' tab again and click on the 'Print Layout' button."
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "task": "Merge two documents",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'Review' tab in the ribbon.",
+        "In the 'Compare' group, click on the 'Compare' button.",
+        "Select 'Combine' from the drop-down menu.",
+        "Click on the 'More' button to specify the documents to merge.",
+        "In the 'Combine Documents' dialog box, click on the 'Add File' button.",
+        "Browse and select the first document to merge.",
+        "Click on the 'Open' button.",
+        "Repeat steps 6-8 to add the second document to merge.",
+        "Click on the 'OK' button to start the merge process.",
+        "Review the merged document and make any necessary edits.",
+        "Save the merged document with a new name."
+    ]
+}

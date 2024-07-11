@@ -1,0 +1,15 @@
+{
+    "name": "Install_an_add-in",
+    "steps": [
+        "Open Microsoft Word.",
+        "Click on the 'Insert' tab in the ribbon.",
+        "Click on the 'Get Add-ins' button in the 'Add-ins' group.",
+        "In the 'Office Add-ins' dialog box, search for the add-in you want to install.",
+        "Click on the add-in you want to install.",
+        "Click on the 'Add' button to install the add-in.",
+        "Wait for the add-in to be installed.",
+        "Once the installation is complete, the add-in will appear in the 'My Add-ins' section of the 'Insert' tab.",
+        "You can now use the add-in in your Microsoft Word document."
+    ],
+    "object": "Document11.docx"
+}

@@ -1,0 +1,14 @@
+{
+    "task": "Insert WordArt",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'Insert' tab in the ribbon.",
+        "In the 'Text' group, click on the 'WordArt' button.",
+        "Select the desired WordArt style from the gallery.",
+        "Type the desired text in the WordArt placeholder.",
+        "Customize the WordArt by changing the font, size, color, etc., using the options in the 'Format' tab.",
+        "Position and resize the WordArt as needed.",
+        "Save the changes to the document."
+    ]
+}

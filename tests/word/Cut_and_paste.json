@@ -1,0 +1,12 @@
+{
+    "task": "Cut and paste",
+    "object_name": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Select the text or object that you want to cut.",
+        "Press Ctrl+X or right-click and choose Cut from the context menu.",
+        "Navigate to the desired location in the document.",
+        "Press Ctrl+V or right-click and choose Paste from the context menu.",
+        "Verify that the text or object has been successfully cut and pasted."
+    ]
+}

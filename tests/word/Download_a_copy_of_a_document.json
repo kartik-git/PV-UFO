@@ -1,0 +1,17 @@
+{
+    "task": "Download a copy of a document",
+    "steps": [
+        "Open Microsoft Word.",
+        "Click on the 'File' tab in the top left corner of the window.",
+        "Select 'Open' from the dropdown menu.",
+        "Navigate to the location where the document is stored.",
+        "Select the document you want to download a copy of.",
+        "Click on the 'File' tab again.",
+        "Select 'Save As' from the dropdown menu.",
+        "Choose a location on your computer to save the copy of the document.",
+        "Enter a name for the copy of the document.",
+        "Click the 'Save' button."
+    ],
+    "object": "Document11.docx",
+    "name": "Download_a_copy_of_a_document"
+}

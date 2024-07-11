@@ -1,0 +1,11 @@
+{
+    "task": "Remove a header or footer",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'Insert' tab in the ribbon.",
+        "In the 'Header & Footer' section, click on 'Header' or 'Footer', depending on which one you want to remove.",
+        "From the drop-down menu, select 'Remove Header' or 'Remove Footer'.",
+        "The header or footer will be removed from the document."
+    ]
+}

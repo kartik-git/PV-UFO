@@ -1,0 +1,15 @@
+{
+    "task": "Enable Editing for Document11.docx",
+    "steps": [
+        "Open Microsoft Word.",
+        "Click on the 'File' tab in the top left corner.",
+        "Select 'Open' from the dropdown menu.",
+        "Navigate to the location of Document11.docx and select it.",
+        "Click on the 'Review' tab in the top menu.",
+        "In the 'Protect' group, click on 'Restrict Editing'.",
+        "In the 'Restrict Editing' pane on the right, click on 'Stop Protection'.",
+        "Enter the password if prompted.",
+        "Click on 'OK' to confirm and remove the editing restrictions.",
+        "You have successfully enabled editing for Document11.docx."
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "task": "Apply or remove text shading",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Select the text that you want to apply or remove text shading from.",
+        "Click on the 'Home' tab in the ribbon.",
+        "In the 'Font' group, click on the 'Text Highlight Color' button.",
+        "Choose a color from the dropdown menu to apply text shading. To remove text shading, select 'No Color'.",
+        "The selected text will now have the applied or removed text shading."
+    ]
+}

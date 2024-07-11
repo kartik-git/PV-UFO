@@ -1,0 +1,13 @@
+{
+    "task": "Insert a footnote",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Navigate to the location in the document where you want to insert the footnote.",
+        "Click on the 'References' tab in the ribbon at the top of the Word window.",
+        "In the 'Footnotes' section, click on the 'Insert Footnote' button.",
+        "A footnote will be inserted at the bottom of the page, and the cursor will move to the corresponding footnote reference in the main text.",
+        "Type the content of the footnote.",
+        "To return to the main text, click on the footnote reference in the main text or press the 'Ctrl' key and click on the footnote number at the bottom of the page."
+    ],
+    "object": "Document11.docx"
+}

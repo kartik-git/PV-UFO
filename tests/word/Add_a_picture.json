@@ -1,0 +1,14 @@
+{
+    "task": "Add a picture",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Place the cursor where you want to insert the picture.",
+        "Go to the 'Insert' tab in the ribbon.",
+        "Click on the 'Pictures' button.",
+        "Browse and select the picture you want to insert.",
+        "Click on the 'Insert' button.",
+        "Adjust the picture size and position as needed.",
+        "Save the document."
+    ]
+}

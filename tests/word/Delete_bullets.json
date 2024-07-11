@@ -1,0 +1,13 @@
+{
+    "task": "Delete Bullets",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Select the text that contains the bullets you want to delete.",
+        "Click on the 'Home' tab in the ribbon.",
+        "In the 'Paragraph' section, click on the 'Bullets' button to open the bullets menu.",
+        "Select the 'None' option from the bullets menu to remove the bullets from the selected text.",
+        "Verify that the bullets have been successfully deleted.",
+        "Save the changes to the document."
+    ]
+}

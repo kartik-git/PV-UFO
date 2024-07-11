@@ -1,0 +1,13 @@
+{
+    "task": "Remove a hyperlink",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Navigate to the location in the document where the hyperlink is located.",
+        "Select the text or object that contains the hyperlink.",
+        "Right-click on the selected text or object to open the context menu.",
+        "From the context menu, choose 'Remove Hyperlink'.",
+        "The hyperlink will be removed from the selected text or object.",
+        "Save the document to apply the changes."
+    ],
+    "object": "hyperlink"
+}

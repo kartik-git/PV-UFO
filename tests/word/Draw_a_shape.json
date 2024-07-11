@@ -1,0 +1,14 @@
+{
+    "task": "Draw a shape",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'Insert' tab in the ribbon.",
+        "In the 'Illustrations' group, click on the 'Shapes' button.",
+        "Select the desired shape from the drop-down menu.",
+        "Click and drag on the document to draw the shape.",
+        "Release the mouse button to finalize the shape.",
+        "Adjust the size, position, and formatting of the shape as needed.",
+        "Save the document to apply the changes."
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "task": "Put a watermark on all pages",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Go to the 'Design' tab in the ribbon.",
+        "In the 'Page Background' group, click on the 'Watermark' button.",
+        "Select the desired watermark from the available options or click on 'Custom Watermark' to create a custom one.",
+        "Adjust the watermark settings as needed, such as the font, size, color, and transparency.",
+        "Preview the watermark to ensure it appears correctly on all pages.",
+        "Click on the 'Apply' or 'OK' button to apply the watermark to all pages of the document.",
+        "Save the document to preserve the changes."
+    ],
+    "object": "Document11.docx"
+}

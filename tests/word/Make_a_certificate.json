@@ -1,0 +1,14 @@
+{
+    "task": "Make a certificate",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'Insert' tab in the ribbon.",
+        "In the 'Text' group, click on the 'Text Box' button and select 'Simple Text Box'.",
+        "Click and drag on the document to create a text box.",
+        "Type the content of the certificate inside the text box.",
+        "Format the text and add any desired styling.",
+        "Click on the 'File' tab in the ribbon.",
+        "Select 'Save As' to save the certificate with a desired name and location."
+    ],
+    "object": "Document11.docx"
+}

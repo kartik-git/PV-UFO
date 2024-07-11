@@ -1,0 +1,14 @@
+{
+    "task": "Create Business Cards",
+    "steps": [
+        "Open Microsoft Word document 'Document11.docx'.",
+        "Click on the 'Insert' tab in the ribbon.",
+        "In the 'Insert' tab, click on 'Text Box' and select 'Simple Text Box'.",
+        "A text box will be inserted into the document.",
+        "Type the name of the person on the business card in the text box.",
+        "Format the text box as desired, such as adjusting the font, size, and color.",
+        "Position the text box in the desired location on the business card.",
+        "Repeat steps 4-7 for other details like job title, company name, and contact information.",
+        "Save the document as 'Business_Cards.docx'."
+    ]
+}

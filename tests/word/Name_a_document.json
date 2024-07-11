@@ -1,0 +1,13 @@
+{
+    "task": "Name a document",
+    "steps": [
+        "Open Microsoft Word.",
+        "Click on the 'File' tab in the top left corner.",
+        "Select 'Save As' from the dropdown menu.",
+        "Choose a location on your computer to save the document.",
+        "Enter a name for the document in the 'File name' field.",
+        "Click the 'Save' button to save the document."
+    ],
+    "object_name": "Document11.docx",
+    "context": "These instructions are for a Microsoft Word document called Document11.docx."
+}

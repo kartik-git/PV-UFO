@@ -1,0 +1,19 @@
+{
+    "task": "Create a brochure",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word application.",
+        "Create a new document.",
+        "Set the page layout to landscape.",
+        "Add a title to the brochure.",
+        "Choose a suitable font and font size for the title.",
+        "Insert relevant images and graphics.",
+        "Format the text and images to make the brochure visually appealing.",
+        "Add informative content about the topic of the brochure.",
+        "Organize the content into sections using headings.",
+        "Include contact information or a call-to-action at the end of the brochure.",
+        "Proofread and edit the brochure for any errors.",
+        "Save the document with an appropriate file name.",
+        "Print the brochure or save it as a PDF for digital distribution."
+    ]
+}

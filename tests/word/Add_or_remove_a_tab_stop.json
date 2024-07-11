@@ -1,0 +1,15 @@
+{
+    "task": "Add or remove a tab stop",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'View' tab in the ribbon.",
+        "In the 'Show' group, check the 'Ruler' option to display the ruler if it's not already visible.",
+        "Place the cursor in the paragraph where you want to add or remove a tab stop.",
+        "Click on the location on the ruler where you want to add or remove the tab stop.",
+        "To add a tab stop, click on the 'Tab' button on the left side of the ruler. Choose the desired tab alignment from the drop-down menu.",
+        "To remove a tab stop, click and drag the tab stop off the ruler.",
+        "Repeat steps 5-7 to add or remove additional tab stops as needed.",
+        "Save the document to apply the changes."
+    ],
+    "object": "Document11.docx"
+}

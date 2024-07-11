@@ -1,0 +1,16 @@
+{
+    "task": "Insert a combo box or a drop-down list",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the location where you want to insert the combo box or drop-down list.",
+        "Go to the 'Developer' tab in the Word ribbon.",
+        "In the 'Controls' group, click on the 'Legacy Tools' button.",
+        "From the drop-down menu, select 'Combo Box' or 'Drop-Down List' depending on your preference.",
+        "A combo box or drop-down list will be inserted at the selected location.",
+        "To customize the combo box or drop-down list, right-click on it and select 'Properties'.",
+        "In the 'Content Control Properties' dialog box, you can set various options such as the list of choices, default value, and formatting.",
+        "Click 'OK' to save the changes.",
+        "You have successfully inserted a combo box or drop-down list in your Word document."
+    ],
+    "objectName": "Document11.docx"
+}

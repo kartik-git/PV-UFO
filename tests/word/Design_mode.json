@@ -1,0 +1,12 @@
+{
+    "task": "Design_mode",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'View' tab in the ribbon.",
+        "In the 'Views' group, click on the 'Design' button.",
+        "The document will switch to Design mode, allowing you to modify the layout and formatting.",
+        "Make the necessary changes to the design of the document.",
+        "Save the changes to the document."
+    ],
+    "object_name": "Document11.docx"
+}

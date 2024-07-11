@@ -1,0 +1,12 @@
+{
+    "task": "Customize Footnotes and Endnotes",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'References' tab in the ribbon.",
+        "In the 'Footnotes' group, click on the 'Footnote & Endnote' button.",
+        "In the 'Footnote and Endnote' dialog box, customize the footnotes and endnotes according to your requirements.",
+        "Click 'OK' to apply the changes.",
+        "Save the document."
+    ],
+    "object": "Document11.docx"
+}

@@ -1,0 +1,15 @@
+{
+    "task": "Add an endnote",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Navigate to the location in the document where you want to add the endnote.",
+        "Click on the 'References' tab in the Word ribbon.",
+        "In the 'Footnotes' group, click on the 'Insert Endnote' button.",
+        "A superscript number will be added at the location in the document and the cursor will move to the end of the document.",
+        "Type the content of the endnote at the end of the document.",
+        "To return to the location of the endnote in the document, double-click on the superscript number.",
+        "Make any necessary edits to the endnote content.",
+        "Save the changes to the document."
+    ],
+    "object": "Document11.docx"
+}

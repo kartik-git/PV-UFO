@@ -1,0 +1,13 @@
+{
+    "task": "Add a word to the dictionary",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'Review' tab in the ribbon.",
+        "In the 'Proofing' section, click on 'Spelling & Grammar'.",
+        "The 'Spelling and Grammar' pane will appear on the right side of the document.",
+        "Right-click on the word that you want to add to the dictionary.",
+        "From the context menu, select 'Add to Dictionary'.",
+        "The word will be added to the dictionary and will no longer be flagged as misspelled."
+    ],
+    "object": "Document11.docx"
+}

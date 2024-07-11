@@ -1,0 +1,12 @@
+{
+    "task": "Double Space Document",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'Home' tab in the ribbon.",
+        "Select the entire document by pressing 'Ctrl + A' on your keyboard.",
+        "Click on the 'Line and Paragraph Spacing' button in the 'Paragraph' group.",
+        "From the drop-down menu, select '2.0' to set the line spacing to double.",
+        "Verify that the entire document is now double-spaced.",
+        "Save the changes to the document."
+    ]
+}

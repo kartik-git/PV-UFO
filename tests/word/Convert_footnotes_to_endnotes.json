@@ -1,0 +1,11 @@
+{
+    "task": "Convert Footnotes to Endnotes",
+    "document": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'References' tab in the ribbon.",
+        "In the 'Footnotes' group, click on the 'Convert' button.",
+        "From the dropdown menu, select 'Convert Footnotes to Endnotes'.",
+        "The footnotes in the document will be converted to endnotes."
+    ]
+}

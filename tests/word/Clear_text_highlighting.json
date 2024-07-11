@@ -1,0 +1,12 @@
+{
+    "task": "Clear Text Highlighting",
+    "object": "Document11.docx",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Select the text that you want to clear the highlighting from.",
+        "Go to the 'Home' tab in the ribbon.",
+        "In the 'Font' group, click on the 'Text Highlight Color' button.",
+        "Select 'No Color' from the drop-down menu.",
+        "The selected text will no longer have any highlighting applied to it."
+    ]
+}

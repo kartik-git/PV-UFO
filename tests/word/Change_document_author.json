@@ -1,0 +1,15 @@
+{
+    "task": "Change document author",
+    "steps": [
+        "Open the Microsoft Word document called Document11.docx.",
+        "Click on the 'File' tab in the top left corner of the window.",
+        "Select 'Info' from the left-hand menu.",
+        "In the 'Properties' section, click on the 'Show All Properties' link.",
+        "Scroll down to the 'Author' field.",
+        "Click on the current author's name to select it.",
+        "Type the new author's name.",
+        "Press 'Enter' to save the changes.",
+        "Close the document."
+    ],
+    "object": "Document11.docx"
+}
