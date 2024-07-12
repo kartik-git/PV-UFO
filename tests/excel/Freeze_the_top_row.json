@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Freeze the top row.",
+    "steps": [
+        "1. Open Excel.",
+        "2. Open a workbook.",
+        "3. Click on the 'View' tab.",
+        "4. Click on the 'Freeze Panes' button.",
+        "5. Click on 'Freeze Top Row'."
+    ],
+    "object": "Book1.xlsx"
+}

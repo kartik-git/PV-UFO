@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Insert a file",
+    "steps": [
+        "1. Select the cell where you want to insert a file.",
+        "2. Go to the 'Insert' tab.",
+        "3. Click on the 'Object' button in the 'Text' group.",
+        "4. Select 'Create from File'.",
+        "5. Browse to the file you want to insert.",
+        "6. Click 'Insert'."
+    ],
+    "object": "Book1.xlsx"
+}

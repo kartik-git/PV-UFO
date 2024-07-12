@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Insert a checkmark",
+    "steps": [
+        "1. Select the cell where you want to insert a checkmark.",
+        "2. Go to the 'Insert' tab.",
+        "3. Click on the 'Symbol' button in the 'Symbols' group.",
+        "4. Select 'Wingdings' from the 'Font' dropdown.",
+        "5. Scroll down and select the checkmark symbol.",
+        "6. Click 'Insert'."
+    ],
+    "object": "Book1.xlsx"
+}

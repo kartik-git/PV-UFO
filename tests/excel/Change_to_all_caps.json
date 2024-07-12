@@ -1,1 +1,5 @@
-{}
+{
+    "task": "Change to all caps",
+    "steps": ["1. In a blank cell, row, or table, enter '=UPPER(A1)' in the Formula bar, replacing 'A1' with the cell(s) you want to make uppercase.", "2. Press 'Ctrl+C' to copy the results.", "3. Select the original cell(s) you want to change to uppercase.", "4. Right-click on the selected cell(s) and choose 'Paste values only' buttonValues (V) under Paste Options."],
+    "object": "Book1.xlsx"
+}

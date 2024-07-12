@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Create a table",
+    "steps": [
+        "1. Select the data you want to include in the table.",
+        "2. Click on the 'Insert' tab.",
+        "3. Click on 'Table'.",
+        "4. Select the range of data you want to include in the table.",
+        "5. Click on 'OK'."
+    ],
+    "object": "Book1.xlsx" 
+}

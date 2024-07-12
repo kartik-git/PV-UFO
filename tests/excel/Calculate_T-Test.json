@@ -1,1 +1,9 @@
-{}
+{
+    "task": "Calculate T-Test",
+    "steps": [
+        "1. Go to Foruma tab and select More Functions.",
+        "2. Choose Statistical and then T-Test. Enter any range of cells for the first and second data sets.",
+        "3. Click OK."
+    ],
+    "object": "Book1.xlsx"
+}

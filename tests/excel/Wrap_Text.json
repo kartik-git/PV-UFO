@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Wrap Text",
+    "steps": [
+        "1. Open Excel.",
+        "2. Open a workbook.",
+        "3. Select the cell or range of cells that you want to format.",
+        "4. Click on the 'Home' tab.",
+        "5. Click on 'Wrap Text'."
+    ],
+    "object": "Book1.xlsx"
+}

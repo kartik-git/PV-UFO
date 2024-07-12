@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Insert a header or footer",
+    "steps": [
+        "1. Go to the 'Insert' tab.",
+        "2. Click on the 'Header & Footer' button in the 'Text' group.",
+        "3. Select 'Header' or 'Footer'.",
+        "4. Enter the text you want to insert in the header or footer.",
+        "5. Click 'OK'."
+    ],
+    "object": "Book1.xlsx"
+}

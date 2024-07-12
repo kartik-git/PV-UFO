@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Turn Excel animations on or off",
+    "steps": [
+        "1. Open Excel.",
+        "2. Click on 'File'.",
+        "3. Click on 'Options'.",
+        "4. Click on 'Advanced'.",
+        "5. Check or uncheck 'Enable Excel animations'."
+    ],
+    "object": "Book1.xlsx"
+}

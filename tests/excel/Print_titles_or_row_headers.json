@@ -1,1 +1,14 @@
-{}
+{
+    "task": "Print titles or row headers",
+    "steps": [
+        "1. Open Excel.",
+        "2. Open a workbook.",
+        "3. Click on the 'Page Layout' tab.",
+        "4. Click on the 'Print Titles' button.",
+        "5. Click on the 'Sheet' tab.",
+        "6. Click on the 'Rows to repeat at top' box.",
+        "7. Click on the row that you want to repeat at the top of each printed page.",
+        "8. Click on 'OK'."
+    ],
+    "object": "Book1.xlsx"
+}

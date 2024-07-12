@@ -1,1 +1,16 @@
-{}
+{
+    "task": "Split names into separate columns",
+    "steps": [
+        "1. Open Excel.",
+        "2. Open a workbook.",
+        "3. Select the cell that contains the names that you want to split.",
+        "4. Click on the 'Data' tab.",
+        "5. Click on 'Text to Columns'.",
+        "6. Click on 'Delimited'.",
+        "7. Click on 'Next'.",
+        "8. Select the delimiter that separates the names.",
+        "9. Click on 'Next'.",
+        "10. Click on 'Finish'."
+    ],
+    "object": "Book1.xlsx"
+}

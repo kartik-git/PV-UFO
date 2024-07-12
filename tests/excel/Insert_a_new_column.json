@@ -1,1 +1,8 @@
-{}
+{
+    "task": "Insert a new column",
+    "steps": [
+        "1. Select the column to the right of where you want to insert the new column.",
+        "2. Right-click on the column and select 'Insert'."
+    ],
+    "object": "Book1.xlsx"
+}

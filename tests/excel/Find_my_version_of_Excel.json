@@ -1,1 +1,10 @@
-{}
+{
+    "task": "Find my version of Excel",
+    "steps": [
+        "1. Open Excel.",
+        "2. Click on 'File'.",
+        "3. Click on 'Account'.",
+        "4. Click on 'About Excel'."
+    ],
+    "object": "Book1.xlsx"
+}

@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Insert a flow chart",
+    "steps": [
+        "1. Go to the 'Insert' tab.",
+        "2. Click on the 'Shapes' button in the 'Illustrations' group.",
+        "3. Select 'Flowchart' from the drop-down menu.",
+        "4. Choose the flow chart shape you want to insert.",
+        "5. Click and drag to draw the flow chart shape on the worksheet."
+    ],
+    "object": "Book1.xlsx"
+}

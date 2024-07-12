@@ -1,1 +1,9 @@
-{}
+{
+    "task": "Flash fill a column of data",
+    "steps": [
+        "1. Enter the first value in the column.",
+        "2. Enter the second value in the column.",
+        "3. Click on the Flash Fill button in the Data tab."
+    ],
+    "object": "Book1.xlsx"
+}

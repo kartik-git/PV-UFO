@@ -1,1 +1,9 @@
-{}
+{
+    "task": "Merge cells",
+    "steps": [
+        "1. Select the cells you want to merge.",
+        "2. Click the 'Home' tab.",
+        "3. Click the 'Merge & Center' button."
+    ],
+    "object": "Book1.xlsx"
+}

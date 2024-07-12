@@ -1,1 +1,17 @@
-{}
+{
+    "task": "Save a file as read only",
+    "steps": [
+        "1. Open Excel.",
+        "2. Open a workbook.",
+        "3. Click on the 'File' tab.",
+        "4. Click on 'Save As'.",
+        "5. Click on 'Browse'.",
+        "6. Select the location where you want to save the file.",
+        "7. Click on the 'Tools' button.",
+        "8. Click on 'General Options'.",
+        "9. Check the 'Read-only recommended' box.",
+        "10. Click on 'OK'.",
+        "11. Click on 'Save'."
+    ],
+    "object": "Book1.xlsx"
+}

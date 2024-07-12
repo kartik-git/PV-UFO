@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Create a drop-down list",
+    "steps": [
+        "1. Open the 'Data' tab.",
+        "2. Click on 'Data Validation'.",
+        "3. In the 'Allow' box, select 'List'.",
+        "4. In the 'Source' box, type the list items separated by commas.",
+        "5. Click on 'OK'."
+    ],
+    "object": "Book1.xlsx"
+}

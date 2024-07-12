@@ -1,1 +1,14 @@
-{}
+{
+    "task": "Unique values",
+    "steps": [
+        "1. Open Excel.",
+        "2. Open a workbook.",
+        "3. Select the range of cells that contains the data you want to filter.",
+        "4. Click on the 'Data' tab.",
+        "5. Click on 'Advanced'.",
+        "6. Select 'Copy to another location'.",
+        "7. Check 'Unique records only'.",
+        "8. Click on 'OK'."
+    ],
+    "object": "Book1.xlsx" 
+}

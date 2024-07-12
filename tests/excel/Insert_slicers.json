@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Insert slicers",
+    "steps": [
+        "1. Select the table or pivot table you want to insert slicers for.",
+        "2. Go to the 'Insert' tab.",
+        "3. Click on the 'Slicer' button in the 'Filters' group.",
+        "4. Select the fields you want to create slicers for.",
+        "5. Click 'OK'."
+    ],
+    "object": "Book1.xlsx" 
+}

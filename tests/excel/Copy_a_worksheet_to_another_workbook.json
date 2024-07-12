@@ -1,1 +1,10 @@
-{}
+{
+    "task": "Copy a worksheet to another workbook",
+    "steps": [
+        "1. Right-click on the Sheet1 tab",
+        "2. Select or clear the Create a copy checkbox to copy or move a sheet.",
+        "3. Under To book, choose the current workbook or another workbook.",
+        "4. Under Before sheet, choose where you want to place the copy and select OK."
+      ],
+    "object": "Book1.xlsx"
+}

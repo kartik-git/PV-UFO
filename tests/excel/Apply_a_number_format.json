@@ -1,1 +1,10 @@
-{}
+{
+    "task": "Apply a number format",
+    "steps": [
+        "1. Select the cell A1",
+        "2. Click on the Home tab",
+        "3. Click on the Number Format dropdown menu and select the first format option (General).",
+        "4. Click Ok"
+    ],
+    "object": "Book1.xlsx"
+}

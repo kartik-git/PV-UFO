@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Sort alphabetically",
+    "steps": [
+        "1. Open Excel.",
+        "2. Open a workbook.",
+        "3. Click on the 'Data' tab.",
+        "4. Click on 'Sort'.",
+        "5. Click on 'Sort A to Z'."
+    ],
+    "object": "Book1.xlsx"
+}

@@ -1,1 +1,14 @@
-{}
+{
+    "task": "Protect or unprotect a worksheet",
+    "steps": [
+        "1. Open Excel.",
+        "2. Open a workbook.",
+        "3. Click on the 'Review' tab.",
+        "4. Click on 'Protect Sheet'.",
+        "5. Enter a password.",
+        "6. Click on 'OK'.",
+        "7. Re-enter the password.",
+        "8. Click on 'OK'."
+    ],
+    "object": "Book1.xlsx"
+}

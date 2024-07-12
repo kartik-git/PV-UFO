@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Create a graph",
+    "steps": [
+        "1. Select the data you want to include in the chart.",
+        "2. Click on the 'Insert' tab.",
+        "3. Click on 'Bar Chart'.",
+        "4. Select 'Stacked Bar'.",
+        "5. Click on 'OK'."
+    ],
+    "object": "Book1.xlsx"
+}

@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Create named ranges or cells",
+    "steps": [
+        "1. Select the range of cells you want to name.",
+        "2. Click on the 'Formulas' tab.",
+        "3. Click on 'Define Name'.",
+        "4. Enter the name you want to use for the range of cells.",
+        "5. Click on 'OK'."
+    ],
+    "object": "Book1.xlsx" 
+}

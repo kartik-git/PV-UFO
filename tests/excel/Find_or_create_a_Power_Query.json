@@ -1,1 +1,10 @@
-{}
+{
+    "task": "Find or create a Power Query",
+    "steps": [
+        "1. Click on the 'Data' tab.",
+        "2. Click on 'Get Data'.",
+        "3. Click on 'From Table/Range'.",
+        "4. Click on 'Close & Load'."
+    ],
+    "object": "Book1.xlsx"
+}

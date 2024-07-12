@@ -1,1 +1,21 @@
-{}
+{
+    "task": "Reduce the size of your worksheet files",
+    "steps": [
+        "1. Open Excel.",
+        "2. Open a workbook.",
+        "3. Click on the 'File' tab.",
+        "4. Click on 'Info'.",
+        "5. Click on 'Check for Issues'.",
+        "6. Click on 'Inspect Document'.",
+        "7. Uncheck the boxes for the items you want to remove.",
+        "8. Click on 'Inspect'.",
+        "9. Click on 'Remove All'.",
+        "10. Click on 'Close'.",
+        "11. Click on 'File'.",
+        "12. Click on 'Save As'.",
+        "13. Click on 'Browse'.",
+        "14. Enter a name for the file.",
+        "15. Click on 'Save'."
+    ],
+    "object": "Book1.xlsx"
+}

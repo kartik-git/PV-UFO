@@ -1,1 +1,14 @@
-{}
+{
+    "task": "Create a checklist from a template",
+    "steps": [
+        "1. Open the 'File' menu.",
+        "2. Click on 'New'.",
+        "3. In the 'Search for online templates' box, type 'checklist'.",
+        "4. Press 'Enter'.",
+        "5. Click on the 'Checklist' template.",
+        "6. Click on 'Create'.",
+        "7. Fill in the checklist items.",
+        "8. Save the checklist."
+    ],
+    "object": "Book1.xlsx"
+}

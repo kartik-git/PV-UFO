@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Open or import a CSV file",
+    "steps": [
+        "1. Open Excel.",
+        "2. Click on the 'Data' tab.",
+        "3. Click on 'Get Data'.",
+        "4. Click on 'From Text/CSV'.",
+        "5. Select the CSV file you want to open or import.",
+        "6. Click 'Import'.",
+        "7. Click 'Load'."
+    ],
+    "object": "Book1.xlsx"
+}

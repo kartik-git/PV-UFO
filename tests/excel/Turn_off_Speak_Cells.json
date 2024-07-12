@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Turn off Speak Cells",
+    "steps": [
+        "1. Open Excel.",
+        "2. Click on 'File'.",
+        "3. Click on 'Options'.",
+        "4. Click on 'Ease of Access'.",
+        "5. Click on 'Other options'.",
+        "6. Uncheck 'Speak cells on Enter'."
+    ],
+    "object": "Book1.xlsx"
+}

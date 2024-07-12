@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Insert a page break",
+    "steps": [
+        "1. Click on the 'View' tab.",
+        "2. Click on the 'Page Break Preview' button in the 'Workbook Views' group.",
+        "3. Drag the page break to the desired location.",
+        "4. Click on the 'View' tab.",
+        "5. Click on the 'Normal' button in the 'Workbook Views' group."
+    ],
+    "object": "Book1.xlsx"
+}

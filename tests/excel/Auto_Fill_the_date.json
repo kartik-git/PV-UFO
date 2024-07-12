@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Auto Fill the date",
+    "steps": [
+        "1. Select a range of cells",
+        "2. Click Home",
+        "3. Select Fill",
+        "4. Click Series",
+        "5. Choose Ok"
+    ],
+    "object": "Book1.xlsx"
+}

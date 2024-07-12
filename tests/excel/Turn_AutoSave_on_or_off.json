@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Turn AutoSave on or off",
+    "steps": [
+        "1. Open Excel.",
+        "2. Click on 'File'.",
+        "3. Click on 'Options'.",
+        "4. Click on 'Save'.",
+        "5. Check or uncheck 'AutoSave OneDrive and SharePoint Online files by default on Excel'."
+    ],
+    "object": "Book1.xlsx"
+}

@@ -1,1 +1,11 @@
-{}
+{
+    "task": "View workbooks in split screens",
+    "steps": [
+        "1. Open Excel.",
+        "2. Open a workbook.",
+        "3. Click on the 'View' tab.",
+        "4. Click on 'Split'.",
+        "5. Click on 'Split'."
+    ],
+    "object": "Book1.xlsx"
+}

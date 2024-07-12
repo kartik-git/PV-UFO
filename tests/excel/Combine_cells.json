@@ -1,1 +1,9 @@
-{}
+{
+    "task": "Combine cells in Excel",
+    "steps": [
+        "1. Select the cells to merge.",
+        "2. On the Home tab, select Merge & Center in the Alignment group.",
+        "3. To merge cells and keep data, use the CONCAT function."
+    ],
+    "object": "Book1.xlsx"
+}

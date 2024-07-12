@@ -1,1 +1,10 @@
-{}
+{
+    "task": "How to add a note to a cell",
+    "steps": [
+        "1. Select the cell where you want to add a note.",
+        "2. Right-click on the cell and select Insert Note.",
+        "3. Enter the note text in the note box.",
+        "4. Click outside the note box to save the note."
+    ],
+    "object": "Book1.xlsx"
+}

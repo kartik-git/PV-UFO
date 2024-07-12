@@ -1,1 +1,10 @@
-{}
+{
+    "task": "Insert stock information",
+    "steps": [
+        "1. Go to the 'Data' tab.",
+        "2. Click on the 'Stocks' button in the 'Data Types' group.",
+        "3. Select the cell where you want to insert the stock information.",
+        "4. Click 'Insert'."
+    ],
+    "object": "Book1.xlsx"
+}

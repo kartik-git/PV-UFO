@@ -1,1 +1,15 @@
-{}
+{
+    "task": "Lock cells in a worksheet",
+    "steps": [
+        "1. Select the cells that you want to lock.",
+        "2. Right-click and select 'Format Cells'.",
+        "3. In the 'Format Cells' dialog box, click on the 'Protection' tab.",
+        "4. Check the 'Locked' checkbox.",
+        "5. Click 'OK'.",
+        "6. Go to the 'Review' tab.",
+        "7. Click on 'Protect Sheet'.",
+        "8. In the 'Protect Sheet' dialog box, enter a password.",
+        "9. Click 'OK'."
+    ],
+    "object": "Book1.xlsx"
+}

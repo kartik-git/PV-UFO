@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Remove read only from a file",
+    "steps": [
+        "1. Open Excel.",
+        "2. Open a workbook.",
+        "3. Click on the 'File' tab.",
+        "4. Click on 'Info'.",
+        "5. Click on 'Protect Workbook'.",
+        "6. Click on 'Mark as Final'.",
+        "7. Click on 'OK'."
+    ],
+    "object": "Book1.xlsx"
+}

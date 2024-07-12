@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Unwrap text",
+    "steps": [
+        "1. Open Excel.",
+        "2. Open a workbook.",
+        "3. Select the cell or range of cells that contain the wrapped text.",
+        "4. Click on the 'Home' tab.",
+        "5. Click on 'Wrap Text'."
+    ],
+    "object": "Book1.xlsx"
+}

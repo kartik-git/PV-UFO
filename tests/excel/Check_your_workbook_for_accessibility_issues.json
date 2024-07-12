@@ -1,1 +1,9 @@
-{}
+{
+    "task": "Check your workbook for accessibility issues",
+    "steps": [
+        "1. Go to the Review tab.",
+        "2. Select Check Accessibility. If a menu appears, choose Check Accessibility from the menu."
+
+    ],
+    "object": "Book1.xlsx"
+}

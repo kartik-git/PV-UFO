@@ -1,1 +1,10 @@
-{}
+{
+    "task": "Solver",
+    "steps": [
+        "1. Open Excel.",
+        "2. Open a workbook.",
+        "3. Click on the 'Data' tab.",
+        "4. Click on 'Solver'."
+    ],
+    "object": "Book1.xlsx"
+}

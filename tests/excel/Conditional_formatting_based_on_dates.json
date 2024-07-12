@@ -1,1 +1,10 @@
-{}
+{
+    "task": "Conditional formatting based on dates.",
+    "steps": [
+        "1. Select the cells you would like to format.",
+        "2. Go to Home and select Conditional Formatting button.",
+        "3. Select Highlight Cells Rules and choose A Date Occurring.",
+        "4. Select and input the desired options for formatting your data."
+      ],
+    "object": "Book1.xlsx"
+}

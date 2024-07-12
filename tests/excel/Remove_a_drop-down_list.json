@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Remove a drop-down list",
+    "steps": [
+        "1. Open Excel.",
+        "2. Open a workbook.",
+        "3. Click on the cell that contains the drop-down list.",
+        "4. Click on the 'Data' tab.",
+        "5. Click on 'Data Validation'.",
+        "6. Click on 'Clear All'."
+    ],
+    "object": "Book1.xlsx"
+}

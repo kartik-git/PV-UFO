@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Group rows",
+    "steps": [
+        "1. Open Excel.",
+        "2. Open a workbook.",
+        "3. Select the rows you want to group.",
+        "4. Click on the 'Data' tab.",
+        "5. Click on the 'Group' button."
+    ],
+    "object": "Book1.xlsx"
+}

@@ -1,1 +1,9 @@
-{}
+{
+    "task": "Change a PivotTable data source",
+    "steps": [
+        "1. Select anywhere inside your PivotTable.",
+        "2. On the PivotTable Analyze tab, click the 'Change data source' ribbon button.",
+        "3. Choose the 'Change data source' menu item."
+    ],
+    "object": "Book1.xlsx"
+}

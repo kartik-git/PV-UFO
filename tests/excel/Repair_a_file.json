@@ -1,1 +1,14 @@
-{}
+{
+    "task": "Repair a file",
+    "steps": [
+        "1. Open Excel.",
+        "2. Click on the 'File' tab.",
+        "3. Click on 'Open'.",
+        "4. Click on 'Browse'.",
+        "5. Select the file you want to repair.",
+        "6. Click on the arrow next to 'Open'.",
+        "7. Click on 'Open and Repair'.",
+        "8. Click on 'Repair'."
+    ],
+    "object": "Book1.xlsx"
+}

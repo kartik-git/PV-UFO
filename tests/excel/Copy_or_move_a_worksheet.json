@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Copy or move a worksheet",
+    "steps": [
+        "1. Right-click the sheet tab of the worksheet you want to copy or move.",
+        "2. Click Move or Copy.",
+        "3. In the To book list, select the workbook to which you want to copy or move the worksheet.",
+        "4. In the Before sheet list, select the sheet before which you want to copy or move the worksheet.",
+        "5. To copy the worksheet, select Create a copy.",
+        "6. Click OK."
+    ],
+    "object": "Book1.xlsx"
+}

@@ -1,1 +1,8 @@
-{}
+{
+    "task": "What's the new look in Excel",
+    "steps": [
+        "1. Open Excel.",
+        "2. Open a workbook."
+    ],
+    "object": "Book1.xlsx"
+}

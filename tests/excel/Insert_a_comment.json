@@ -1,1 +1,10 @@
-{}
+{
+    "task": "Insert a comment",
+    "steps": [
+        "1. Select the cell where you want to insert a comment.",
+        "2. Right-click on the cell and select 'Insert Comment'.",
+        "3. Enter the comment text in the comment box.",
+        "4. Click outside the comment box to save the comment."
+    ],
+    "object": "Book1.xlsx"
+}

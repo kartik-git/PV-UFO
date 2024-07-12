@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Translate to another language",
+    "steps": [
+        "1. Open Excel.",
+        "2. Open a workbook.",
+        "3. Click on the 'Review' tab.",
+        "4. Click on 'Translate'.",
+        "5. Click on 'Choose Translation Language'.",
+        "6. Select a language.",
+        "7. Click on 'OK'."
+    ],
+    "object": "Book1.xlsx"
+}

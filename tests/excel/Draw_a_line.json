@@ -1,1 +1,10 @@
-{}
+{
+    "task": "Draw a line",
+    "steps": [
+        "1. Click on the 'Insert' tab.",
+        "2. Click on the 'Shapes' button.",
+        "3. Click on the 'Line' shape.",
+        "4. Click and drag to draw the line."
+    ],
+    "object": "Book1.xlsx"
+}

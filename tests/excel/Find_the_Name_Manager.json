@@ -1,1 +1,8 @@
-{}
+{
+    "task": "Find the Name Manager",
+    "steps": [
+        "1. Click on the 'Formulas' tab.",
+        "2. Click on the 'Name Manager' button."
+    ],
+    "object": "Book1.xlsx"
+}

@@ -1,1 +1,10 @@
-{}
+{
+    "task": "Delete blank rows",
+    "steps": [
+        "1. Select the range of cells that contains the blank rows you want to delete.",
+        "2. Click the 'Home' tab.",
+        "3. Click the 'Delete' button in the 'Cells' group.",
+        "4. Click 'Delete Sheet Rows'."
+    ],
+    "object": "Book1.xlsx"
+}

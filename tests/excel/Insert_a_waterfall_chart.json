@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Insert a waterfall chart",
+    "steps": [
+        "1. Select the data you want to include in the waterfall chart.",
+        "2. Go to the 'Insert' tab.",
+        "3. Click on the 'Waterfall Chart' button in the 'Charts' group.",
+        "4. Select the type of waterfall chart you want to insert.",
+        "5. Click 'OK'."
+    ],
+    "object": "Book1.xlsx"
+}

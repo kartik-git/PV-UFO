@@ -1,1 +1,9 @@
-{}
+{
+    "task": "Insert a bullet",
+    "steps": [
+        "1. Select the cell where you want to insert a bullet.",
+        "2. Go to the 'Home' tab.",
+        "3. Click on the 'Bullets' button in the 'Paragraph' group."
+    ],
+    "object": "Book1.xlsx"
+}

@@ -1,1 +1,16 @@
-{}
+{
+    "task": "Update or change fields in a PivotTable",
+    "steps": [
+        "1. Open Excel.",
+        "2. Open a workbook.",
+        "3. Click on the PivotTable.",
+        "4. Click on the 'Analyze' tab.",
+        "5. Click on 'Field List'.",
+        "6. Drag a field to the 'Rows' area.",
+        "7. Drag a field to the 'Columns' area.",
+        "8. Drag a field to the 'Values' area.",
+        "9. Click on the 'Analyze' tab.",
+        "10. Click on 'Refresh'."
+    ],
+    "object": "Book1.xlsx"
+}

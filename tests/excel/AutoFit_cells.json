@@ -1,1 +1,9 @@
-{}
+{
+    "task": "AutoFit Cells",
+    "steps": [
+        "1. Select Cell A1",
+        "2. Go to the Home tab and select Format.",
+        "3. Select AutoFit Row Height"
+    ],
+    "object": "Book1.xlsx"
+}

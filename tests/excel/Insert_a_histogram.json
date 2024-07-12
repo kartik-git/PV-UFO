@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Insert a histogram",
+    "steps": [
+        "1. Select the data you want to use for the histogram.",
+        "2. Go to the 'Insert' tab.",
+        "3. Click on the 'Histogram' button in the 'Charts' group.",
+        "4. Select the type of histogram you want to create.",
+        "5. Click 'OK'."
+    ],
+    "object": "Book1.xlsx"
+}

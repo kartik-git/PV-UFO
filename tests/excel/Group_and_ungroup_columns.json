@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Group and ungroup columns",
+    "steps": [
+        "1. Open Excel.",
+        "2. Open a workbook.",
+        "3. Select the columns you want to group.",
+        "4. Click on the 'Data' tab.",
+        "5. Click on the 'Group' button.",
+        "6. Click on the 'Data' tab.",
+        "7. Click on the 'Ungroup' button."
+    ],
+    "object": "Book1.xlsx"
+}

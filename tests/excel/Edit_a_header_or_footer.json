@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Edit a header or footer",
+    "steps": [
+        "1. Click on the 'Insert' tab.",
+        "2. Click on the 'Header & Footer' button.",
+        "3. Click on the 'Header' or 'Footer' button.",
+        "4. Edit the header or footer.",
+        "5. Click on the 'Close Header and Footer' button."
+    ],
+    "object": "Book1.xlsx"
+}

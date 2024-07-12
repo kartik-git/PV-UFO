@@ -1,1 +1,8 @@
-{}
+{
+    "task": "Check spelling in the workbook.",
+    "steps": [
+        "1. Click on the 'Review' tab.",
+        "2. Click on the 'Spelling' button."
+    ],
+    "object": "Book1.xlsx"
+}

@@ -1,1 +1,8 @@
-{}
+{
+    "task": "Delete or remove a PivotTable",
+    "steps": [
+        "1. Right click the PivotTable you want to delete.",
+        "2. Click on 'Delete'."
+    ],
+    "object": "Book1.xlsx"
+}

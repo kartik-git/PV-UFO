@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Link from one worksheet to another",
+    "steps": [
+        "1. Select the cell that you want to link from.",
+        "2. Click on the 'Insert' tab.",
+        "3. Click on the 'Hyperlink' button.",
+        "4. In the 'Insert Hyperlink' dialog box, click on 'Place in This Document'.",
+        "5. Select the worksheet that you want to link to.",
+        "6. Click 'OK'."
+    ],
+    "object": "Book1.xlsx"
+}

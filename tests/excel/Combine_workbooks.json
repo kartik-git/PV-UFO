@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Combine workbooks",
+    "steps": [
+        "1. Open two workbooks.",
+        "2. In one workbook, hold down the CTRL key and select the tabs to merge into the other.",
+        "3. Right-click the tabs and select Move or Copy to open the Move or Copy dialog.",
+        "4. Under To book, choose the destination workbook's name, and select where to put the sheets (before or after a sheet, or at the end).",
+        "5. Check Create a Copy to keep the original workbook intact, and select OK."
+    ],
+    "object": "Book1.xlsx"
+}

@@ -1,1 +1,10 @@
-{}
+{
+    "task": "Apply rules for data validation",
+    "steps": [
+        "1. Select the cell A1",
+        "2. Click Data",
+        "3. Select Data Validation",
+        "4. Click OK."
+    ],
+    "object": "Book1.xlsx"
+}

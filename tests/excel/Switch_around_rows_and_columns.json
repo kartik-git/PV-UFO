@@ -1,1 +1,15 @@
-{}
+{
+    "task": "Switch around rows and columns",
+    "steps": [
+        "1. Open Excel.",
+        "2. Open a workbook.",
+        "3. Select the data that you want to switch around.",
+        "4. Right-click on the selected data.",
+        "5. Click on 'Copy'.",
+        "6. Select the cell where you want to paste the data.",
+        "7. Right-click on the cell.",
+        "8. Click on the arrow next to 'Paste'.",
+        "9. Click on 'Transpose'."
+    ],
+    "object": "Book1.xlsx"
+}

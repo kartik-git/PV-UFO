@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Unhide worksheets",
+    "steps": [
+        "1. Open Excel.",
+        "2. Open a workbook.",
+        "3. Right-click on a worksheet tab.",
+        "4. Click on 'Unhide'.",
+        "5. Select the worksheet you want to unhide.",
+        "6. Click on 'OK'."
+    ],
+    "object": "Book1.xlsx"
+}

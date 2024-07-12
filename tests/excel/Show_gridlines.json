@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Show gridlines",
+    "steps": [
+        "1. Open Excel.",
+        "2. Open a workbook.",
+        "3. Click on the 'View' tab.",
+        "4. Click on 'Gridlines'.",
+        "5. Click on 'Show Gridlines'."
+    ],
+    "object": "Book1.xlsx"
+}

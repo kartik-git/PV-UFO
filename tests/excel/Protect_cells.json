@@ -1,1 +1,15 @@
-{}
+{
+    "task": "Protect cells",
+    "steps": [
+        "1. Open Excel.",
+        "2. Open a workbook.",
+        "3. Select the cells that you want to protect.",
+        "4. Click on the 'Review' tab.",
+        "5. Click on 'Protect Sheet'.",
+        "6. Enter a password.",
+        "7. Click on 'OK'.",
+        "8. Re-enter the password.",
+        "9. Click on 'OK'."
+    ],
+    "object": "Book1.xlsx"
+}

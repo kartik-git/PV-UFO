@@ -1,1 +1,9 @@
-{}
+{
+    "task": "Conditional Formatting",
+    "steps": [
+        "1. Select the cells you want to format.",
+        "2. On the Home tab, click the Conditional Formatting button.",
+        "3. Choose the desired options for your data."
+    ],
+    "object": "Book1.xlsx"
+}

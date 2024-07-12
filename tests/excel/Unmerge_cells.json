@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Unmerge cells",
+    "steps": [
+        "1. Open Excel.",
+        "2. Open a workbook.",
+        "3. Select the merged cells.",
+        "4. Click on the 'Home' tab.",
+        "5. Click on 'Merge & Center'.",
+        "6. Click on 'Unmerge Cells'."
+    ],
+    "object": "Book1.xlsx"
+}

@@ -1,1 +1,15 @@
-{}
+{
+    "task": "Record a macro",
+    "steps": [
+        "1. Open Excel.",
+        "2. Open a workbook.",
+        "3. Click on the 'View' tab.",
+        "4. Click on 'Macros'.",
+        "5. Click on 'Record Macro'.",
+        "6. Enter a name for the macro.",
+        "7. Click on 'OK'.",
+        "8. Perform the actions you want to record.",
+        "9. Click on 'Stop Recording'."
+    ],
+    "object": "Book1.xlsx"
+}

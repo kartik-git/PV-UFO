@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Get the Data Analysis ToolPak",
+    "steps": [
+        "1. Click on the 'File' tab.",
+        "2. Click on 'Options'.",
+        "3. Click on 'Add-Ins'.",
+        "4. Click on 'Excel Add-ins'.",
+        "5. Click on 'Go'.",
+        "6. Check the 'Analysis ToolPak' box.",
+        "7. Click on 'OK'."
+    ],
+    "object": "Book1.xlsx"
+}

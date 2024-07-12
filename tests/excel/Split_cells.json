@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Split cells",
+    "steps": [
+        "1. Open Excel.",
+        "2. Open a workbook.",
+        "3. Select the cell that you want to split.",
+        "4. Click on the 'Home' tab.",
+        "5. Click on 'Merge & Center'.",
+        "6. Click on 'Split'."
+    ],
+    "object": "Book1.xlsx"
+}

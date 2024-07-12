@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Print a header on each page",
+    "steps": [
+        "1. Click on the 'Insert' tab.",
+        "2. Click on the 'Header & Footer' button.",
+        "3. Click on the 'Header' button.",
+        "4. Type the text you want to appear in the header.",
+        "5. Click on the 'Close Header and Footer' button."
+    ],
+    "object": "Book1.xlsx"
+}

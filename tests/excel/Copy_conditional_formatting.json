@@ -1,1 +1,10 @@
-{}
+{
+    "task": "Copy conditional formatting",
+    "steps": [
+        "1. Select the cell or range of cells that contain the conditional formatting you want to copy.",
+        "2. Click on the 'Home' tab.",
+        "3. Click on the 'Format Painter' button.",
+        "4. Select the cell or range of cells where you want to apply the conditional formatting."
+    ],
+    "object": "Book1.xlsx"
+}

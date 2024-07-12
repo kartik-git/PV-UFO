@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Remove duplicates",
+    "steps": [
+        "1. Open Excel.",
+        "2. Open a workbook.",
+        "3. Select the range of cells that contains the list.",
+        "4. Click on the 'Data' tab.",
+        "5. Click on 'Remove Duplicates'.",
+        "6. Select the columns that you want to check for duplicates.",
+        "7. Click on 'OK'."
+    ],
+    "object": "Book1.xlsx"
+}

@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Remove a watermark",
+    "steps": [
+        "1. Open Excel.",
+        "2. Open a workbook.",
+        "3. Click on the 'View' tab.",
+        "4. Click on 'Print Layout'.",
+        "5. Click on 'Watermark'.",
+        "6. Click on 'Remove Watermark'."
+    ],
+    "object": "Book1.xlsx"
+}

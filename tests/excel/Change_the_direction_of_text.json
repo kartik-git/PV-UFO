@@ -1,1 +1,9 @@
-{}
+{
+    "task": "Change the direction of text in a cell.",
+    "steps": [
+        "1. Choose the cell(s) to change, on the Home tab, select Orientation.",
+        "2. Choose a preset text direction or select Format Cells Alignment and choose the Alignment tab for custom angles.",
+        "3. Under Orientation, choose a degree angle on the wheel or type a degree angle between -90 and 90. Select OK."
+    ],
+    "object": "Book1.xlsx"
+}

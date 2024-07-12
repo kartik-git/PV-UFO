@@ -1,1 +1,16 @@
-{}
+{
+    "task": "Save a worksheet as a CSV file",
+    "steps": [
+        "1. Open Excel.",
+        "2. Open a workbook.",
+        "3. Click on the 'File' tab.",
+        "4. Click on 'Save As'.",
+        "5. Click on 'Browse'.",
+        "6. Select the location where you want to save the file.",
+        "7. Click on the 'Save as type' dropdown.",
+        "8. Select 'CSV (Comma delimited) (*.csv)'.",
+        "9. Enter a name for the file.",
+        "10. Click on 'Save'."
+    ],
+    "object": "Book1.xlsx"
+}

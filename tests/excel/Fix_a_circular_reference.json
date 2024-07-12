@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Fix a circular reference",
+    "steps": [
+        "1. Click the 'Formulas' tab.",
+        "2. Click the 'Error Checking' button.",
+        "3. Click 'Circular References'.",
+        "4. Click 'Trace Precedents'.",
+        "5. Click 'Remove Arrows'."
+    ],
+    "object": "Book1.xlsx"
+}

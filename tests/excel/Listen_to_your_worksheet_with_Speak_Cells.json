@@ -1,1 +1,8 @@
-{}
+{
+    "task": "Listen to your worksheet with Speak Cells",
+    "steps": [
+        "1. Go to the Review tab.",
+        "2. Select Speak Cells. If a menu appears, choose Speak Cells from the menu."
+    ],
+    "object": "Book1.xlsx"
+}

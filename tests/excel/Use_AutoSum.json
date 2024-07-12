@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Use AutoSum",
+    "steps": [
+        "1. Open Excel.",
+        "2. Open a workbook.",
+        "3. Click on the cell where you want to display the sum.",
+        "4. Click on the 'Formulas' tab.",
+        "5. Click on 'AutoSum'.",
+        "6. Press 'Enter'."
+    ],
+    "object": "Book1.xlsx"
+}

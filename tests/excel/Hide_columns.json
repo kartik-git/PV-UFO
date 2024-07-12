@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Hide columns",
+    "steps": [
+        "1. Open Excel.",
+        "2. Open a workbook.",
+        "3. Select the columns you want to hide.",
+        "4. Right-click on the selected columns.",
+        "5. Click on 'Hide'."
+    ],
+    "object": "Book1.xlsx"
+}

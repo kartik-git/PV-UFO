@@ -1,1 +1,9 @@
-{}
+{
+    "task": "Change to uppercase",
+    "steps": [
+        "1. Click on the cell where you want to display the result.",
+        "2. Enter the formula '=UPPER(A1)' in the formula bar,",
+        "3. Press 'Enter' to apply the formula."
+    ],
+    "object": "Book1.xlsx"
+}

@@ -1,1 +1,17 @@
-{}
+{
+    "task": "Round a number to the number of digits you specify",
+    "steps": [
+        "1. Open Excel.",
+        "2. Open a workbook.",
+        "3. Click on a cell.",
+        "4. Enter a number.",
+        "5. Click on another cell.",
+        "6. Click on the 'Formulas' tab.",
+        "7. Click on 'Math & Trig'.",
+        "8. Click on 'ROUND'.",
+        "9. Click on the cell with the number you want to round.",
+        "10. Enter the number of digits you want to round to.",
+        "11. Press 'Enter'."
+    ],
+    "object": "Book1.xlsx"
+}

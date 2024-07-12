@@ -1,1 +1,10 @@
-{}
+{
+    "task": "Insert a hyperlink",
+    "steps": [
+        "1. Select the cell where you want to insert a hyperlink.",
+        "2. Right-click on the cell and select 'Hyperlink'.",
+        "3. Enter the URL in the 'Address' field.",
+        "4. Click 'OK'."
+    ],
+    "object": "Book1.xlsx"
+}

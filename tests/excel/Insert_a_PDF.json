@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Insert a PDF",
+    "steps": [
+        "1. Click on the 'Insert' tab.",
+        "2. Click on the 'Object' button in the 'Text' group.",
+        "3. Select 'Adobe Acrobat Document' from the list.",
+        "4. Browse to the PDF file you want to insert.",
+        "5. Click 'OK'."
+    ],
+    "object": "Book1.xlsx"
+}

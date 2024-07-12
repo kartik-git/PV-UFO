@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Harvey balls",
+    "steps": [
+        "1. Select the cells that contain the data you want to display in the Harvey Balls.",
+        "2. Go to the 'Insert' tab.",
+        "3. Click on the 'Insert Statistic Chart' button.",
+        "4. Select the 'Harvey Balls' chart type.",
+        "5. Click 'OK'."
+    ],
+    "object": "Book1.xlsx"
+}

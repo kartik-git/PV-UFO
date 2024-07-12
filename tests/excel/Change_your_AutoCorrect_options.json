@@ -1,1 +1,10 @@
-{}
+{
+    "task": "Change your AutoCorrect options.",
+    "steps": [
+        "1. Click the File tab.",
+        "2. Click Options.",
+        "3. Click Proofing.",
+        "4. Click AutoCorrect Options."
+    ],
+    "object": "Book1.xlsx"
+}

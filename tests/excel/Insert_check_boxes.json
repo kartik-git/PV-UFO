@@ -1,1 +1,10 @@
-{}
+{
+    "task": "Insert check boxes",
+    "steps": [
+        "1. Go to the 'Developer' tab.",
+        "2. Click on the 'Insert' button in the 'Controls' group.",
+        "3. Click on the 'Check Box' button.",
+        "4. Click on the worksheet where you want to insert the check box."
+    ],
+    "object": "Book1.xlsx"
+}

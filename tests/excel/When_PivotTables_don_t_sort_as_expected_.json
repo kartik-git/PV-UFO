@@ -1,1 +1,12 @@
-{}
+{
+    "task": "When PivotTables don't sort as expected",
+    "steps": [
+        "1. Open Excel.",
+        "2. Open a workbook.",
+        "3. Click on the PivotTable.",
+        "4. Click on the 'Analyze' tab.",
+        "5. Click on 'Sort'.",
+        "6. Click on 'More Sort Options'."
+    ],
+    "object": "Book1.xlsx"
+}

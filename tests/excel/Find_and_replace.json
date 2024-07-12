@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Find and replace",
+    "steps": [
+        "1. Click on the 'Home' tab.",
+        "2. Click on the 'Find & Select' button.",
+        "3. Click on 'Replace'.",
+        "4. Enter the text you want to find and replace.",
+        "5. Click on 'Replace All'."
+    ],
+    "object": "Book1.xlsx"
+}

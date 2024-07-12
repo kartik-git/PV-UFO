@@ -1,1 +1,10 @@
-{}
+{
+    "task": "Insert object",
+    "steps": [
+        "1. Go to the 'Insert' tab.",
+        "2. Click on the 'Object' button in the 'Text' group.",
+        "3. Select the type of object you want to insert.",
+        "4. Click 'OK'."
+    ],
+    "object": "Book1.xlsx"
+}

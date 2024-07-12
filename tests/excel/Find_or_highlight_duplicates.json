@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Find or highlight duplicates",
+    "steps": [
+        "1. Click on the 'Home' tab.",
+        "2. Click on the 'Conditional Formatting' button.",
+        "3. Click on 'Highlight Cells Rules'.",
+        "4. Click on 'Duplicate Values'.",
+        "5. Select the formatting you want to apply to the duplicates.",
+        "6. Click on 'OK'."
+    ],
+    "object": "Book1.xlsx"
+}

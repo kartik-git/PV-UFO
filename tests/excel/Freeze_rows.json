@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Freeze rows",
+    "steps": [
+        "1. Open Excel.",
+        "2. Open a workbook.",
+        "3. Select the row below the rows you want to freeze.",
+        "4. Click on the 'View' tab.",
+        "5. Click on the 'Freeze Panes' button.",
+        "6. Click on 'Freeze Panes'."
+    ],
+    "object": "Book1.xlsx"
+}

@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Turn on Power Pivot",
+    "steps": [
+        "1. Open Excel.",
+        "2. Click on 'File'.",
+        "3. Click on 'Options'.",
+        "4. Click on 'Add-Ins'.",
+        "5. Click on 'COM Add-ins'.",
+        "6. Check 'Microsoft Office Power Pivot'.",
+        "7. Click on 'OK'."
+    ],
+    "object": "Book1.xlsx"
+}

@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Set page margins",
+    "steps": [
+        "1. Open Excel.",
+        "2. Open a workbook.",
+        "3. Click on the 'Page Layout' tab.",
+        "4. Click on the 'Margins' button.",
+        "5. Click on 'Custom Margins'.",
+        "6. Enter the margin values.",
+        "7. Click on 'OK'."
+    ],
+    "object": "Book1.xlsx"
+}

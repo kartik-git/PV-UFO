@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Recover an unsaved file",
+    "steps": [
+        "1. Open Excel.",
+        "2. Click on the 'File' tab.",
+        "3. Click on 'Open'.",
+        "4. Click on 'Recover Unsaved Workbooks'.",
+        "5. Select the file you want to recover.",
+        "6. Click on 'Open'."
+    ],
+    "object": "Book1.xlsx"
+}

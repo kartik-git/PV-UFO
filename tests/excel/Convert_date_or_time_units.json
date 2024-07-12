@@ -1,1 +1,9 @@
-{}
+{
+    "task": "Convert date or time units",
+    "steps": [
+        "1. On the Home tab, select the arrow next to the Number Format box, and choose More Number Formats.",
+        "2. Under Category, select Date or Time.",
+        "3. Choose the type and locale from the options given, and select OK."
+      ],
+    "object": "Book1.xlsx"
+}

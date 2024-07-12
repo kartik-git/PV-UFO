@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Where's the Dialog box launcher?",
+    "steps": [
+        "1. Open Excel.",
+        "2. Open a workbook.",
+        "3. Click on the 'Formulas' tab.",
+        "4. Click on the 'Name Manager' button.",
+        "5. Click on the 'New' button.",
+        "6. Click on the 'Refers to' box.",
+        "7. Click on the 'Dialog box launcher'."
+    ],
+    "object": "Book1.xlsx"
+}

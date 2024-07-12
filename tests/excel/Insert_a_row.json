@@ -1,1 +1,8 @@
-{}
+{
+    "task": "Insert a row",
+    "steps": [
+        "1. Select the row below where you want to insert the new row.",
+        "2. Right-click on the row and select 'Insert'."
+    ],
+    "object": "Book1.xlsx"
+}

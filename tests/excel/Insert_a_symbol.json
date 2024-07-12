@@ -1,1 +1,10 @@
-{}
+{
+    "task": "Insert a symbol",
+    "steps": [
+        "1. Go to the 'Insert' tab.",
+        "2. Click on the 'Symbol' button in the 'Text' group.",
+        "3. Select the symbol you want to insert.",
+        "4. Click 'Insert'."
+    ],
+    "object": "Book1.xlsx"
+}

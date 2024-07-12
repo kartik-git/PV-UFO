@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Color conditional formatting",
+    "steps": [
+        "1. Select the cells you want to format.",
+        "2. Go to the Home tab, select Conditional Formatting and choose New Rule.",
+        "3. Choose 'Format only cells that contain' option.",
+        "4. Input the desired conditions.",
+        "5. Select Format and go to the Fill tab. Choose the colors and effects for your data."
+    ],
+    "object": "Book1.xlsx"
+}

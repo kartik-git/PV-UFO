@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Remove the header or footer",
+    "steps": [
+        "1. Open Excel.",
+        "2. Open a workbook.",
+        "3. Click on the 'Insert' tab.",
+        "4. Click on 'Header & Footer'.",
+        "5. Click on 'Remove Header' or 'Remove Footer'."
+    ],
+    "object": "Book1.xlsx"
+}

@@ -1,1 +1,14 @@
-{}
+{
+    "task": "Drop-down list color",
+    "steps": [
+        "1. Select the cell A1",
+        "2. Click Data",
+        "3. Select Data Validation",
+        "4. Click the 'Settings' tab",
+        "5. Click the 'Error Alert' tab",
+        "6. Click the 'Input Message' tab",
+        "7. Click the 'Error Alert' tab",
+        "8. Click OK."
+    ],
+    "object": "Book1.xlsx" 
+}

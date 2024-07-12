@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Insert a watermark",
+    "steps": [
+        "1. Go to the 'Insert' tab.",
+        "2. Click on the 'Header & Footer' button in the 'Text' group.",
+        "3. Click on the 'Design' tab under 'Header & Footer Tools'.",
+        "4. Click on the 'Picture' button in the 'Insert' group.",
+        "5. Select the image you want to use as a watermark.",
+        "6. Click 'Insert'.",
+        "7. Click on the 'Close Header and Footer' button in the 'Close' group."
+    ],
+    "object": "Book1.xlsx"
+}

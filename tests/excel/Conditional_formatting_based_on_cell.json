@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Conditional formatting based on cell value",
+    "steps": [
+        "1. Select the cells you want to format and make note of the first cell's address.",
+        "2. Go to Home, select Conditional Formatting and choose New Rule.",
+        "3. Under Select a rule type, choose 'Use a formula to determine'.",
+        "4. For 'Format values where this formula is true', type a formula that starts with an equal sign and the cell address you noted above. For example: =C2>B2 will format C2 if it is greater than B2. If you selected a range, formatting the first cell will fill the rest of the range.",
+        "5. Select Format and choose options like Fill for cell color and Font for text color. Select OK and OK again."
+      ],
+    "object": "Book1.xlsx"
+}

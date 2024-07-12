@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Set print area",
+    "steps": [
+        "1. Open Excel.",
+        "2. Open a workbook.",
+        "3. Select the range of cells that you want to set as the print area.",
+        "4. Click on the 'Page Layout' tab.",
+        "5. Click on the 'Print Area' button.",
+        "6. Click on 'Set Print Area'."
+    ],
+    "object": "Book1.xlsx"
+}
