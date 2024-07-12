@@ -1,1 +1,26 @@
-{}
+{
+    "task": "Create Birthday content",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Click on the 'Insert' tab.",
+        "3. Click on 'Text Box'.",
+        "4. Draw a text box on the slide.",
+        "5. Type 'Happy Birthday'.",
+        "6. Click on the 'Home' tab.",
+        "7. Change the font size to 48.",
+        "8. Change the font color to red.",
+        "9. Click on 'Insert'.",
+        "10. Click on 'Picture'.",
+        "11. Select a birthday image.",
+        "12. Click on 'Insert'.",
+        "13. Click on 'Text Box'.",
+        "14. Draw a text box below the image.",
+        "15. Type 'Wishing you a day filled with love and joy'.",
+        "16. Click on the 'Home' tab.",
+        "17. Change the font size to 24.",
+        "18. Change the font color to blue.",
+        "19. Click on 'Save'.",
+        "20. Save the presentation as 'Birthday.pptx'."
+    ],
+    "object": "Presentation1.pptx"
+}

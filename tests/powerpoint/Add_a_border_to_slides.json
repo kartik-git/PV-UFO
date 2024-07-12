@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Add a border to slides",
+    "steps": [
+        "1. Go to Insert",
+        "2. Click on Shapes",
+        "3. Select the Rectangle Shape",
+        "4. Draw the rectangle on the slide",
+        "5. Select the Rectangle",
+        "6. Go to Format Shape"
+    ],
+    "object": "Presentation1.pptx"
+}

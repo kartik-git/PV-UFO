@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Set a default font",
+    "steps": [
+        "1. Open Word.",
+        "2. Go to the 'Home' tab.",
+        "3. Click on the 'Font' dialog box launcher.",
+        "4. Select the font that you want to set as the default.",
+        "5. Click on 'Set As Default'.",
+        "6. Select 'All documents based on the Normal.dotm template'.",
+        "7. Click on 'OK'."
+    ],
+    "object": "Word"
+}

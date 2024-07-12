@@ -1,1 +1,14 @@
-{}
+{
+    "task": "Apply a template to a new presentation",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Go to the 'File' menu.",
+        "3. Click on 'New'.",
+        "4. In the 'Search for online templates' box, type the name of the template.",
+        "5. Press 'Enter'.",
+        "6. Click on the desired template.",
+        "7. Click on 'Create'.",
+        "8. Save the presentation."
+    ],
+    "object": "Presentation1.pptx"
+}

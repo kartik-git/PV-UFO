@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Create a slide master",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Click on the 'View' tab.",
+        "3. Click on 'Slide Master'.",
+        "4. Click on 'Insert Slide Master'.",
+        "5. Click on 'Close Master View'."
+    ],
+    "object": "Presentation1.pptx"
+}

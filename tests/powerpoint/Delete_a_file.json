@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Delete a file",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Click on the 'File' tab.",
+        "3. Click on 'Open'.",
+        "4. Select the file you want to delete.",
+        "5. Click on 'Delete'."
+    ],
+    "object": "Presentation1.pptx"
+}

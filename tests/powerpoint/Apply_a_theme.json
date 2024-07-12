@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Apply a theme",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Go to the 'Design' tab.",
+        "4. Click on 'Themes'.",
+        "5. Select the desired theme."
+    ],
+    "object": "Presentation1.pptx"
+}

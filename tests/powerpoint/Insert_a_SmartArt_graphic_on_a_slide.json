@@ -1,1 +1,14 @@
-{}
+{
+    "task": "Insert a SmartArt graphic on a slide",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Go to the 'Insert' tab.",
+        "4. Click on 'SmartArt'.",
+        "5. Select the SmartArt graphic you want to insert.",
+        "6. Click 'OK'.",
+        "7. Enter text in the SmartArt graphic.",
+        "8. Format the SmartArt graphic as needed."
+    ],
+    "object": "Presentation1.pptx"
+}

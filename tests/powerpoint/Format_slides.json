@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Format slides",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the slide where the slide is located.",
+        "4. Click on the slide to select it.",
+        "5. Go to the 'Design' tab."
+    ],
+    "object": "Presentation1.pptx"
+}

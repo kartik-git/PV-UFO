@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Create a flow chart for a process",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Click on the 'File' tab.",
+        "3. Click on 'New'.",
+        "4. In the search box, type 'flow chart'.",
+        "5. Press 'Enter'.",
+        "6. Click on a flow chart template.",
+        "7. Click on 'Create'."
+    ],
+    "object": "Presentation1.pptx"
+}

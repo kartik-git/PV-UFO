@@ -1,1 +1,14 @@
-{}
+{
+    "task": "Convert handouts to a Word document",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on 'File'.",
+        "4. Click on 'Export'.",
+        "5. Click on 'Create Handouts'.",
+        "6. Choose the layout you want.",
+        "7. Click on 'OK'.",
+        "8. Save the Word document."
+    ],
+    "object": "Presentation1.pptx"
+}

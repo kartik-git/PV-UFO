@@ -1,1 +1,14 @@
-{}
+{
+    "task": "Take a screenshot",
+    "steps": [
+        "1. Open Word.",
+        "2. Open a document.",
+        "3. Press 'Alt + Print Screen' to take a screenshot of the active window.",
+        "4. Open Paint.",
+        "5. Press 'Ctrl + V' to paste the screenshot.",
+        "6. Click on 'File' > 'Save As'.",
+        "7. Enter a name for the screenshot.",
+        "8. Click on 'Save'."
+    ],
+    "object": "Document1.docx"
+}

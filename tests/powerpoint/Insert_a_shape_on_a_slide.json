@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Insert a shape on a slide",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Go to the 'Insert' tab.",
+        "4. Click on 'Shapes'.",
+        "5. Select the shape you want to insert.",
+        "6. Draw the shape on the slide.",
+        "7. Format the shape as needed."
+    ],
+    "object": "Presentation1.pptx"
+}

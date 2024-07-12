@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Change your AutoCorrect options",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Click on 'File'.",
+        "3. Click on 'Options'.",
+        "4. Click on 'Proofing'.",
+        "5. Click on 'AutoCorrect Options'.",
+        "6. Change the AutoCorrect options.",
+        "7. Click on 'OK'."
+    ],
+    "object": "Presentation1.pptx"
+}

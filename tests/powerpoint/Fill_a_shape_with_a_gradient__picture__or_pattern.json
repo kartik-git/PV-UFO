@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Fill a shape with a gradient, picture, or pattern",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the shape you want to fill.",
+        "4. Go to the 'Format' tab.",
+        "5. Click on 'Shape Fill'.",
+        "6. Select 'Gradient', 'Picture', or 'Pattern'.",
+        "7. Choose the gradient, picture, or pattern you want to fill the shape with."
+    ],
+    "object": "Presentation1.pptx"
+}

@@ -1,1 +1,14 @@
-{}
+{
+    "task": "Square root",
+    "steps": [
+        "1. Open Word.",
+        "2. Open a document.",
+        "3. Select the number that you want to find the square root of.",
+        "4. Go to the 'Insert' tab.",
+        "5. Click on 'Equation'.",
+        "6. Select 'Insert New Equation'.",
+        "7. Click on the 'Radical' button.",
+        "8. Select 'Square Root'."
+    ],
+    "object": "Document1.docx"
+}

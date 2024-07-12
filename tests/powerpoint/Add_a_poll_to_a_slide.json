@@ -1,1 +1,14 @@
-{}
+{
+    "task": "Add a poll to a slide",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Go to the 'Insert' tab.",
+        "4. Click on 'Poll Everywhere'.",
+        "5. Select the type of poll you want to add.",
+        "6. Customize the poll options.",
+        "7. Position the poll on the slide.",
+        "8. Adjust the poll settings as needed."
+    ],
+    "object": "Presentation1.pptx"
+}

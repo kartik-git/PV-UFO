@@ -1,1 +1,15 @@
-{}
+{
+    "task": "Create a photo collage",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Click on the 'Insert' tab.",
+        "3. Click on 'Pictures'.",
+        "4. Select the photos you want to include in the collage.",
+        "5. Click on 'Insert'.",
+        "6. Arrange the photos on the slide.",
+        "7. Resize and rotate the photos as needed.",
+        "8. Add borders or effects to the photos.",
+        "9. Save the collage."
+    ],
+    "object": "Presentation1.pptx"
+}

@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Inspect a document",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Click on the 'File' tab.",
+        "3. Click on 'Info'.",
+        "4. Click on 'Check for Issues'.",
+        "5. Click on 'Inspect Document'."
+    ],
+    "object": "Presentation1.pptx"
+}

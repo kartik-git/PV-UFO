@@ -1,1 +1,14 @@
-{}
+{
+    "task": "Add speaker notes to slides",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Go to the 'View' tab.",
+        "4. Click on 'Normal' view.",
+        "5. Select the slide you want to add speaker notes to.",
+        "6. Click on the 'Notes' pane at the bottom of the screen.",
+        "7. Enter your speaker notes for the selected slide.",
+        "8. Repeat steps 5-7 for each slide you want to add speaker notes to."
+    ],
+    "object": "Presentation1.pptx"
+}

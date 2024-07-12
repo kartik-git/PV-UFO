@@ -1,1 +1,14 @@
-{}
+{
+    "task": "Flatten an image",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the slide where the image is located.",
+        "4. Click on the image to select it.",
+        "5. Go to the 'Format' tab.",
+        "6. Click on 'Crop'.",
+        "7. Click on 'Crop to Shape'.",
+        "8. Select 'Rectangle'."
+    ],
+    "object": "Presentation1.pptx"
+}

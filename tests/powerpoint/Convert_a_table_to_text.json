@@ -1,1 +1,14 @@
-{}
+{
+    "task": "Convert a table to text",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Select the table you want to convert to text.",
+        "4. Go to the 'Table Tools' tab.",
+        "5. Click on 'Layout'.",
+        "6. Click on 'Convert to Text'.",
+        "7. Choose the delimiter you want to use.",
+        "8. Click on 'OK'."
+    ],
+    "object": "Presentation1.pptx"
+}

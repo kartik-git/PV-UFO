@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Compress the file size of a picture",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the picture.",
+        "4. Click on the 'Format' tab.",
+        "5. Click on 'Compress Pictures'."
+    ],
+    "object": "Presentation1.pptx"
+}

@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Stop autonumbering",
+    "steps": [
+        "1. Open Word.",
+        "2. Open a document.",
+        "3. Select the list that you want to stop autonumbering.",
+        "4. Click on the 'Numbering' button.",
+        "5. Select 'None'."
+    ],
+    "object": "Document1.docx"
+}

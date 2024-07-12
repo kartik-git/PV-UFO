@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Change line spacing",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Select the text you want to change.",
+        "4. Click on the 'Home' tab.",
+        "5. Click on 'Line Spacing'.",
+        "6. Select the line spacing you want.",
+        "7. Click on 'OK'."
+    ],
+    "object": "Presentation1.pptx"
+}

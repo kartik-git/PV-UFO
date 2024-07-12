@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Choose the default language",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Click on 'File'.",
+        "3. Click on 'Options'.",
+        "4. Click on 'Language'.",
+        "5. Choose the default language.",
+        "6. Click on 'OK'."
+    ],
+    "object": "Presentation1.pptx"
+}

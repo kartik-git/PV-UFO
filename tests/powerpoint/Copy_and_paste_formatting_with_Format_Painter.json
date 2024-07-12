@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Copy and paste formatting with Format Painter",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Select the text or object with the formatting you want to copy.",
+        "4. Go to the 'Home' tab.",
+        "5. Click on 'Format Painter'.",
+        "6. Click on the text or object where you want to apply the formatting."
+    ],
+    "object": "Presentation1.pptx"
+}

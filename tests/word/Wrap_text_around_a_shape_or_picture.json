@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Wrap text around a shape or picture",
+    "steps": [
+        "1. Open Word.",
+        "2. Open a document.",
+        "3. Insert a shape or picture into the document.",
+        "4. Click on the shape or picture.",
+        "5. Go to the 'Format' tab.",
+        "6. Click on 'Wrap Text'.",
+        "7. Select the desired text wrapping option."
+    ],
+    "object": "Document1.docx"
+}

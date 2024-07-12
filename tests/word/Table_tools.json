@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Table tools",
+    "steps": [
+        "1. Open Word.",
+        "2. Open a document.",
+        "3. Click on the table.",
+        "4. Go to the 'Table Tools' tab.",
+        "5. Use the tools to format the table."
+    ],
+    "object": "Document1.docx"
+}

@@ -1,1 +1,17 @@
-{}
+{
+    "task": "Add bullet points",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Go to the 'Home' tab.",
+        "4. Click on 'New Slide'.",
+        "5. Select the 'Title and Content' layout.",
+        "6. Type the title of the slide in the title placeholder.",
+        "7. Click on the bulleted list icon in the content placeholder.",
+        "8. Type the first bullet point.",
+        "9. Press 'Enter' to add a new bullet point.",
+        "10. Repeat steps 8-9 to add more bullet points.",
+        "11. Format the bullet points as needed."
+    ],
+    "object": "Presentation1.pptx"
+}

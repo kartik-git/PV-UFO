@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Show the total number of pages",
+    "steps": [
+        "1. Open Word.",
+        "2. Open a document.",
+        "3. Go to the 'Insert' tab.",
+        "4. Click on 'Page Number'.",
+        "5. Click on 'Top of Page'.",
+        "6. Click on 'Plain Number 3'."
+    ],
+    "object": "Document1.docx"
+}

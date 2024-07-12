@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Repeat header rows in a multi-page table",
+    "steps": [
+        "1. Open Word.",
+        "2. Open a document.",
+        "3. Click on the table.",
+        "4. Go to the 'Layout' tab.",
+        "5. Click on 'Repeat Header Rows'."
+    ],
+    "object": "Document1.docx"
+}

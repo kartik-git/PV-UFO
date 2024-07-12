@@ -1,1 +1,14 @@
-{}
+{
+    "task": "Change an animation",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the slide with the animation you want to change.",
+        "4. Click on the 'Animations' tab.",
+        "5. Click on the animation you want to change.",
+        "6. Click on 'Effect Options'.",
+        "7. Change the effect options.",
+        "8. Click on 'OK'."
+    ],
+    "object": "Presentation1.pptx"
+}

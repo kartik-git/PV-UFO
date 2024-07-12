@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Choose paste options",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Copy a slide.",
+        "4. Click on the slide where you want to paste the copied slide.",
+        "5. Click on 'Paste'.",
+        "6. Choose the paste options."
+    ],
+    "object": "Presentation1.pptx"
+}

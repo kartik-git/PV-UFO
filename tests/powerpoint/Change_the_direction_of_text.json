@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Change the direction of text",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the text box with the text you want to change.",
+        "4. Click on the 'Format' tab.",
+        "5. Click on 'Text Direction'.",
+        "6. Select the direction you want to apply."
+    ],
+    "object": "Presentation1.pptx"
+}

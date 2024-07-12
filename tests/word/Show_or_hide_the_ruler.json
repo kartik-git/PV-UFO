@@ -1,1 +1,8 @@
-{}
+{
+    "task": "Show or hide the ruler",
+    "steps": [
+        "1. Go to the 'View' tab.",
+        "2. Click on 'Ruler'."
+    ],
+    "object": "Document1.docx"
+}

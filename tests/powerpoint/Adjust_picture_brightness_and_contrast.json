@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Adjust picture brightness and contrast",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Select the picture you want to adjust the brightness and contrast for.",
+        "4. Go to the 'Format' tab.",
+        "5. Click on the 'Adjust' button.",
+        "6. Click on 'Brightness' or 'Contrast'.",
+        "7. Adjust the slider to the desired level."
+    ],
+    "object": "Presentation1.pptx"
+}

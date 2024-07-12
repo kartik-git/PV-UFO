@@ -1,13 +1,11 @@
 {
     "task": "Accept or reject changes in a document",
     "steps": [
-        "1. You can accept or reject changes on the Review tab:",
-        "2. Accept or reject changes",
-        "3. To accept changes one at a time, select Accept.",
-        "4. To accept all changes, select the drop-down arrow under Accept and select Accept All Changes.",
-        "5. To reject changes one at a time, select Reject.",
-        "6. To reject all changes, select the drop-down arrow under Reject and select Reject All Changes.",
-        "7. To skip a change or go back to a change, select Previous or Next."
+        "1. To accept changes one at a time, select Accept.",
+        "2. To accept all changes, select the drop-down arrow under Accept and select Accept All Changes.",
+        "3. To reject changes one at a time, select Reject.",
+        "4. To reject all changes, select the drop-down arrow under Reject and select Reject All Changes.",
+        "5. To skip a change or go back to a change, select Previous or Next."
     ],
     "object": "Document11.docx"
 }

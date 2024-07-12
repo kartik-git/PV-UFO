@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Hear text read aloud",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Select the text you want to hear.",
+        "4. Go to the 'Review' tab.",
+        "5. Click on 'Read Aloud'."
+    ],
+    "object": "Presentation1.pptx"
+}

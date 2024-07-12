@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Create a text watermark",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the 'View' tab.",
+        "4. Click on 'Slide Master'.",
+        "5. Click on 'Insert Text Box'.",
+        "6. Type the text.",
+        "7. Click on 'Close Master View'."
+    ],
+    "object": "Presentation1.pptx"
+}

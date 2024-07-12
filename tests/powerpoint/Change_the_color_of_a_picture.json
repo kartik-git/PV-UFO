@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Change the color of a picture",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the slide with the picture you want to change.",
+        "4. Click on the picture.",
+        "5. Click on the 'Format' tab.",
+        "6. Click on 'Color'.",
+        "7. Click on the color you want to apply."
+    ],
+    "object": "Presentation1.pptx"
+}

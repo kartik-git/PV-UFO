@@ -1,1 +1,20 @@
-{}
+{
+    "task": "Add a column to a table",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Go to the 'Insert' tab.",
+        "4. Click on 'Shapes'.",
+        "5. Select the 'Rectangle' shape.",
+        "6. Draw the rectangle on the slide.",
+        "7. Go to 'Format Shape'.",
+        "8. Click on 'Fill'.",
+        "9. Select a color for the fill.",
+        "10. Click on 'Line'.",
+        "11. Select a color for the line.",
+        "12. Click on 'Line Style'.",
+        "13. Select a width for the line.",
+        "14. Click on 'Close'."
+    ],
+    "object": "Presentation1.pptx"
+}

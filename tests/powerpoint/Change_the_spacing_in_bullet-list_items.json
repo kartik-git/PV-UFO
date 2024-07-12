@@ -1,1 +1,14 @@
-{}
+{
+    "task": "Change the spacing in bullet-list items",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the text box with the bullet-list items you want to change.",
+        "4. Click on the 'Home' tab.",
+        "5. Click on 'Line Spacing'.",
+        "6. Click on 'Line Spacing Options'.",
+        "7. Change the spacing in the bullet-list items.",
+        "8. Click on 'OK'."
+    ],
+    "object": "Presentation1.pptx"
+}

@@ -1,1 +1,17 @@
-{}
+{
+    "task": "Write a letter with letterhead",
+    "steps": [
+        "1. Open Word.",
+        "2. Open a new document.",
+        "3. Go to the 'Insert' tab.",
+        "4. Click on 'Header'.",
+        "5. Select 'Edit Header'.",
+        "6. Insert the letterhead image.",
+        "7. Go to the 'Insert' tab.",
+        "8. Click on 'Cover Page'.",
+        "9. Select a cover page template.",
+        "10. Replace the placeholder text with your own text.",
+        "11. Save the document."
+    ],
+    "object": "Document1.docx"
+}

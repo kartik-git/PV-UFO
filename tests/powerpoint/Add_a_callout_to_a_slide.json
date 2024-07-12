@@ -1,1 +1,14 @@
-{}
+{
+    "task": "Add a callout to a slide",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Go to the 'Insert' tab.",
+        "4. Click on 'Shapes'.",
+        "5. Select the 'Callout' shape.",
+        "6. Draw the callout on the slide.",
+        "7. Enter text in the callout.",
+        "8. Format the callout as needed."
+    ],
+    "object": "Presentation1.pptx"
+}

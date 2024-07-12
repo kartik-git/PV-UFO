@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Insert a circle",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Go to the 'Insert' tab.",
+        "4. Click on 'Shapes'.",
+        "5. Select the 'Oval' shape.",
+        "6. Draw the circle on the slide.",
+        "7. Position and resize the circle as needed."
+    ],
+    "object": "Presentation1.pptx"
+}

@@ -1,1 +1,17 @@
-{}
+{
+    "task": "Choose a frame or border for a picture",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the picture you want to add a frame or border to.",
+        "4. Click on the 'Format' tab.",
+        "5. Click on 'Picture Border'.",
+        "6. Choose a color for the border.",
+        "7. Choose a weight for the border.",
+        "8. Click on 'Picture Effects'.",
+        "9. Choose a frame style.",
+        "10. Choose a frame color.",
+        "11. Choose a frame weight."
+    ],
+    "object": "Presentation1.pptx"
+}

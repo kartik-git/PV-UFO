@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Create a freeform shape",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Click on the 'Insert' tab.",
+        "3. Click on 'Shapes'.",
+        "4. Click on 'Scribble'.",
+        "5. Draw the shape on the slide.",
+        "6. Release the mouse button to finish drawing the shape."
+    ],
+    "object": "Presentation1.pptx"
+}

@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Use Trust Center",
+    "steps": [
+        "1. Open Word.",
+        "2. Go to 'File' > 'Options'.",
+        "3. Click on 'Trust Center'.",
+        "4. Click on 'Trust Center Settings'.",
+        "5. Configure the security settings as needed."
+    ],
+    "object": "Document1.docx"
+}

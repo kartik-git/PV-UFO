@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Edit points on a shape",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the shape you want to edit.",
+        "4. Click on 'Edit Points'.",
+        "5. Edit the points.",
+        "6. Click on 'OK'."
+    ],
+    "object": "Presentation1.pptx"
+}

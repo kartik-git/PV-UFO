@@ -1,1 +1,15 @@
-{}
+{
+    "task": "Add an action button to a slide",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Go to the 'Insert' tab.",
+        "4. Click on 'Shapes'.",
+        "5. Select the 'Action Button' shape.",
+        "6. Draw the action button on the slide.",
+        "7. In the 'Action Settings' dialog box, select the action for the button.",
+        "8. Click 'OK' to apply the action to the button.",
+        "9. Format the action button as needed."
+    ],
+    "object": "Presentation1.pptx"
+}

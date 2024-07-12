@@ -1,1 +1,8 @@
-{}
+{
+    "task": "Show or hide the ribbon",
+    "steps": [
+        "2. Click on the 'Ribbon Display Options' button in the top right corner of the window.",
+        "3. Click on 'Auto-hide Ribbon'."
+    ],
+    "object": "Document1.docx"
+}

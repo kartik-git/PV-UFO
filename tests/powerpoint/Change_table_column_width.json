@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Change table column width",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the table you want to change.",
+        "4. Click on the 'Table Tools' tab.",
+        "5. Click on 'Layout'.",
+        "6. Click on 'Distribute Columns'.",
+        "7. Click on 'Distribute Columns Evenly'."
+    ],
+    "object": "Presentation1.pptx"
+}

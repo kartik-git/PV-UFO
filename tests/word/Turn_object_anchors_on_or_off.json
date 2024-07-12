@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Turn object anchors on or off",
+    "steps": [
+        "1. Open Word.",
+        "2. Open a document.",
+        "3. Go to 'File' > 'Options'.",
+        "4. In the 'Word Options' dialog box, click on 'Advanced'.",
+        "5. Under 'Show document content', check or uncheck the 'Show text boundaries' option.",
+        "6. Click 'OK'."
+    ],
+    "object": "Document1.docx"
+}

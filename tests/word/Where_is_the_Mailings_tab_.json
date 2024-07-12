@@ -1,1 +1,9 @@
-{}
+{
+    "task": "Where is the Mailings tab?",
+    "steps": [
+        "1. Open Word.",
+        "2. Open a document.",
+        "3. Go to the 'Mailings' tab."
+    ],
+    "object": "Document1.docx"
+}

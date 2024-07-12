@@ -1,1 +1,15 @@
-{}
+{
+    "task": "Find and replace a font in a presentation file",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on 'Home'.",
+        "4. Select the text you want to replace the font for.",
+        "5. Click on the 'Font' dropdown menu.",
+        "6. Click on 'Replace Fonts'.",
+        "7. Select the font you want to replace.",
+        "8. Select the font you want to use instead.",
+        "9. Click on 'Replace'."
+    ],
+    "object": "Presentation1.pptx"
+}

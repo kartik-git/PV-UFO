@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Use the APA format",
+    "steps": [
+        "1. Open Word.",
+        "2. Open a document.",
+        "3. Go to the 'References' tab.",
+        "4. Click on 'Citation & Bibliography'.",
+        "5. Click on 'Style'.",
+        "6. Select 'APA'."
+    ],
+    "object": "Document1.docx"
+}

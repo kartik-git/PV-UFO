@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Dictate text",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Go to the 'Review' tab.",
+        "4. Click on 'Dictate'.",
+        "5. Start speaking to dictate text.",
+        "6. Click on 'Dictate' again to stop."
+    ],
+    "object": "Presentation1.pptx"
+}

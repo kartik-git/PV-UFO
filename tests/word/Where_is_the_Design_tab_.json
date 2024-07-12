@@ -1,1 +1,9 @@
-{}
+{
+    "task": "Where is the Design tab?",
+    "steps": [
+        "1. Open Word.",
+        "2. Open a document.",
+        "3. Go to the 'Design' tab."
+    ],
+    "object": "Document1.docx"
+}

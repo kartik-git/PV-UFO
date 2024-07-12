@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Show or hide the Developer tab",
+    "steps": [
+        "1. Open Word.",
+        "2. Click on 'File'.",
+        "3. Click on 'Options'.",
+        "4. Click on 'Customize Ribbon'.",
+        "5. Check the 'Developer' box.",
+        "6. Click 'OK'."
+    ],
+    "object": "Document1.docx"
+}

@@ -1,1 +1,10 @@
-{}
+{
+    "task": "Tools menu",
+    "steps": [
+        "1. Open Word.",
+        "2. Open a document.",
+        "3. Go to the 'Tools' menu.",
+        "4. Explore the tools available."
+    ],
+    "object": "Document1.docx"
+}

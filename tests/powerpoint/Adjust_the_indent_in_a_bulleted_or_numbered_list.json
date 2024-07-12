@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Adjust the indent in a bulleted or numbered list",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Select the bulleted or numbered list you want to adjust the indent for.",
+        "4. Go to the 'Home' tab.",
+        "5. Click on the 'Increase List Level' or 'Decrease List Level' button to adjust the indent as needed."
+    ],
+    "object": "Presentation1.pptx"
+}

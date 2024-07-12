@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Create a word cloud",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Click on the 'Insert' tab.",
+        "3. Click on 'WordArt'.",
+        "4. Click on a WordArt style.",
+        "5. Type the text.",
+        "6. Click on 'OK'."
+    ],
+    "object": "Presentation1.pptx"
+}

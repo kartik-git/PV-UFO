@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Use the eraser",
+    "steps": [
+        "1. Open Word.",
+        "2. Open a document.",
+        "3. Go to the 'Draw' tab.",
+        "4. Click on 'Eraser'.",
+        "5. Use the eraser to erase ink strokes."
+    ],
+    "object": "Document1.docx"
+}

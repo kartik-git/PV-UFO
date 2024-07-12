@@ -1,1 +1,8 @@
-{}
+{
+    "task": "Save as PDF",
+    "steps": [
+        "1. Go to the 'File' tab.",
+        "2. Click on 'Save As Adobe PDF'."
+    ],
+    "object": "Document11.docx"
+}

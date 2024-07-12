@@ -1,1 +1,14 @@
-{}
+{
+    "task": "Translate text",
+    "steps": [
+        "1. Open Word.",
+        "2. Open a document.",
+        "3. Select the text that you want to translate.",
+        "4. Go to the 'Review' tab.",
+        "5. Click on the 'Translate' button.",
+        "6. Select 'Translate Selection'.",
+        "7. Select the language you want to translate the text to.",
+        "8. Click 'OK'."
+    ],
+    "object": "Document1.docx"
+}

@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Install an add-in",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Go to the 'Insert' tab.",
+        "3. Click on 'Get Add-ins'.",
+        "4. Search for the add-in you want to install.",
+        "5. Click on the add-in.",
+        "6. Click on 'Add'."
+    ],
+    "object": "Presentation1.pptx"
+}

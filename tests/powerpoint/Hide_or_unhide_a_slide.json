@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Hide or unhide a slide",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Go to the 'Slides' pane on the left side of the screen.",
+        "4. Right-click on the slide you want to hide or unhide.",
+        "5. Click on 'Hide Slide' to hide the slide or 'Hide Slide' again to unhide the slide."
+    ],
+    "object": "Presentation1.pptx"
+}

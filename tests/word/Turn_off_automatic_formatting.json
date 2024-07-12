@@ -1,1 +1,9 @@
-{}
+{
+    "task": "Turn off automatic formatting",
+    "steps": [
+        "1. Open Word.",
+        "2. Go to 'File' > 'Options'.",
+        "3. In the 'Word Options' dialog box, click on 'Proofing'."
+    ],
+    "object": "Document1.docx"
+}

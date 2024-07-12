@@ -1,1 +1,16 @@
-{}
+{
+    "task": "Business plan templates",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the 'File' tab.",
+        "4. Click on 'New'.",
+        "5. In the 'Search for online templates' box, type 'business plan'.",
+        "6. Press 'Enter'.",
+        "7. Click on the 'Business plan' template.",
+        "8. Click on 'Create'.",
+        "9. Fill in the business plan.",
+        "10. Save the business plan."
+    ],
+    "object": "Presentation1.pptx"
+}

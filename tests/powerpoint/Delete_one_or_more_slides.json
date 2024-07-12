@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Delete one or more slides",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the 'View' tab.",
+        "4. Click on 'Slide Sorter'.",
+        "5. Select the slide(s) you want to delete.",
+        "6. Press the 'Delete' key."
+    ],
+    "object": "Presentation1.pptx"
+}

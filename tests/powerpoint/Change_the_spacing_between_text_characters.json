@@ -1,1 +1,14 @@
-{}
+{
+    "task": "Change the spacing between text characters",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the text box with the text you want to change.",
+        "4. Click on the 'Home' tab.",
+        "5. Click on 'Character Spacing'.",
+        "6. Click on 'More Spacing'.",
+        "7. Change the spacing between characters.",
+        "8. Click on 'OK'."
+    ],
+    "object": "Presentation1.pptx"
+}

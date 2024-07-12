@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Create a pie chart",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Click on the 'Insert' tab.",
+        "3. Click on 'Chart'.",
+        "4. Click on 'Pie'.",
+        "5. Click on 'OK'."
+    ],
+    "object": "Presentation1.pptx"
+}

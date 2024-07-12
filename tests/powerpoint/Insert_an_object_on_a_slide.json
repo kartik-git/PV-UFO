@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Insert an object on a slide",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Go to the 'Insert' tab.",
+        "4. Click on 'Object'.",
+        "5. Select the type of object you want to insert.",
+        "6. Click 'OK'.",
+        "7. Resize and position the object as needed."
+    ],
+    "object": "Presentation1.pptx"
+}

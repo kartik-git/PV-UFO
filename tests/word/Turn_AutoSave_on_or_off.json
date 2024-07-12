@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Turn AutoSave on or off",
+    "steps": [
+        "1. Open Word.",
+        "2. Go to 'File' > 'Options'.",
+        "3. In the 'Word Options' dialog box, click on 'Save'.",
+        "4. Check or uncheck the 'AutoSave OneDrive and SharePoint Online files by default on Word' option.",
+        "5. Click 'OK'."
+    ],
+    "object": "Word"
+}

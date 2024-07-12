@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Change or remove a hyperlink",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the text with the hyperlink you want to change or remove.",
+        "4. Right-click on the text.",
+        "5. Click on 'Edit Hyperlink'.",
+        "6. Change the hyperlink or click on 'Remove Link'.",
+        "7. Click on 'OK'."
+    ],
+    "object": "Presentation1.pptx"
+}

@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Split cells",
+    "steps": [
+        "1. Open Word.",
+        "2. Open a document.",
+        "3. Select the table.",
+        "4. Go to the 'Layout' tab.",
+        "5. Click on 'Split Cells'.",
+        "6. Select the number of columns and rows to split the cell into.",
+        "7. Click 'OK'."
+    ],
+    "object": "Document1.docx"
+}

@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Draw connectors",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Go to the 'Insert' tab.",
+        "4. Click on 'Shapes'.",
+        "5. Select the 'Connector' shape.",
+        "6. Draw the connectors on the slide.",
+        "7. Format the connectors as needed."
+    ],
+    "object": "Presentation1.pptx"
+}

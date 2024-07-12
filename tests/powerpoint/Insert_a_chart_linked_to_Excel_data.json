@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Insert a chart linked to Excel data",
+    "steps": [
+        "1. Open Excel.",
+        "2. Open a workbook.",
+        "3. Select the data you want to include in the chart.",
+        "4. Click on the 'Insert' tab.",
+        "5. Click on 'Chart'.",
+        "6. Select the type of chart you want to create.",
+        "7. Click on 'OK'."
+    ],
+    "object": "Book1.xlsx"
+}

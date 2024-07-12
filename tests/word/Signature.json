@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Signature",
+    "steps": [
+        "1. Open Word.",
+        "2. Open a document.",
+        "3. Go to the 'Insert' tab.",
+        "4. Click on 'Signature Line'.",
+        "5. Fill in the required fields.",
+        "6. Click 'OK'."
+    ],
+    "object": "Document1.docx"
+}

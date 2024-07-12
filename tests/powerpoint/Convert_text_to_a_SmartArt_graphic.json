@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Convert text to a SmartArt graphic",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Select the text you want to convert to a SmartArt graphic.",
+        "4. Go to the 'Insert' tab.",
+        "5. Click on 'SmartArt'.",
+        "6. Choose the SmartArt graphic you want.",
+        "7. Click on 'OK'."
+    ],
+    "object": "Presentation1.pptx"
+}

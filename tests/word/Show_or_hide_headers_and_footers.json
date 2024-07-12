@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Show or hide headers and footers",
+    "steps": [
+        "1. Open Word.",
+        "2. Open a document.",
+        "3. Go to the 'Insert' tab.",
+        "4. Click on 'Header' or 'Footer'.",
+        "5. Click on 'Edit Header' or 'Edit Footer'."
+    ],
+    "object": "Document1.docx"
+}

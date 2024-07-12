@@ -1,1 +1,19 @@
-{}
+{
+    "task": "Format a table",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the slide where the table is located.",
+        "4. Click on the table to select it.",
+        "5. Go to the 'Design' tab.",
+        "6. Click on 'Shading'.",
+        "7. Select a color for the table.",
+        "8. Go to the 'Design' tab.",
+        "9. Click on 'Borders'.",
+        "10. Select a border style for the table.",
+        "11. Go to the 'Design' tab.",
+        "12. Click on 'Effects'.",
+        "13. Select an effect for the table."
+    ],
+    "object": "Presentation1.pptx"
+}

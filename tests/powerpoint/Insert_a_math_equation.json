@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Insert a math equation",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Go to the 'Insert' tab.",
+        "4. Click on 'Equation'.",
+        "5. Select the type of equation you want to insert.",
+        "6. Enter the equation.",
+        "7. Click 'OK'."
+    ],
+    "object": "Presentation1.pptx"
+}

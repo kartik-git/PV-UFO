@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Adjust line weight",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Select the line you want to adjust the weight for.",
+        "4. Go to the 'Format' tab.",
+        "5. Click on the 'Shape Outline' button.",
+        "6. Click on 'Weight'.",
+        "7. Select the desired line weight."
+    ],
+    "object": "Presentation1.pptx"
+}

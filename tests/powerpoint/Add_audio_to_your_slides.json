@@ -1,1 +1,15 @@
-{}
+{
+    "task": "Add audio to your slides",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Go to the 'Insert' tab.",
+        "4. Click on 'Audio'.",
+        "5. Select 'Audio on My PC' to insert an audio file from your computer.",
+        "6. Navigate to the audio file on your computer and select it.",
+        "7. Click 'Insert' to add the audio to the slide.",
+        "8. Adjust the audio icon on the slide as needed.",
+        "9. Play the presentation to test the audio."
+    ],
+    "object": "Presentation1.pptx"
+}

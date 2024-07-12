@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Adjust indents in paragraph text",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Select the text you want to adjust the indents for.",
+        "4. Go to the 'Home' tab.",
+        "5. Click on the 'Increase Indent' or 'Decrease Indent' button to adjust the indents as needed."
+    ],
+    "object": "Presentation1.pptx"
+}

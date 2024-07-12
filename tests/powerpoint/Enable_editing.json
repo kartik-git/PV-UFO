@@ -1,1 +1,9 @@
-{}
+{
+    "task": "Enable editing",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on 'Enable Editing'."
+    ],
+    "object": "Presentation1.pptx"
+}

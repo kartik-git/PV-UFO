@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Change the style of a bulleted or numbered list",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the text box with the bulleted or numbered list you want to change.",
+        "4. Click on the 'Home' tab.",
+        "5. Click on 'Bullets' or 'Numbering'.",
+        "6. Select the style you want to use."
+    ],
+    "object": "Presentation1.pptx"
+}

@@ -1,1 +1,18 @@
-{}
+{
+    "task": "Insert a countdown timer",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Go to the 'Insert' tab.",
+        "4. Click on 'Text Box'.",
+        "5. Draw a text box on the slide.",
+        "6. Enter the countdown timer text.",
+        "7. Go to the 'Animations' tab.",
+        "8. Click on 'Add Animation'.",
+        "9. Select 'Countdown Timer'.",
+        "10. Set the duration and other options for the countdown timer.",
+        "11. Click 'OK'.",
+        "12. Position and resize the countdown timer as needed."
+    ],
+    "object": "Presentation1.pptx"
+}

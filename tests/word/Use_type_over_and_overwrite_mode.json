@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Use type over and overwrite mode",
+    "steps": [
+        "1. Open Word.",
+        "2. Open a document.",
+        "3. Type some text.",
+        "4. Press 'Insert' to enable overwrite mode.",
+        "5. Type some more text."
+    ],
+    "object": "Document1.docx"
+}

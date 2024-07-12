@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Customize the Quick Access Toolbar",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Click on the 'File' tab.",
+        "3. Click on 'Options'.",
+        "4. Click on 'Quick Access Toolbar'.",
+        "5. Select the commands you want to add or remove.",
+        "6. Click on 'OK'."
+    ],
+    "object": "Presentation1.pptx"
+}

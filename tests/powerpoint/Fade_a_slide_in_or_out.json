@@ -1,1 +1,14 @@
-{}
+{
+    "task": "Fade a slide in or out",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the slide you want to fade in or out.",
+        "4. Go to the 'Animations' tab.",
+        "5. Click on 'Add Animation'.",
+        "6. Select 'Fade' from the list of animations.",
+        "7. Adjust the animation settings as needed.",
+        "8. Click on 'OK'."
+    ],
+    "object": "Presentation1.pptx"
+}

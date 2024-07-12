@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Rotate a shape",
+    "steps": [
+        "1. Open Word.",
+        "2. Open a document.",
+        "3. Go to the 'Insert' tab.",
+        "4. Click on 'Shapes'.",
+        "5. Select the shape you want to rotate.",
+        "6. Click on the 'Rotate' button.",
+        "7. Select the rotation option."
+    ],
+    "object": "Document1.docx"
+}

@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Remove the border from a text box",
+    "steps": [
+        "1. Open Word.",
+        "2. Open a document.",
+        "3. Click on the text box that you want to remove the border from.",
+        "4. Go to the 'Format' tab.",
+        "5. Click on 'Shape Outline'.",
+        "6. Select 'No Outline'."
+    ],
+    "object": "Document1.docx"
+}

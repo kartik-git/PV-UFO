@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Insert page numbers",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Go to the 'Insert' tab.",
+        "4. Click on 'Page Number'.",
+        "5. Select the position and style of the page numbers.",
+        "6. Click 'Apply to All'."
+    ],
+    "object": "Presentation1.pptx"
+}

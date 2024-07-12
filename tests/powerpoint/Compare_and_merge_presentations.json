@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Compare and merge presentations",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on 'Review'.",
+        "4. Click on 'Compare'.",
+        "5. Click on 'Merge'."
+    ],
+    "object": "Presentation1.pptx"
+}

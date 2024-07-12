@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Write a cover letter",
+    "steps": [
+        "1. Open Word.",
+        "2. Open a new document.",
+        "3. Go to the 'Insert' tab.",
+        "4. Click on 'Cover Page'.",
+        "5. Select a cover page template.",
+        "6. Replace the placeholder text with your own text.",
+        "7. Save the document."
+    ],
+    "object": "Document1.docx"
+}

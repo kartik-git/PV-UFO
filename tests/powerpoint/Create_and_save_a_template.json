@@ -1,1 +1,17 @@
-{}
+{
+    "task": "Create and save a template",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Click on the 'File' tab.",
+        "3. Click on 'New'.",
+        "4. In the search box, type 'Template'.",
+        "5. Press 'Enter'.",
+        "6. Click on a template.",
+        "7. Click on 'Create'.",
+        "8. Click on the 'File' tab.",
+        "9. Click on 'Save As'.",
+        "10. In the 'Save As' dialog box, type a name for the template.",
+        "11. Click on 'Save'."
+    ],
+    "object": "Presentation1.pptx"
+}

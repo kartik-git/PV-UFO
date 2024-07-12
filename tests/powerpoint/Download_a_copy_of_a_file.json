@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Download a copy of a file",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Click on the 'File' tab.",
+        "3. Click on 'Open'.",
+        "4. Select the file you want to download a copy of.",
+        "5. Click on 'Download a Copy'."
+    ],
+    "object": "Presentation1.pptx"
+}

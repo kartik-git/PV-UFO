@@ -1,1 +1,16 @@
-{}
+{
+    "task": "Insert and edit an icon",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Go to the 'Insert' tab.",
+        "4. Click on 'Icons'.",
+        "5. Select the icon you want to insert.",
+        "6. Click 'Insert'.",
+        "7. Click on the icon to select it.",
+        "8. Click on 'Format'.",
+        "9. Click on 'Color'.",
+        "10. Select the color you want to apply to the icon."
+    ],
+    "object": "Presentation1.pptx"
+}

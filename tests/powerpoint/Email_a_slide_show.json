@@ -1,1 +1,14 @@
-{}
+{
+    "task": "Email a slide show",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the 'File' tab.",
+        "4. Click on 'Share'.",
+        "5. Click on 'Email'.",
+        "6. Enter the recipient's email address.",
+        "7. Add a message.",
+        "8. Click on 'Send'."
+    ],
+    "object": "Presentation1.pptx"
+}

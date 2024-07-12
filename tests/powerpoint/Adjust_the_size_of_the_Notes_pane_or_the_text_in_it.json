@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Adjust the size of the Notes pane or the text in it",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Go to the 'View' tab.",
+        "4. Click on 'Notes Page'.",
+        "5. Click on the 'Notes Pane' border and drag it to adjust the size of the Notes pane.",
+        "6. To adjust the text size in the Notes pane, select the text and go to the 'Home' tab.",
+        "7. Click on the 'Font Size' drop-down menu and select the desired font size."
+    ],
+    "object": "Presentation1.pptx"
+}

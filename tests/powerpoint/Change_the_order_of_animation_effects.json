@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Change the order of animation effects",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the slide with the animations you want to reorder.",
+        "4. Click on the 'Animations' tab.",
+        "5. Click on the animation you want to move.",
+        "6. Click on 'Move Earlier' or 'Move Later'."
+    ],
+    "object": "Presentation1.pptx"
+}

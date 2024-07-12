@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Turn off compatibility mode",
+    "steps": [
+        "1. Open Word.",
+        "2. Go to 'File' > 'Options'.",
+        "3. In the 'Word Options' dialog box, click on 'Advanced'.",
+        "4. Under 'Compatibility options for:', uncheck the 'Use the recommended settings for this document' option.",
+        "5. Click 'OK'."
+    ],
+    "object": "Word"
+}

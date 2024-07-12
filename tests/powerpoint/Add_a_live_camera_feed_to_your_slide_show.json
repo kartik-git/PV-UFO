@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Add a live camera feed to your slide show",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Go to the 'Insert' tab.",
+        "4. Click on 'Camera'.",
+        "5. Select 'From Camera'.",
+        "6. Position the camera feed on the slide.",
+        "7. Adjust the camera settings as needed."
+    ],
+    "object": "Presentation1.pptx"
+}

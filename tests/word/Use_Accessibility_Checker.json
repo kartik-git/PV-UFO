@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Use Accessibility Checker",
+    "steps": [
+        "1. Open Word.",
+        "2. Open a document.",
+        "3. Go to the 'Review' tab.",
+        "4. Click on 'Check Accessibility'.",
+        "5. Review the accessibility issues.",
+        "6. Fix the issues."
+    ],
+    "object": "Document1.docx"
+}

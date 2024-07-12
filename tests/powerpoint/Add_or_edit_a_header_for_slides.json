@@ -1,1 +1,15 @@
-{}
+{
+    "task": "Add or edit a header for slides",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Go to the 'Insert' tab.",
+        "4. Click on 'Header & Footer'.",
+        "5. Check the 'Header' box.",
+        "6. Enter the header text in the text box.",
+        "7. Choose the header options you want.",
+        "8. Click 'Apply to All' to add the header to all slides.",
+        "9. Click 'Apply' to add the header to the current slide only."
+    ],
+    "object": "Presentation1.pptx"
+}

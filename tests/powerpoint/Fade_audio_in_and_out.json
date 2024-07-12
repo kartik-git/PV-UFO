@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Fade audio in and out",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the audio file you want to fade in or out.",
+        "4. Go to the 'Playback' tab.",
+        "5. Click on 'Fade In' or 'Fade Out'.",
+        "6. Adjust the fade duration as needed."
+    ],
+    "object": "Presentation1.pptx"
+}

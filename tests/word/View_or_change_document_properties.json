@@ -1,1 +1,13 @@
-{}
+{
+    "task": "View or change document properties",
+    "steps": [
+        "1. Open Word.",
+        "2. Open a document.",
+        "3. Go to the 'File' tab.",
+        "4. Click on 'Info'.",
+        "5. Click on 'Properties'.",
+        "6. Click on 'Advanced Properties'.",
+        "7. View or change the properties."
+    ],
+    "object": "Document1.docx"
+}

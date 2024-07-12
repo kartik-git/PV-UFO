@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Customize the size of your slides",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Go to the 'Design' tab.",
+        "4. Click on 'Slide Size'.",
+        "5. Select 'Custom Slide Size'.",
+        "6. Enter the desired width and height for your slides.",
+        "7. Click on 'OK' to apply the custom size."
+    ],
+    "object": "Presentation1.pptx"
+}

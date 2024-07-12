@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Find more backgrounds",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Click on 'Design'.",
+        "3. Click on 'More'.",
+        "4. Click on 'More Backgrounds'.",
+        "5. Click on the background you want to use.",
+        "6. Click on 'Apply to All'."
+    ],
+    "object": "Presentation1.pptx"
+}

@@ -1,1 +1,10 @@
-{}
+{
+    "task": "Show or hide table gridlines",
+    "steps": [
+        "1. Open Word.",
+        "2. Open a document.",
+        "3. Click on the 'Table Layout' tab.",
+        "4. Click on 'View Gridlines'."
+    ],
+    "object": "Document1.docx"
+}

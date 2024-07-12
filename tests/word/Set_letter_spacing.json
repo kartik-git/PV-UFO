@@ -1,1 +1,14 @@
-{}
+{
+    "task": "Set letter spacing",
+    "steps": [
+        "1. Open Word.",
+        "2. Open a document.",
+        "3. Select the text that you want to change the letter spacing for.",
+        "4. Go to the 'Home' tab.",
+        "5. Click on the 'Font' dialog box launcher.",
+        "6. Go to the 'Advanced' tab.",
+        "7. In the 'Spacing' box, enter the desired letter spacing.",
+        "8. Click on 'OK'."
+    ],
+    "object": "Document1.docx"
+}

@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Turn dark mode on or off",
+    "steps": [
+        "1. Open Word.",
+        "2. Go to 'File' > 'Options'.",
+        "3. In the 'Word Options' dialog box, click on 'General'.",
+        "4. Under 'Personalize your copy of Microsoft Office', check or uncheck the 'Office Theme' dropdown.",
+        "5. Click 'OK'."
+    ],
+    "object": "Word"
+}

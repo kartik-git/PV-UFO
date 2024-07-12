@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Align text vertically",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Select the text box or text boxes you want to align vertically.",
+        "4. Go to the 'Format' tab.",
+        "5. Click on 'Align'.",
+        "6. Choose 'Align Middle' or 'Align Bottom' to align the text vertically.",
+        "7. Click on 'Align Selected Objects'."
+    ],
+    "object": "Presentation1.pptx"
+}

@@ -1,1 +1,21 @@
-{}
+{
+    "task": "Curve text on a slide",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the slide where you want to curve the text.",
+        "4. Go to the 'Insert' tab.",
+        "5. Click on 'WordArt'.",
+        "6. In the 'WordArt Gallery' dialog box, click on a style.",
+        "7. Enter the text you want to curve.",
+        "8. Click on 'OK'.",
+        "9. Click on the curved text to select it.",
+        "10. Go to the 'Format' tab.",
+        "11. Click on 'Text Effects'.",
+        "12. Click on 'Transform'.",
+        "13. Select the desired curve style from the options.",
+        "14. Adjust the curvature as needed.",
+        "15. Click on 'OK'."
+    ],
+    "object": "Presentation1.pptx"
+}

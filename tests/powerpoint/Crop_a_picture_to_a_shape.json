@@ -1,1 +1,15 @@
-{}
+{
+    "task": "Crop a picture to a shape",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the picture you want to crop.",
+        "4. Go to the 'Format' tab.",
+        "5. Click on 'Crop'.",
+        "6. Click on 'Crop to Shape'.",
+        "7. Select the shape you want to crop the picture to.",
+        "8. Adjust the size and position of the picture within the shape as needed.",
+        "9. Click outside the shape to apply the crop."
+    ],
+    "object": "Presentation1.pptx"
+}

@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Change a shape",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the shape you want to change.",
+        "4. Click on the 'Format' tab.",
+        "5. Click on 'Edit Shape'.",
+        "6. Select the new shape.",
+        "7. Click on 'OK'."
+    ],
+    "object": "Presentation1.pptx"
+}

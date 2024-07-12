@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Duplicate a slide",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Go to the 'Slides' pane on the left side of the screen.",
+        "4. Right-click on the slide you want to duplicate.",
+        "5. Click on 'Duplicate Slide'."
+    ],
+    "object": "Presentation1.pptx"
+}

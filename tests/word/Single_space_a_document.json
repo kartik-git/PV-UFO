@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Single space a document",
+    "steps": [
+        "1. Open Word.",
+        "2. Open a document.",
+        "3. Select the text that you want to single space.",
+        "4. Go to the 'Home' tab.",
+        "5. Click on the 'Line and Paragraph Spacing' button.",
+        "6. Select '1.0' from the drop-down menu."
+    ],
+    "object": "Document1.docx"
+}

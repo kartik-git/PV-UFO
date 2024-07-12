@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Bring an object forward",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the object you want to bring forward.",
+        "4. Click on the 'Format' tab.",
+        "5. Click on 'Bring Forward'."
+    ],
+    "object": "Presentation1.pptx"
+}

@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Convert text to a table",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Select the text you want to convert to a table.",
+        "4. Go to the 'Insert' tab.",
+        "5. Click on 'Table'.",
+        "6. Choose the number of rows and columns you want.",
+        "7. Click on 'OK'."
+    ],
+    "object": "Presentation1.pptx"
+}

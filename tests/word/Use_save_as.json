@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Use 'Save As'",
+    "steps": [
+        "1. Open Word.",
+        "2. Open a document.",
+        "3. Go to the 'File' tab.",
+        "4. Click on 'Save As'.",
+        "5. Choose the location where you want to save the document.",
+        "6. Enter a name for the document.",
+        "7. Click on 'Save'."
+    ],
+    "object": "Document1.docx"
+}

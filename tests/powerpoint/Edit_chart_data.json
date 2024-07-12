@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Edit chart data",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the chart you want to edit.",
+        "4. Click on 'Edit Data'.",
+        "5. Edit the data.",
+        "6. Click on 'OK'."
+    ],
+    "object": "Presentation1.pptx"
+}

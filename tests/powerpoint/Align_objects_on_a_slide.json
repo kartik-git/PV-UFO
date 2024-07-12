@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Align objects on a slide",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Select the objects you want to align.",
+        "4. Go to the 'Format' tab.",
+        "5. Click on 'Align'.",
+        "6. Choose the alignment option you want.",
+        "7. Click on 'Align Selected Objects'."
+    ],
+    "object": "Presentation1.pptx"
+}

@@ -1,1 +1,16 @@
-{}
+{
+    "task": "Create a QR code",
+    "steps": [
+        "1. Open a web browser.",
+        "2. Go to the QR code generator website.",
+        "3. Enter the URL you want to encode in the QR code.",
+        "4. Click on the 'Generate QR code' button.",
+        "5. Download the QR code image.",
+        "6. Open PowerPoint.",
+        "7. Click on the 'Insert' tab.",
+        "8. Click on 'Pictures'.",
+        "9. Select the downloaded QR code image.",
+        "10. Click on 'Insert'."
+    ],
+    "object": "Presentation1.pptx"
+}

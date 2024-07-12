@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Get slide design ideas",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the slide where you want to apply a design idea.",
+        "4. Go to the 'Design' tab.",
+        "5. Click on 'Design Ideas'.",
+        "6. Browse through the design ideas and click on the one you want to apply."
+    ],
+    "object": "Presentation1.pptx"
+}

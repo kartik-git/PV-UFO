@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Create a Venn diagram",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Click on the 'Insert' tab.",
+        "3. Click on 'SmartArt'.",
+        "4. In the 'Choose a SmartArt Graphic' dialog box, click on 'Relationship'.",
+        "5. Click on 'Basic Venn'.",
+        "6. Click on 'OK'."
+    ],
+    "object": "Presentation1.pptx"
+}

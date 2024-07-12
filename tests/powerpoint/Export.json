@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Export a presentation to PDF",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on 'File'.",
+        "4. Click on 'Save As'.",
+        "5. Click on 'Browse'.",
+        "6. Select 'PDF' from the 'Save as type' dropdown.",
+        "7. Click on 'Save'."
+    ],
+    "object": "Presentation1.pptx"
+}

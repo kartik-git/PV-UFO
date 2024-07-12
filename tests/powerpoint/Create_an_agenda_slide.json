@@ -1,1 +1,15 @@
-{}
+{
+    "task": "Create an agenda slide",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the slide where you want to add the agenda slide.",
+        "4. Click on the 'Insert' tab.",
+        "5. Click on 'New Slide'.",
+        "6. In the 'New Slide' dialog box, click on 'Agenda'.",
+        "7. Click on 'OK'.",
+        "8. Enter the agenda items.",
+        "9. Click on 'OK'."
+    ],
+    "object": "Presentation1.pptx"
+}

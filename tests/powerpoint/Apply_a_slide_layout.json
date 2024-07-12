@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Apply a slide layout",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Go to the 'Home' tab.",
+        "4. Click on 'Layout'.",
+        "5. Select the desired slide layout."
+    ],
+    "object": "Presentation1.pptx"
+}

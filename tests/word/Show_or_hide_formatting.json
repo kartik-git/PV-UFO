@@ -1,1 +1,9 @@
-{}
+{
+    "task": "Show or hide formatting",
+    "steps": [
+        "1. Open Word.",
+        "2. Open a document.",
+        "3. Click on the 'Show/Hide' button in the 'Paragraph' group on the 'Home' tab to display the formatting."
+    ],
+    "object": "Document1.docx"
+}

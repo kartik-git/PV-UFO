@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Use Format Painter",
+    "steps": [
+        "1. Open Word.",
+        "2. Open a document.",
+        "3. Select the text that you want to copy the formatting from.",
+        "4. Go to the 'Home' tab.",
+        "5. Click on 'Format Painter'.",
+        "6. Select the text that you want to apply the formatting to."
+    ],
+    "object": "Document1.docx"
+}

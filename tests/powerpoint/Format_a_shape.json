@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Format a shape",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the slide where the shape is located.",
+        "4. Click on the shape to select it.",
+        "5. Go to the 'Format' tab."
+    ],
+    "object": "Presentation1.pptx"
+}

@@ -1,1 +1,14 @@
-{}
+{
+    "task": "Insert an Excel worksheet",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the 'Insert' tab.",
+        "4. Click on 'Object'.",
+        "5. Click on 'Create from file'.",
+        "6. Click on 'Browse'.",
+        "7. Select an Excel file.",
+        "8. Click on 'Insert'."
+    ],
+    "object": "Presentation1.pptx"
+}

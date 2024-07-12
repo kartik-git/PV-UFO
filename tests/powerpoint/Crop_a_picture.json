@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Crop a picture",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the picture you want to crop.",
+        "4. Go to the 'Format' tab.",
+        "5. Click on 'Crop'.",
+        "6. Click and drag the cropping handles to adjust the size of the picture as needed.",
+        "7. Click outside the picture to apply the crop."
+    ],
+    "object": "Presentation1.pptx"
+}

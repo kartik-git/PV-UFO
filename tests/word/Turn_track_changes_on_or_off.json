@@ -1,1 +1,9 @@
-{}
+{
+    "task": "Turn track changes on or off",
+    "steps": [
+        "1. Open Word.",
+        "2. Go to 'Review'.",
+        "3. Click on 'Track Changes'."
+    ],
+    "object": "Document1.docx"
+}

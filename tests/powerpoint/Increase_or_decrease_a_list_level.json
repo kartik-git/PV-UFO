@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Increase or decrease a list level",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the text that you want to change the list level of.",
+        "4. Click on the 'Home' tab.",
+        "5. Click on the 'Increase List Level' button to increase the list level.",
+        "6. Click on the 'Decrease List Level' button to decrease the list level."
+    ],
+    "object": "Presentation1.pptx"
+}

@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Show or hide the scroll bars",
+    "steps": [
+        "1. Go to the 'File' tab.",
+        "2. Click on 'Options'.",
+        "3. Go to the 'Advanced' tab.",
+        "4. Scroll down to the 'Display' section.",
+        "5. Check or uncheck 'Show vertical scroll bar' and 'Show horizontal scroll bar'.",
+        "6. Click 'OK'."
+    ],
+    "object": "Document1.docx"
+}

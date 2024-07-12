@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Create WordArt",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Click on the 'Insert' tab.",
+        "3. Click on 'WordArt'.",
+        "4. In the 'WordArt Gallery' dialog box, click on a style.",
+        "5. Enter the text.",
+        "6. Click on 'OK'."
+    ],
+    "object": "Presentation1.pptx"
+}

@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Group a set of objects",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the slide where the objects are located.",
+        "4. Click on the first object to select it.",
+        "5. Hold down the 'Ctrl' key and click on the other objects to select them.",
+        "6. Go to the 'Format' tab.",
+        "7. Click on 'Group'."
+    ],
+    "object": "Presentation1.pptx"
+}

@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Copy or duplicate a picture",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the picture you want to copy or duplicate.",
+        "4. Right-click on the picture.",
+        "5. Click on 'Copy' to copy the picture or 'Duplicate' to duplicate the picture.",
+        "6. Right-click on the slide where you want to paste the copied or duplicated picture.",
+        "7. Click on 'Paste'."
+    ],
+    "object": "Presentation1.pptx"
+}

@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Change the font",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the text you want to change the font of.",
+        "4. Click on the 'Home' tab.",
+        "5. Click on 'Font'.",
+        "6. Click on the font you want to apply."
+    ],
+    "object": "Presentation1.pptx"
+}

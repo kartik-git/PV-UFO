@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Delete all comments",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the 'Review' tab.",
+        "4. Click on 'Delete' in the 'Comments' group.",
+        "5. Click on 'Delete All Comments'."
+    ],
+    "object": "Presentation1.pptx"
+}

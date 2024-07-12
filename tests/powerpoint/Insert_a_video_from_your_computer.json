@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Insert a video from your computer",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Go to the 'Insert' tab.",
+        "4. Click on 'Video'.",
+        "5. Select 'Video on My PC'.",
+        "6. Browse for the video file you want to insert.",
+        "7. Click 'Insert'."
+    ],
+    "object": "Presentation1.pptx"
+}

@@ -1,1 +1,17 @@
-{}
+{
+    "task": "Add a sound effect to an animation",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Go to the 'Animations' tab.",
+        "4. Select an object with an animation.",
+        "5. Click on 'Add Animation'.",
+        "6. Choose an animation effect from the list.",
+        "7. Click on 'Effect Options'.",
+        "8. Go to the 'Sound' tab.",
+        "9. Select a sound effect from the list.",
+        "10. Adjust the sound settings as needed.",
+        "11. Click 'OK' to add the sound effect to the animation."
+    ],
+    "object": "Presentation1.pptx"
+}

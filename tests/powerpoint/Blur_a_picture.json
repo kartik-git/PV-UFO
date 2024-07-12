@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Blur a picture",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the picture you want to blur.",
+        "4. Click on the 'Format' tab.",
+        "5. Click on 'Artistic Effects'.",
+        "6. Click on 'Blur'."
+    ],
+    "object": "Presentation1.pptx"
+}

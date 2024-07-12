@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Insert a text box",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Go to the 'Insert' tab.",
+        "4. Click on 'Text Box'.",
+        "5. Draw the text box on the slide.",
+        "6. Enter text in the text box.",
+        "7. Format the text box as needed."
+    ],
+    "object": "Presentation1.pptx"
+}

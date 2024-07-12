@@ -1,1 +1,10 @@
-{}
+{
+    "task": "Go to a specific slide while presenting",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Start the presentation.",
+        "4. Press the slide number you want to go to on the keyboard and press 'Enter'."
+    ],
+    "object": "Presentation1.pptx"
+}

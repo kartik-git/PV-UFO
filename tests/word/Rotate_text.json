@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Rotate text",
+    "steps": [
+        "1. Open Word.",
+        "2. Open a document.",
+        "3. Select the text that you want to rotate.",
+        "4. Go to the 'Format' tab.",
+        "5. Click on 'Text Effects'.",
+        "6. Select 'Transform'.",
+        "7. Choose the rotation option."
+    ],
+    "object": "Document1.docx"
+}

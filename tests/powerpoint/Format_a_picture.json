@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Format a picture",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the slide where the picture is located.",
+        "4. Click on the picture to select it.",
+        "5. Go to the 'Format' tab.",
+        "6. Use the options in the 'Format' tab to format the picture as needed."
+    ],
+    "object": "Presentation1.pptx"
+}

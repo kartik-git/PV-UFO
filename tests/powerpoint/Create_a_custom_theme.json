@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Create a custom theme",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Click on the 'Design' tab.",
+        "3. Click on 'Themes'.",
+        "4. Click on 'Save Current Theme'.",
+        "5. In the 'File name' box, type a name for the theme.",
+        "6. Click on 'Save'."
+    ],
+    "object": "Presentation1.pptx"
+}

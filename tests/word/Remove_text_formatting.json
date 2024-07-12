@@ -1,1 +1,10 @@
-{}
+{
+    "task": "Remove text formatting",
+    "steps": [
+        "1. Open Word.",
+        "2. Open a document.",
+        "3. Select the text that you want to remove the formatting from.",
+        "4. Click on the 'Clear Formatting' button."
+    ],
+    "object": "Document1.docx"
+}

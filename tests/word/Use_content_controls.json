@@ -1,1 +1,15 @@
-{}
+{
+    "task": "Use content controls",
+    "steps": [
+        "1. Open Word.",
+        "2. Open a document.",
+        "3. Go to the 'Developer' tab.",
+        "4. Click on 'Design Mode'.",
+        "5. Click on 'Rich Text Content Control'.",
+        "6. Click on the document to insert the control.",
+        "7. Type some text.",
+        "8. Click on 'Design Mode' to exit.",
+        "9. Click on the control to edit the text."
+    ],
+    "object": "Document1.docx"
+}

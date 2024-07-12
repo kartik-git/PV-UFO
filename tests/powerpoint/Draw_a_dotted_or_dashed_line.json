@@ -1,1 +1,16 @@
-{}
+{
+    "task": "Draw a dotted or dashed line",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Go to the 'Insert' tab.",
+        "4. Click on 'Shapes'.",
+        "5. Select the 'Line' shape.",
+        "6. Draw the line on the slide.",
+        "7. Right-click on the line.",
+        "8. Click on 'Format Shape'.",
+        "9. In the 'Line' options, select 'Dotted' or 'Dashed'.",
+        "10. Close the 'Format Shape' pane."
+    ],
+    "object": "Presentation1.pptx"
+}

@@ -1,1 +1,9 @@
-{}
+{
+    "task": "Undo an action",
+    "steps": [
+        "1. Open Word.",
+        "2. Open a document.",
+        "3. Press 'Ctrl' + 'Z'."
+    ],
+    "object": "Document1.docx"
+}

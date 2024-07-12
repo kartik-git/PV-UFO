@@ -1,1 +1,16 @@
-{}
+{
+    "task": "Create a timeline on a slide",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the slide where you want to add the timeline.",
+        "4. Click on the 'Insert' tab.",
+        "5. Click on 'SmartArt'.",
+        "6. In the 'Choose a SmartArt Graphic' dialog box, click on 'Process'.",
+        "7. Click on 'Basic Timeline'.",
+        "8. Click on 'OK'.",
+        "9. Enter the timeline text.",
+        "10. Click on 'OK'."
+    ],
+    "object": "Presentation1.pptx"
+}

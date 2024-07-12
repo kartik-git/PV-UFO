@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Spell check isn't working",
+    "steps": [
+        "1. Open Word.",
+        "2. Open a document.",
+        "3. Go to the 'Review' tab.",
+        "4. Click on 'Spelling & Grammar'.",
+        "5. Click on 'Options'.",
+        "6. Make sure that the 'Check spelling as you type' and 'Mark grammar errors as you type' options are selected.",
+        "7. Click on 'OK'."
+    ],
+    "object": "Document1.docx"
+}

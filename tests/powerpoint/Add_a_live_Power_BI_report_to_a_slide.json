@@ -1,1 +1,15 @@
-{}
+{
+    "task": "Add a live Power BI report to a slide",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Go to the 'Insert' tab.",
+        "4. Click on 'Live Slides'.",
+        "5. Select 'Power BI'.",
+        "6. Sign in to your Power BI account.",
+        "7. Select the report you want to add.",
+        "8. Position the report on the slide.",
+        "9. Adjust the report settings as needed."
+    ],
+    "object": "Presentation1.pptx"
+}

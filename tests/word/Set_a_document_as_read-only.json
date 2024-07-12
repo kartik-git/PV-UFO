@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Set a document as read-only",
+    "steps": [
+        "1. Open Word.",
+        "2. Open a document.",
+        "3. Go to the 'File' tab.",
+        "4. Click on 'Info'.",
+        "5. Click on 'Protect Document'.",
+        "6. Select 'Mark as Final'."
+    ],
+    "object": "Document1.docx"
+}

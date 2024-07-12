@@ -1,1 +1,14 @@
-{}
+{
+    "task": "Add a sound effect to a transition",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Go to the 'Transitions' tab.",
+        "4. Select a slide transition.",
+        "5. Click on 'Sound'.",
+        "6. Choose a sound effect from the list.",
+        "7. Adjust the sound settings as needed.",
+        "8. Click 'Apply to All' or 'Apply' to add the sound effect to the transition."
+    ],
+    "object": "Presentation1.pptx"
+}

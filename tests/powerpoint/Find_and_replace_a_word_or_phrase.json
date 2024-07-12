@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Find and replace a word or phrase",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on 'Home'.",
+        "4. Click on 'Replace'.",
+        "5. Type the word or phrase you want to find.",
+        "6. Type the word or phrase you want to replace it with.",
+        "7. Click on 'Replace All'."
+    ],
+    "object": "Presentation1.pptx"
+}

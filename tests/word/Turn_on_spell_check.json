@@ -1,1 +1,11 @@
-{}
+{
+    "task": "Turn on spell check",
+    "steps": [
+        "1. Open Word.",
+        "2. Go to 'File' > 'Options'.",
+        "3. In the 'Word Options' dialog box, click on 'Proofing'.",
+        "4. Under 'When correcting spelling and grammar in Word', check the 'Check spelling as you type' option.",
+        "5. Click 'OK'."
+    ],
+    "object": "Document1.docx"
+}

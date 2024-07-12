@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Delete all speaker notes",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the 'View' tab.",
+        "4. Click on 'Notes Page'.",
+        "5. Click on 'Notes Master'.",
+        "6. Click on 'Delete All'.",
+        "7. Click on 'Close Master View'."
+    ],
+    "object": "Presentation1.pptx"
+}

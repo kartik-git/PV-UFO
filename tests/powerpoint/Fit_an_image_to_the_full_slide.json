@@ -1,1 +1,17 @@
-{}
+{
+    "task": "Fit an image to the full slide",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the slide where you want to insert the image.",
+        "4. Go to the 'Insert' tab.",
+        "5. Click on 'Pictures'.",
+        "6. Select the image you want to insert.",
+        "7. Click on 'Insert'.",
+        "8. Click on the image to select it.",
+        "9. Go to the 'Format' tab.",
+        "10. Click on 'Crop'.",
+        "11. Click on 'Fit'."
+    ],
+    "object": "Presentation1.pptx"
+}

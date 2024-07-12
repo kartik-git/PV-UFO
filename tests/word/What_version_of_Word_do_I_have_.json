@@ -1,1 +1,10 @@
-{}
+{
+    "task": "What version of Word do I have?",
+    "steps": [
+        "1. Open Word.",
+        "2. Go to 'File'.",
+        "3. Click on 'Account'.",
+        "4. Look for the version information."
+    ],
+    "object": "Document1.docx"
+}

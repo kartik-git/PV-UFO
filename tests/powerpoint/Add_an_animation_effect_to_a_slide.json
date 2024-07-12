@@ -1,1 +1,15 @@
-{}
+{
+    "task": "Add an animation effect to a slide",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Go to the 'Animations' tab.",
+        "4. Select the object on the slide that you want to animate.",
+        "5. Click on 'Add Animation' in the 'Animation' group.",
+        "6. Choose an animation effect from the gallery.",
+        "7. Adjust the animation options as needed.",
+        "8. Click 'Preview' to see the animation effect.",
+        "9. Click 'OK' to apply the animation effect to the object."
+    ],
+    "object": "Presentation1.pptx"
+}

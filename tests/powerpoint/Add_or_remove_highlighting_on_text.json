@@ -1,1 +1,14 @@
-{}
+{
+    "task": "Add or remove highlighting on text",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Select the text you want to highlight.",
+        "4. Go to the 'Home' tab.",
+        "5. Click on the 'Text Highlight Color' button.",
+        "6. Choose a highlight color from the dropdown menu.",
+        "7. To remove highlighting, select the highlighted text and click on the 'Text Highlight Color' button again.",
+        "8. Choose 'No Color' from the dropdown menu."
+    ],
+    "object": "Presentation1.pptx"
+}

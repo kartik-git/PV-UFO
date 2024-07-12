@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Bookmark a slide",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Go to the 'View' tab.",
+        "4. Click on 'Slide Sorter'.",
+        "5. Right-click on the slide you want to bookmark.",
+        "6. Click on 'Add Bookmark'."
+    ],
+    "object": "Presentation1.pptx"
+}

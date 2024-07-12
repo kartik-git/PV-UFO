@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Add a logo to slides",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Go to the 'Insert' tab.",
+        "4. Click on 'Pictures'.",
+        "5. Select the logo image file.",
+        "6. Position the logo on the slide.",
+        "7. Adjust the logo size as needed."
+    ],
+    "object": "Presentation1.pptx"
+}

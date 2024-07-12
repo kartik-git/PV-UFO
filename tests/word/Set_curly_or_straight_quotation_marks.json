@@ -1,1 +1,14 @@
-{}
+{
+    "task": "Set curly or straight quotation marks",
+    "steps": [
+        "1. Open Word.",
+        "2. Go to the 'File' tab.",
+        "3. Click on 'Options'.",
+        "4. Go to the 'Proofing' tab.",
+        "5. Click on 'AutoCorrect Options'.",
+        "6. Go to the 'AutoFormat As You Type' tab.",
+        "7. Check or uncheck 'Straight quotes' with 'smart quotes'.",
+        "8. Click on 'OK'."
+    ],
+    "object": "Word"
+}

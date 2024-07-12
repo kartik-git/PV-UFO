@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Include real-time captions while presenting a slide show",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Go to the 'Slide Show' tab.",
+        "4. Click on 'Present Online'.",
+        "5. Click on 'Use the Office Presentation Service'.",
+        "6. Click on 'Start Presentation'.",
+        "7. Click on 'Turn on Subtitles'."
+    ],
+    "object": "Presentation1.pptx"
+}

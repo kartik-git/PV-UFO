@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Change capitalization quickly",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Select the text you want to change.",
+        "4. Click on the 'Home' tab.",
+        "5. Click on 'Change Case'.",
+        "6. Select the capitalization you want.",
+        "7. Click on 'OK'."
+    ],
+    "object": "Presentation1.pptx"
+}

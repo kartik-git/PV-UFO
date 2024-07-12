@@ -1,1 +1,12 @@
-{}
+{
+    "task": "Add the Draw tab to the ribbon",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Go to 'File' > 'Options'.",
+        "3. In the 'PowerPoint Options' dialog box, click on 'Customize Ribbon'.",
+        "4. In the 'Customize the Ribbon' section, check the box next to 'Draw'.",
+        "5. Click 'OK'.",
+        "6. The 'Draw' tab should now be visible in the ribbon."
+    ],
+    "object": "Presentation1.pptx"
+}

@@ -1,1 +1,16 @@
-{}
+{
+    "task": "Find and insert clip art",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the slide where you want to insert clip art.",
+        "4. Click on 'Insert'.",
+        "5. Click on 'Pictures'.",
+        "6. Click on 'Online Pictures'.",
+        "7. Type a keyword in the search bar.",
+        "8. Press 'Enter'.",
+        "9. Click on the clip art you want to insert.",
+        "10. Click on 'Insert'."
+    ],
+    "object": "Presentation1.pptx"
+}

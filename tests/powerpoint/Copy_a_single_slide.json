@@ -1,1 +1,14 @@
-{}
+{
+    "task": "Copy a single slide",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Go to the 'View' tab.",
+        "4. Click on 'Slide Sorter'.",
+        "5. Right-click on the slide you want to copy.",
+        "6. Click on 'Copy'.",
+        "7. Right-click on the slide where you want to paste the copied slide.",
+        "8. Click on 'Paste'."
+    ],
+    "object": "Presentation1.pptx"
+}

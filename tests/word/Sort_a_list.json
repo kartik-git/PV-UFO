@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Sort a list",
+    "steps": [
+        "1. Open Word.",
+        "2. Open a document.",
+        "3. Select the list that you want to sort.",
+        "4. Go to the 'Home' tab.",
+        "5. Click on 'Sort'.",
+        "6. Choose the sorting order that you want.",
+        "7. Click 'OK'."
+    ],
+    "object": "Document1.docx"
+}

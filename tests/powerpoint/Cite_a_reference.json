@@ -1,1 +1,13 @@
-{}
+{
+    "task": "Cite a reference",
+    "steps": [
+        "1. Open PowerPoint.",
+        "2. Open a presentation.",
+        "3. Click on the 'References' tab.",
+        "4. Click on 'Citations & Bibliography'.",
+        "5. Click on 'Insert Citation'.",
+        "6. Choose a citation style.",
+        "7. Click on 'OK'."
+    ],
+    "object": "Presentation1.pptx"
+}
